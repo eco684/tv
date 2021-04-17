@@ -1,11 +1,11 @@
-﻿{
+{
   "data": [
     {
-      "name": "神馬高清(新增)",
+      "name": "神马高清(新增)",
       "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p3728.jpg",
       "type": "webPlug",
-      "subTitle": "高清有篩選(菜單鍵或上下鍵選集)",
-      "subMobileTitle": "高清有篩選",
+      "subTitle": "高清有筛选(菜单键或上下键选集)",
+      "subMobileTitle": "高清有筛选",
       "ads": "",
       "webUrl": "https://www.shenma4480.com",
       "webOpen": false,
@@ -14,7 +14,7 @@
         "search_url": "https://www.shenma4480.com/search/-------------.html?wd=",
         "nav_url": "https://www.shenma4480.com/type/navCate-navPage/",
         "cate_url": "https://www.shenma4480.com/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-        "web_name": "神馬高清",
+        "web_name": "神马高清",
         "kw": "wd",
         "params": [
           {
@@ -24,10 +24,10 @@
         ],
         "navHtml": {
           "name": [
-            "電影",
-            "連續劇",
-            "動漫",
-            "綜藝"
+            "电影",
+            "连续剧",
+            "动漫",
+            "综艺"
           ],
           "cate": [
             "dianying",
@@ -119,11 +119,11 @@
       }
     },
     {
-      "name": "藍光高清(新增部分沒法看)",
+      "name": "蓝光高清(新增部分没法看)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "type": "webPlug",
-      "subTitle": "高清速度快無篩選(菜單鍵或上下鍵選集)",
-      "subMobileTitle": "高清速度快無篩選",
+      "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
+      "subMobileTitle": "高清速度快无筛选",
       "ads": "",
       "webUrl": "https://www.hanmiys.com",
       "webOpen": false,
@@ -132,7 +132,7 @@
         "search_url": "https://www.hanmiys.com/vodsearch/-------------.html?wd={kw}",
         "nav_url": "https://www.hanmiys.com/vodshow/navCate--------navPage---.html",
         "cate_url": "https://www.hanmiys.com/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-        "web_name": "藍光高清",
+        "web_name": "蓝光高清",
         "kw": "wd",
         "params": [
           {
@@ -142,10 +142,10 @@
         ],
         "navHtml": {
           "name": [
-            "電影",
-            "電視劇",
-            "綜藝",
-            "動漫"
+            "电影",
+            "电视剧",
+            "综艺",
+            "动漫"
           ],
           "cate": [
             "1",
@@ -237,11 +237,11 @@
       }
     },
     {
-      "name": "泡飯影視(新增無法搜索)",
+      "name": "泡饭影视(新增无法搜索)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "type": "webPlug",
-      "subTitle": "高清速度快無篩選(菜單鍵或上下鍵選集)",
-      "subMobileTitle": "高清速度快無篩選",
+      "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
+      "subMobileTitle": "高清速度快无筛选",
       "ads": "",
       "webUrl": "https://www.paofans.com",
       "webOpen": false,
@@ -250,7 +250,7 @@
         "search_url": "https://www.paofans.com/show/-------------.html?wd={kw}",
         "nav_url": "https://www.paofans.com/show/navCate--------navPage---.html",
         "cate_url": "https://www.paofans.com/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-        "web_name": "藍光高清",
+        "web_name": "蓝光高清",
         "kw": "wd",
         "params": [
           {
@@ -260,11 +260,11 @@
         ],
         "navHtml": {
           "name": [
-            "抖音電影",
-            "電影",
-            "電視劇",
-            "綜藝",
-            "動漫"
+            "抖音电影",
+            "电影",
+            "电视剧",
+            "综艺",
+            "动漫"
           ],
           "cate": [
             "36",
@@ -357,11 +357,11 @@
       }
     },
     {
-      "name": "宅看影視",
+      "name": "宅看影视",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "type": "webPlug",
-      "subTitle": "高清速度快無篩選(菜單鍵或上下鍵選集)",
-      "subMobileTitle": "高清速度快無篩選",
+      "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
+      "subMobileTitle": "高清速度快无筛选",
       "ads": "",
       "webUrl": "https://www.zhaikanys.com",
       "webOpen": false,
@@ -370,7 +370,7 @@
         "search_url": "https://www.zhaikanys.com/vodsearch/-------------.html?wd={kw}",
         "nav_url": "https://www.zhaikanys.com/vodshow/navCate--------navPage---.html",
         "cate_url": "https://www.zhaikanys.com/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-        "web_name": "宅看影視",
+        "web_name": "宅看影视",
         "kw": "wd",
         "params": [
           {
@@ -380,10 +380,10 @@
         ],
         "navHtml": {
           "name": [
-            "電影",
-            "電視劇",
-            "動漫",
-            "綜藝"
+            "电影",
+            "电视剧",
+            "动漫",
+            "综艺"
           ],
           "cate": [
             "1",
@@ -475,11 +475,11 @@
       }
     },
     {
-      "name": "一隻魚(藍光高清)",
+      "name": "一只鱼(蓝光高清)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "type": "webPlug",
-      "subTitle": "高清速度快無篩選(菜單鍵或上下鍵選集)",
-      "subMobileTitle": "高清速度快無篩選",
+      "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
+      "subMobileTitle": "高清速度快无筛选",
       "ads": "",
       "webUrl": "https://www.4kyu.cc",
       "webOpen": false,
@@ -488,7 +488,7 @@
         "search_url": "https://www.zhaikanys.com/vodsearch/-------------.html?wd={kw}",
         "nav_url": "https://www.4kyu.cc/vodshow/navCate--------navPage---.html",
         "cate_url": "https://www.4kyu.cc/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-        "web_name": "一隻魚",
+        "web_name": "一只鱼",
         "kw": "wd",
         "params": [
           {
@@ -499,14 +499,14 @@
         "navHtml": {
           "name": [
             "全部",
-            "藍光電影",
-            "藍光紀錄片",
-            "藍光影視",
-            "藍光港台",
-            "藍光英美",
-            "藍光日韓",
-            "藍光動漫",
-            "藍光綜藝"
+            "蓝光电影",
+            "蓝光纪录片",
+            "蓝光影视",
+            "蓝光港台",
+            "蓝光英美",
+            "蓝光日韩",
+            "蓝光动漫",
+            "蓝光综艺"
           ],
           "cate": [
             "23",
@@ -603,11 +603,11 @@
       }
     },
     {
-      "name": "逗號影視(已修復)",
+      "name": "逗号影视(已修复)",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2446.jpg",
       "type": "webPlug",
-      "subTitle": "高清無篩選(菜單鍵或上下鍵選集)",
-      "subMobileTitle": "高清無篩選",
+      "subTitle": "高清无筛选(菜单键或上下键选集)",
+      "subMobileTitle": "高清无筛选",
       "ads": "",
       "webUrl": "https://www.dhfun.cn",
       "webOpen": false,
@@ -616,7 +616,7 @@
         "search_url": "https://www.dhfun.cn/search.php?searchword={kw}",
         "nav_url": "https://www.dhfun.cn/list/navCate-navPage.html",
         "cate_url": "http://www.ameiju.net/vodshow/cateNav-cateArea--cateCate--catePage--cateYear.html",
-        "web_name": "逗號影視",
+        "web_name": "逗号影视",
         "kw": "wd",
         "params": [
           {
@@ -626,19 +626,19 @@
         ],
         "navHtml": {
           "name": [
-            "動作電影",
-            "喜劇電影",
-            "劇情電影",
-            "愛情電影",
-            "恐怖電影",
-            "科幻電影",
-            "戰爭電影",
-            "動畫電影",
-            "國產劇",
-            "韓劇",
-            "美劇",
-            "日劇",
-            "動漫"
+            "动作电影",
+            "喜剧电影",
+            "剧情电影",
+            "爱情电影",
+            "恐怖电影",
+            "科幻电影",
+            "战争电影",
+            "动画电影",
+            "国产剧",
+            "韩剧",
+            "美剧",
+            "日剧",
+            "动漫"
           ],
           "cate": [
             "9",
@@ -739,11 +739,11 @@
       }
     },
     {
-      "name": "9億看看(無法搜)",
+      "name": "9亿看看(无法搜)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
       "type": "webPlug",
-      "subTitle": "清晰1080P/4K最高60幀",
-      "subMobileTitle": "清晰1080P/4K最高60幀",
+      "subTitle": "清晰1080P/4K最高60帧",
+      "subMobileTitle": "清晰1080P/4K最高60帧",
       "ads": "",
       "webUrl": "http://www.9ekk.com",
       "webOpen": false,
@@ -752,7 +752,7 @@
         "search_url": "http://www.dmdm2020.com/dongmansearch.html?wd={kw}",
         "nav_url": "http://www.9ekk.com/vodshow/navCate/page/navPage",
         "cate_url": "http://9ekk.com/vodshow/cateNav/area/cateArea/page/catePage/year/cateYear/class/cateCate",
-        "web_name": "9億看看",
+        "web_name": "9亿看看",
         "kw": "wd",
         "params": [
           {
@@ -762,11 +762,11 @@
         ],
         "navHtml": {
           "name": [
-            "國語配音",
-            "熱播電影",
-            "熱播電視",
-            "熱播美劇",
-            "國配外劇"
+            "国语配音",
+            "热播电影",
+            "热播电视",
+            "热播美剧",
+            "国配外剧"
           ],
           "cate": [
             "gypy",
@@ -858,11 +858,11 @@
       }
     },
     {
-      "name": "4K資源(不保證全能放)",
+      "name": "4K资源(不保证全能放)",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2636.jpg",
       "type": "webPlug",
-      "subTitle": "高清有篩選",
-      "subMobileTitle": "質量非常之高",
+      "subTitle": "高清有筛选",
+      "subMobileTitle": "质量非常之高",
       "ads": "",
       "webUrl": "https://4kya.com",
       "webOpen": false,
@@ -871,7 +871,7 @@
         "search_url": "https://4kya.com/index.php/vod/search/wd/{kw}.html",
         "nav_url": "https://4kya.com/index.php/vod/show/id/navCate/page/navPage.html",
         "cate_url": "https://cokemv.cn/index.php/vod/show/id/cateNav/page/catePage/year/cateYear.html",
-        "web_name": "4K資源(",
+        "web_name": "4K资源(",
         "kw": "wd",
         "params": [
           {
@@ -881,17 +881,17 @@
         ],
         "navHtml": {
           "name": [
-            "電影",
-            "動作片",
-            "喜劇片",
-            "愛情片",
+            "电影",
+            "动作片",
+            "喜剧片",
+            "爱情片",
             "科幻片",
             "恐怖片",
-            "電視劇",
-            "國產劇",
-            "日韓劇",
-            "歐美劇",
-            "動漫"
+            "电视剧",
+            "国产剧",
+            "日韩剧",
+            "欧美剧",
+            "动漫"
           ],
           "cate": [
             "1",
@@ -990,11 +990,11 @@
       }
     },
     {
-      "name": "94神馬",
+      "name": "94神马",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
       "type": "webPlug",
-      "subTitle": "高清無篩選(菜單鍵或上下鍵選集)",
-      "subMobileTitle": "高清無篩選",
+      "subTitle": "高清无筛选(菜单键或上下键选集)",
+      "subMobileTitle": "高清无筛选",
       "ads": "",
       "webUrl": "http://www.9rmb.com",
       "webOpen": false,
@@ -1003,7 +1003,7 @@
         "search_url": "http://www.9rmb.com/search?wd={kw}",
         "nav_url": "http://www.9rmb.com/type/navCate/navPage.html",
         "cate_url": "http://1090ys1.com/whole/cateNav_cateArea_cateCate__cateYear___0_id_catePage.html",
-        "web_name": "94神馬",
+        "web_name": "94神马",
         "kw": "wd",
         "params": [
           {
@@ -1013,10 +1013,10 @@
         ],
         "navHtml": {
           "name": [
-            "電影",
-            "電視劇",
-            "動漫",
-            "綜藝"
+            "电影",
+            "电视剧",
+            "动漫",
+            "综艺"
           ],
           "cate": [
             "1",
@@ -1108,11 +1108,11 @@
       }
     },
     {
-      "name": "8號影院",
+      "name": "8号影院",
       "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p2969.jpg",
       "type": "webPlug",
-      "subTitle": "高清無篩選(菜單鍵或上下鍵選集)",
-      "subMobileTitle": "高清無篩選",
+      "subTitle": "高清无筛选(菜单键或上下键选集)",
+      "subMobileTitle": "高清无筛选",
       "ads": "",
       "webUrl": "http://8hyy.cc",
       "webOpen": false,
@@ -1121,7 +1121,7 @@
         "search_url": "http://8hyy.cc/search.php?searchword={kw}",
         "nav_url": "http://8hyy.cc/frim/navCate-navPage.html",
         "cate_url": "https://www.7xiady.cc/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-        "web_name": "8號影院",
+        "web_name": "8号影院",
         "kw": "wd",
         "params": [
           {
@@ -1131,10 +1131,10 @@
         ],
         "navHtml": {
           "name": [
-            "電影",
-            "連續劇",
-            "動漫",
-            "綜藝"
+            "电影",
+            "连续剧",
+            "动漫",
+            "综艺"
           ],
           "cate": [
             "1",
@@ -1148,9 +1148,9 @@
           "isCate": false,
           "isYear": false,
           "isArea": false,
-          "cate": "全部,&&動作,動作&&劇情,劇情&&喜劇,喜劇&&愛情,愛情&&科幻,科幻&&驚悚,驚悚&&恐怖,恐怖&&懸疑,懸疑&&奇幻,奇幻&&歷史,歷史&&犯罪,犯罪&&動畫,動畫&&喪屍,喪屍&&幻想,幻想&&戰爭,戰爭&&暴力,暴力&&古裝,古裝&&武俠,武俠&&災難,災難",
+          "cate": "全部,&&动作,动作&&剧情,剧情&&喜剧,喜剧&&爱情,爱情&&科幻,科幻&&惊悚,惊悚&&恐怖,恐怖&&悬疑,悬疑&&奇幻,奇幻&&历史,历史&&犯罪,犯罪&&动画,动画&&丧尸,丧尸&&幻想,幻想&&战争,战争&&暴力,暴力&&古装,古装&&武侠,武侠&&灾难,灾难",
           "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
-          "area": "全部,&&大陸,大陸&&香港,香港&&台灣,台灣&&美國,美國&&法國,法國&&英國,英國&&日本,日本&&韓國,韓國&&印度,印度&&德國,德國&&泰國,泰國&&其他,其他"
+          "area": "全部,&&大陆,大陆&&香港,香港&&台湾,台湾&&美国,美国&&法国,法国&&英国,英国&&日本,日本&&韩国,韩国&&印度,印度&&德国,德国&&泰国,泰国&&其他,其他"
         },
         "html": {
           "episodes": {
@@ -1267,7 +1267,7 @@
       }
     },
     {
-      "name": "簡影(網址播放)",
+      "name": "简影(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://tv.syrme.top/",
@@ -1275,7 +1275,7 @@
       "click": true
     },
     {
-      "name": "555電影(網址播放)",
+      "name": "555电影(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://www.o8tv.com/",
@@ -1284,7 +1284,7 @@
     },
 
     {
-      "name": "大師兄(網址播放)",
+      "name": "大师兄(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://zz.ci/",
@@ -1292,7 +1292,7 @@
       "click": true
     },
     {
-      "name": "VIP.SB(網址播放)",
+      "name": "VIP.SB(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://bukaivip.com/",
@@ -1300,7 +1300,7 @@
       "click": true
     },
     {
-      "name": "嘀哩影視(網址播放)",
+      "name": "嘀哩影视(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "http://diliktv.com/",
@@ -1309,7 +1309,7 @@
     },
 
     {
-      "name": "極速影視(網址播放)",
+      "name": "极速影视(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "http://www.flvweb.com/",
@@ -1317,7 +1317,7 @@
       "click": true
     },
     {
-      "name": "長資源(網址播放)",
+      "name": "长资源(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://www.qianoo.cn/",
@@ -1325,7 +1325,7 @@
       "click": true
     },
     {
-      "name": "韓影迷(網址播放)",
+      "name": "韩影迷(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://hanmiys.com/",
@@ -1334,7 +1334,7 @@
     },
 
     {
-      "name": "低端影視(網址播放)",
+      "name": "低端影视(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://ddrk.me/",
@@ -1343,7 +1343,7 @@
     },
 
     {
-      "name": "泡飯影視(網址播放)",
+      "name": "泡饭影视(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://www.paofans.com",
@@ -1351,7 +1351,7 @@
       "click": true
     },
     {
-      "name": "宅看影視(網址播放)",
+      "name": "宅看影视(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://www.zhaikanys.com",
@@ -1359,7 +1359,7 @@
       "click": true
     },
     {
-      "name": "TV雲播(網址播放)",
+      "name": "TV云播(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://www.hktvyb.com/",
@@ -1367,7 +1367,7 @@
       "click": true
     },
     {
-      "name": "一隻魚(網址播放)",
+      "name": "一只鱼(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://www.4kyu.cc",
@@ -1375,7 +1375,7 @@
       "click": true
     },
     {
-      "name": "COKEMV影視((網址播放)",
+      "name": "COKEMV影视((网址播放)",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2636.jpg",
       "ads": "",
       "webUrl": "https://cokemv.cn",
@@ -1385,7 +1385,7 @@
 
 
     {
-      "name": "94神馬(網址播放)",
+      "name": "94神马(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
       "ads": "",
       "webUrl": "http://www.9rmb.com",
@@ -1393,7 +1393,7 @@
       "click": true
     },
     {
-      "name": "4K資源(網址播放)",
+      "name": "4K资源(网址播放)",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2636.jpg",
       "ads": "",
       "webUrl": "https://4kya.com",
@@ -1401,7 +1401,7 @@
       "click": true
     },
     {
-      "name": "哆咪動漫(網址播放)",
+      "name": "哆咪动漫(网址播放)",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2636.jpg",
       "ads": "",
       "webUrl": "http://www.dmdm2020.com",
@@ -1409,7 +1409,7 @@
       "click": true
     },
     {
-      "name": "8號影院(網址播放)",
+      "name": "8号影院(网址播放)",
       "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p2969.jpg",
       "ads": "",
       "webUrl": "http://8hyy.cc",
@@ -1417,7 +1417,7 @@
       "click": true
     },
     {
-      "name": "奈飛影視(網址播放)",
+      "name": "奈飞影视(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://www.nfstar.net",
@@ -1426,7 +1426,7 @@
     },
 
     {
-      "name": "西瓜視頻(網址播放)",
+      "name": "西瓜视频(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://www.ixigua.com/",
@@ -1434,7 +1434,7 @@
       "click": true
     },
     {
-      "name": "南瓜資源(網址播放)",
+      "name": "南瓜资源(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "http://www.nangua55.com/",
@@ -1442,7 +1442,7 @@
       "click": true
     },
     {
-      "name": "歐亞影視(網址播放)",
+      "name": "欧亚影视(网址播放)",
       "pic": "https://imgo.114shouji.com/data/attachment/forum/201901/28/204153f6w0t3wmbjiwrvhi.jpg",
       "ads": "",
       "webUrl": "https://www.oy37.com",
@@ -1452,7 +1452,7 @@
 
 
     {
-      "name": "奇俠高清(網址播放)",
+      "name": "奇侠高清(网址播放)",
       "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p3728.jpg",
       "ads": "",
       "webUrl": "https://www.7xiady.cc",
@@ -1460,7 +1460,7 @@
       "click": true
     },
     {
-      "name": "1080(網址播放)",
+      "name": "1080(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4220.jpg",
       "ads": "",
       "webUrl": "https://www.k1080.net",
@@ -1468,7 +1468,7 @@
       "click": true
     },
     {
-      "name": "奈菲影視(網址播放)",
+      "name": "奈菲影视(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://www.nfmovies.com",
@@ -1478,7 +1478,7 @@
 
 
     {
-      "name": "真不卡(網址播放)",
+      "name": "真不卡(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://www.zhenbuka.com",
@@ -1487,7 +1487,7 @@
     },
 
     {
-      "name": "烏龜影院(網址播放)",
+      "name": "乌龟影院(网址播放)",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2446.jpg",
       "ads": "",
       "webUrl": "https://www.wuguiyy.com/",
@@ -1495,7 +1495,7 @@
       "click": true
     },
     {
-      "name": "阿房影視(網址播放)",
+      "name": "阿房影视(网址播放)",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2446.jpg",
       "ads": "",
       "webUrl": "https://bwl87.com/",
@@ -1504,7 +1504,7 @@
     },
 
     {
-      "name": "捏他(網址播放)",
+      "name": "捏他(网址播放)",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2446.jpg",
       "ads": "",
       "webUrl": "http://www.nieta.co/",
@@ -1512,7 +1512,7 @@
       "click": true
     },
     {
-      "name": "zzzfun小屋(網址播放)",
+      "name": "zzzfun小屋(网址播放)",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2446.jpg",
       "ads": "",
       "webUrl": "http://www.zzzfun.com/",
@@ -1521,7 +1521,7 @@
     },
 
     {
-      "name": "櫻花動漫(網址播放)",
+      "name": "樱花动漫(网址播放)",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2446.jpg",
       "ads": "",
       "webUrl": "https://www.agefans.net/",
@@ -1529,7 +1529,7 @@
       "click": true
     },
     {
-      "name": "哆咪動漫",
+      "name": "哆咪动漫",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2636.jpg",
       "ads": "",
       "webUrl": "http://www.dmdm2020.com",
@@ -1537,7 +1537,7 @@
       "click": true
     },
     {
-      "name": "嗶哩嗶哩影音館",
+      "name": "哔哩哔哩影音馆",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://live.bilibili.com/p/eden/area-tags?visit_id=c6opq06jels0&areaId=33&parentAreaId=10",
@@ -1553,7 +1553,7 @@
       "click": false
     },
     {
-      "name": "鬥魚一起看",
+      "name": "斗鱼一起看",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://www.douyu.com/g_yqk",
@@ -1561,7 +1561,7 @@
       "click": false
     },
     {
-      "name": "測試正規站",
+      "name": "测试正规站",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://www.iqiyi.com/",
@@ -1569,7 +1569,7 @@
       "click": true
     },
     {
-      "name": "測試正規站",
+      "name": "测试正规站",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://www.youku.com/",
@@ -1577,7 +1577,7 @@
       "click": true
     },
     {
-      "name": "測試正規站",
+      "name": "测试正规站",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://v.qq.com/",
@@ -1593,7 +1593,7 @@
       "click": true
     },
     {
-      "name": "企鵝電競一起看",
+      "name": "企鹅电竞一起看",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
       "webUrl": "https://egame.qq.com/livelist?layoutid=2000000110&tagId=0&tagIdStr=",
