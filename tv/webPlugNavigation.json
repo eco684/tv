@@ -2,173 +2,20 @@
 {
   "data": [
     {
-      "name": "94神馬",
-      "pic": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fphotocdn.sohu.com%2F20110919%2FImg319824066.jpg&refer=http%3A%2F%2Fphotocdn.sohu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1611912398&t=4d8dabf8492fd6ff844881dc2760b21e",
-      "type": "webPlug",
-      "subTitle": "高清無篩選(菜單鍵或上下鍵選集)",
-      "subMobileTitle": "高清無篩選",
-      "click": true,
-      "webPlus": {
-        "search_url": "http://www.9rmb.com/search?wd={kw}",
-        "nav_url": "http://www.9rmb.com/type/navCate/navPage.html",
-        "cate_url": "http://1090ys1.com/whole/cateNav_cateArea_cateCate__cateYear___0_id_catePage.html",
-        "web_name": "94神馬影視",
-        "kw": "wd",
-        "params": [
-          {
-            "key": "key",
-            "value": "value"
-          }
-        ],
-        "navHtml": {
-          "name": [
-            "電影",
-            "電視劇",
-            "動漫",
-            "綜藝"
-          ],
-          "cate": [
-            "1",
-            "2",
-            "7",
-            "4"
-          ],
-          "page": "1"
-        },
-        "cateHtml": {
-          "isCate": false,
-          "isYear": false,
-          "isArea": false,
-          "cate": "全部,&&動作,動作&&劇情,劇情&&喜劇,喜劇&&愛情,愛情&&科幻,科幻&&驚悚,驚悚&&恐怖,恐怖&&懸疑,懸疑&&冒險,冒險&&魔幻,魔幻&&奇幻,奇幻&&歷史,歷史&&犯罪,犯罪&&動畫,動畫&&偶像,偶像&&記錄,記錄&&青春,青春&&喪屍,喪屍&&幻想,幻想&&戰爭,戰爭&&西部,西部&&通話,通話&&暴力,暴力&&古裝,古裝&&武俠,武俠&&災難,災難&&諜戰,諜戰&&生活,生活&&諷刺,諷刺&&同性,同性&&傳記,傳記&&槍戰,槍戰",
-          "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
-          "area": "全部,&&中國大陸,中國大陸&&中國香港,中國香港&&中國台灣,中國台灣&&美國,美國&&法國,法國&&英國,英國&&日本,日本&&韓國,韓國&&印度,印度&&德國,德國&&泰國,泰國&&其他,其他"
-        },
-        "html": {
-          "episodes": {
-            "hasUrlPrefix": false,
-            "isListItemAttr": true,
-            "isReg": false,
-            "isRegNeedDecoder": false,
-            "listCss": "ul > li",
-            "isMultiList": false,
-            "listCssMulti": "",
-            "listItemAttr": "href",
-            "listItemCss": "a",
-            "listItemIndex": 0,
-            "mainCss": "div.panel.panel-default.resource-list",
-            "mainIndex": 0,
-            "regIndexList": [
-              0
-            ],
-            "regItemIndex": 0,
-            "regItemStr": "",
-            "regSplitList": [
-              ""
-            ],
-            "regStrList": [
-              ""
-            ]
-          },
-          "nav": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "button.hdtag",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": false,
-            "imgAttr": "src",
-            "imgCss": "img",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "div.row",
-            "mainListIndex": 1,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "div.col-md-1-5 > div.movie-item",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "search": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "button.hdtag",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": false,
-            "imgAttr": "src",
-            "imgCss": "img",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "div.row",
-            "mainListIndex": 1,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "div.col-md-1-5 > div.movie-item",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "video": {
-            "episodesListCss": "",
-            "episodesMainCss": "",
-            "episodesMainIndex": 0,
-            "hasEpisodes": false,
-            "hasUrlPrefix": false,
-            "iframeAttr": "src",
-            "iframeIndex": 0,
-            "isFrame": true,
-            "isFrameProcess": false,
-            "isItemAttr": false,
-            "isNameAttr": false,
-            "isReg": true,
-            "isUrlAttr": false,
-            "itemAttr": "",
-            "itemCss": "script",
-            "itemIndex": 2,
-            "mainCss": "body",
-            "mainIndex": 0,
-            "nameAttr": "",
-            "nameCss": "",
-            "nameIndex": 0,
-            "regIndex": 0,
-            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
-            "title": "",
-            "urlAttr": "",
-            "urlCss": "",
-            "urlIndex": 0,
-            "videoCss": "",
-            "videoIndex": 1,
-            "isVideoUrlAttr": true,
-            "videoUrlAttr": "",
-            "isFromWebView": false,
-            "js": ""
-          }
-        }
-      }
-    },
-    {
-      "name": "暮光",
+      "name": "劇迷TV",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "type": "webPlug",
-      "subTitle": "高清速度快有篩選(菜單鍵或上下鍵選集)",
-      "subMobileTitle": "高清速度快有篩選",
-      "click": false,
+      "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
+      "subMobileTitle": "高清速度快无筛选",
+      "ads": "",
+      "webUrl": "https://jumi.tv/",
+      "webOpen": false,
+      "click": true,
       "webPlus": {
-        "search_url": "https://www.muguangys.com/vodsearch2/-------------.html?wd=",
-        "nav_url": "https://www.muguangys.com/vodtype/navCate-navPage.dhtml",
-        "cate_url": "https://www.muguangys.com/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-        "web_name": "暮光影視",
+        "search_url": "https://jumi.tv/search/wd/{kw}.html",
+        "nav_url": "https://www.4kyu.cc/vodshow/navCate--------navPage---.html",
+        "cate_url": "https://www.4kyu.cc/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "web_name": "劇迷TV",
         "kw": "wd",
         "params": [
           {
@@ -178,40 +25,33 @@
         ],
         "navHtml": {
           "name": [
-            "電影",
-            "電視劇",
-            "動漫",
-            "綜藝"
+            "陸劇",
+            "港劇",
+            "台劇",
+            "日劇",
           ],
           "cate": [
-            "1",
-            "2",
-            "4",
-            "3"
+            "13",
+            "14",
+            "22",
+            "15",
           ],
           "page": "1"
         },
-        "cateHtml": {
-          "isCate": true,
-          "isYear": true,
-          "isArea": true,
-          "cate": "全部,&&動作,動作&&劇情,劇情&&喜劇,喜劇&&愛情,愛情&&科幻,科幻&&驚悚,驚悚&&恐怖,恐怖&&懸疑,懸疑&&奇幻,奇幻&&歷史,歷史&&犯罪,犯罪&&動畫,動畫&&喪屍,喪屍&&幻想,幻想&&戰爭,戰爭&&暴力,暴力&&古裝,古裝&&武俠,武俠&&災難,災難",
-          "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
-          "area": "全部,&&大陸,大陸&&香港,香港&&台灣,台灣&&美國,美國&&法國,法國&&英國,英國&&日本,日本&&韓國,韓國&&印度,印度&&德國,德國&&泰國,泰國&&其他,其他"
-        },
+        "cateHtml": {},
         "html": {
           "episodes": {
             "hasUrlPrefix": false,
             "isListItemAttr": true,
             "isReg": false,
             "isRegNeedDecoder": false,
-            "listCss": "ul > li",
+            "listCss": "li",
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div#playlist1",
+            "mainCss": "ul.myui-content__list.sort-list.clearfix",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -238,13 +78,13 @@
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
-            "isNameAttr": true,
+            "isNameAttr": false,
             "isUrlAttr": true,
             "mainCss": "ul.myui-vodlist.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
-            "nameIndex": 0,
+            "nameIndex": 1,
             "searchListCss": "li",
             "urlAttr": "href",
             "urlCss": "a",
@@ -254,8 +94,9 @@
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "div.detail",
+            "descCss": "span.pic-text.text-right",
             "descIndex": 0,
+            "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
             "imgCss": "a",
@@ -264,51 +105,145 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.stui-pannel_bd",
+            "mainCss": "ul.myui-vodlist__media.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "ul > li",
+            "searchListCss": "li",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
           },
-          "video": {
-            "episodesListCss": "",
-            "episodesMainCss": "",
-            "episodesMainIndex": 0,
-            "hasEpisodes": false,
-            "hasUrlPrefix": false,
-            "iframeAttr": "src",
-            "iframeIndex": 0,
-            "isFrame": true,
-            "isFrameProcess": false,
-            "isItemAttr": false,
-            "isNameAttr": false,
-            "isReg": true,
-            "isUrlAttr": false,
-            "itemAttr": "",
-            "itemCss": "script",
-            "itemIndex": 2,
-            "mainCss": "body",
-            "mainIndex": 0,
-            "nameAttr": "",
-            "nameCss": "",
-            "nameIndex": 0,
-            "regIndex": 0,
-            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
-            "title": "",
-            "urlAttr": "",
-            "urlCss": "",
-            "urlIndex": 0,
-            "videoCss": "",
-            "videoIndex": 1,
-            "isVideoUrlAttr": true,
-            "videoUrlAttr": "",
-            "isFromWebView": false,
-            "js": ""
+          "video": {}
+        }
+      }
+    },
+    {
+      "name": "一只鱼(蓝光高清)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "type": "webPlug",
+      "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
+      "subMobileTitle": "高清速度快无筛选",
+      "ads": "",
+      "webUrl": "https://www.4kyu.cc",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "https://www.zhaikanys.com/vodsearch/-------------.html?wd={kw}",
+        "nav_url": "https://www.4kyu.cc/vodshow/navCate--------navPage---.html",
+        "cate_url": "https://www.4kyu.cc/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "web_name": "一只鱼",
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
           }
+        ],
+        "navHtml": {
+          "name": [
+            "全部",
+            "蓝光电影",
+            "蓝光纪录片",
+            "蓝光影视",
+            "蓝光港台",
+            "蓝光英美",
+            "蓝光日韩",
+            "蓝光动漫",
+            "蓝光综艺"
+          ],
+          "cate": [
+            "23",
+            "24",
+            "31",
+            "25",
+            "79",
+            "81",
+            "80",
+            "26",
+            "33"
+          ],
+          "page": "1"
+        },
+        "cateHtml": {},
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "li",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "ul.myui-content__list.sort-list.clearfix",
+            "mainIndex": 0,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.pic-text.text-right",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": false,
+            "isUrlAttr": true,
+            "mainCss": "ul.myui-vodlist.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 1,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.pic-text.text-right",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.myui-vodlist__media.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "video": {}
         }
       }
     },
