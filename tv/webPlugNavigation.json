@@ -581,8 +581,8 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.jpysvip.net/vodsearch/{kw}-------------.html",
-        "nav_url": "https://www.jpysvip.net/vodshow/navCate-navPage.html",
-        "cate_url": "https://www.jpysvip.net/vodshow/cateNav/page/catePage/year/cateYear.html",
+        "nav_url": "https://www.jpysvip.net/vodtype/navCate-navPage.html",
+        "cate_url": "https://www.jpysvip.net/vodtype/cateNav/page/catePage/year/cateYear.html",
         "web_name": "極品影視",
         "kw": "wd",
         "params": [
@@ -742,8 +742,8 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.haimianys.com/index.php/vod/search/wd/{kw}.html",
-        "nav_url": "https://www.haimianys.com/index.php/vod/type/id/navCate-navPage.html",
-        "cate_url": "https://www.haimianys.com/index.php/vod/type/id/cateNav/page/catePage/year/cateYear.html",
+        "nav_url": "https://www.haimianys.com/index.php/vod/type/id/navCate--------navPage---.html",
+        "cate_url": "https://www.haimianys.com/index.php/vod/type/id/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "海綿影視",
         "kw": "wd",
         "params": [
