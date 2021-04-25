@@ -1,9 +1,9 @@
-{
+﻿{
   "data": [
     {
-      "name": "封神演義2019",
-      "pic": "https://xh-img-pullzone-888.b-cdn.net/25970952.jpg",
-      "url": "https://github.com/eco684/tv/raw/main/tv/封神演義2019.txt",
+      "name": "連續劇S1",
+      "pic": "http://www.eco684.yabi.me/jpg/s1.jpg",
+      "url": "http://www.eco684.yabi.me/txt/s1.txt",
       "type": "txt",
       "subTitle": "讀檔整理中",
       "click": true,
@@ -12,9 +12,9 @@
       "webPlus": {}
     },
     {
-      "name": "理智派生活",
-      "pic": "https://pub.gboku.com/upload/vod/20210327-1/fd707118e7bc6f7fc697f3a8a52f70f5.jpg",
-      "url": "https://github.com/eco684/tv/理智派生活txt",
+      "name": "連續劇S2",
+      "pic": "http://www.eco684.yabi.me/jpg/s2.jpg",
+      "url": "http://www.eco684.yabi.me/txt/s2.txt",
       "type": "txt",
       "subTitle": "讀檔整理中",
       "click": true,
@@ -23,9 +23,86 @@
       "webPlus": {}
     },
     {
-      "name": "山河令",
-      "pic": "https://pub.gboku.com/upload/vod/20210222-1/4f7b40a2baacd3950b0c383df794f90a.jpg",
-      "url": "https://github.com/eco684/tv/山河令txt",
+      "name": "連續劇S3",
+      "pic": "http://www.eco684.yabi.me/jpg/s3.jpg",
+      "url": "http://www.eco684.yabi.me/txt/s3.txt",
+      "type": "txt",
+      "subTitle": "讀檔整理中",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "連續劇S4",
+      "pic": "http://www.eco684.yabi.me/jpg/s4.jpg",
+      "url": "http://www.eco684.yabi.me/txt/s4.txt",
+      "type": "txt",
+      "subTitle": "讀檔整理中",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "連續劇S5",
+      "pic": "http://www.eco684.yabi.me/jpg/s5.jpg",
+      "url": "http://www.eco684.yabi.me/txt/s5.txt",
+      "type": "txt",
+      "subTitle": "讀檔整理中",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "連續劇S6",
+      "pic": "http://www.eco684.yabi.me/jpg/s6.jpg",
+      "url": "http://www.eco684.yabi.me/txt/s6.txt",
+      "type": "txt",
+      "subTitle": "讀檔整理中",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "連續劇S7",
+      "pic": "http://www.eco684.yabi.me/jpg/s7.jpg",
+      "url": "http://www.eco684.yabi.me/txt/s7.txt",
+      "type": "txt",
+      "subTitle": "讀檔整理中",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "連續劇S8",
+      "pic": "http://www.eco684.yabi.me/jpg/s8.jpg",
+      "url": "http://www.eco684.yabi.me/txt/s8.txt",
+      "type": "txt",
+      "subTitle": "讀檔整理中",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "連續劇S9",
+      "pic": "http://www.eco684.yabi.me/jpg/s9.jpg",
+      "url": "http://www.eco684.yabi.me/txt/s9.txt",
+      "type": "txt",
+      "subTitle": "讀檔整理中",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "連續劇S10",
+      "pic": "http://www.eco684.yabi.me/jpg/s10.jpg",
+      "url": "http://www.eco684.yabi.me/txt/s10.txt",
       "type": "txt",
       "subTitle": "讀檔整理中",
       "click": true,
