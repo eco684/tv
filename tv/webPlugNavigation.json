@@ -123,7 +123,8 @@
             "urlCss": "a",
             "urlIndex": 0
           },
-          "video": {}        }
+          "video": {}
+        }
       }
     },
     {
@@ -708,7 +709,7 @@
       "webPlus": {
         "search_url": "https://imaple.co/search/wd/{kw}.html",
         "nav_url": "https://imaple.co/type/navCate-navPage.html",
-        "cate_url": "https://www.zhaikanys.com/vodshow/cateNav/page/catePage/year/cateYear.html",
+        "cate_url": "https://imaple.co/type/cateNav/page/catePage/year/cateYear.html",
         "web_name": "楓林網",
         "kw": "wd",
         "params": [
@@ -857,20 +858,20 @@
       }
     },
     {
-      "name": "孤單影院",
-      "pic": "https://ae02.alicdn.com/kf/U399fa9524b70409880ea36a66f8d4cdd2.jpg",
+      "name": "COKEMV影視",
+      "pic": "https://cokemv.cn/template/mytheme/statics/image/20210304/a0174058c.png",
       "type": "webPlug",
       "subTitle": "高清有篩選",
       "subMobileTitle": "(wpcm調試中2.23）質量高",
       "ads": "",
-      "webUrl": "http://gudanys.com/",
+      "webUrl": "https://cokemv.cn/",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "http://gudanys.com/vodsearch/{kw}-------------.html",
-        "nav_url": "http://gudanys.com/vodtype/navCate-navPage.html",
-        "cate_url": "http://gudanys.com/vod/show/id/cateNav/page/catePage/year/cateYear.html",
-        "web_name": "孤單影院",
+        "search_url": "\"https://cokemv.cn/vodsearch/-------------.html?wd={kw}\",",
+        "nav_url": "https://cokemv.cn/vodtype/navCate-navPage.html",
+        "cate_url": "https://cokemv.cn/index.php/vod/show/id/cateNav/page/catePage/year/cateYear.html",
+        "web_name": "COKEMV影視",
         "kw": "wd",
         "params": [
           {
@@ -884,14 +885,14 @@
             "連續劇",
             "綜藝",
             "動畫",
-            "動畫電影"
+            "抖音電影"
           ],
           "cate": [
             "1",
             "2",
             "3",
             "4",
-            "22"
+            "5"
           ],
           "page": "1"
         },
@@ -1351,8 +1352,8 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.haimianys.com/index.php/vod/search/wd/{kw}.html",
-        "nav_url": "https://www.haimianys.com/index.php/vod/show/id/navCate-navPage.html",
-        "cate_url": "https://www.haimianys.com/index.php/vod/show/id/cateNav/page/catePage/year/cateYear.html",
+        "nav_url": "https://www.haimianys.com/index.php/vod/type/id/navCate-navPage.html",
+        "cate_url": "https://www.haimianys.com/index.php/vod/type/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "海綿影視",
         "kw": "wd",
         "params": [
@@ -1363,18 +1364,18 @@
         ],
         "navHtml": {
           "name": [
-            "電影",
-            "連續劇",
-            "綜藝",
-            "動畫",
-            "連續劇"
+            "大陸劇",
+            "港台劇",
+            "日韓劇",
+            "歐美劇",
+            "大陸劇"
           ],
           "cate": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "1"
+            "13",
+            "14",
+            "15",
+            "16",
+            "13"
           ],
           "page": "1"
         },
