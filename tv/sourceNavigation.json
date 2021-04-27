@@ -12,7 +12,7 @@
       "webPlus": {}
     },
     {
-      "name": "海绵影视理智派生活S2測試",
+      "name": "海绵影视S2測試",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/35196776.jpg",
       "url": "https://github.com/eco684/tv/raw/main/tv//s2.txt",
       "type": "txt",
@@ -23,7 +23,7 @@
       "webPlus": {}
     },
     {
-      "name": "大宋宮詞S3測試",
+      "name": "劇迷TV測試S3",
       "pic": "https://img10.360buyimg.com/ddimg/jfs/t1/162393/26/13890/29780/60560c96Edf5e1a47/3abbcd6c690a6cba.jpg",
       "url": "https://github.com/eco684/tv/raw/main/tv//s3.txt",
       "type": "txt",
@@ -34,7 +34,7 @@
       "webPlus": {}
     },
     {
-      "name": "山河令S4測試",
+      "name": "劇迷TV測試S4",
       "pic": "https://img13.360buyimg.com/ddimg/jfs/t1/177606/11/722/41136/60839cfcEa2d00609/3e1b3ac6314682b6.jpg",
       "url": "https://github.com/eco684/tv/raw/main/tv//s4.txt",
       "type": "txt",
@@ -45,9 +45,9 @@
       "webPlus": {}
     },
     {
-      "name": "連續劇S5",
-      "pic": "http://www.eco684.yabi.me/jpg/s5.jpg?i=1",
-      "url": "https://github.com/eco684/tv/blob/main/tv/s2.txt",
+      "name": "大明風華2019",
+      "pic": "hhttp://www.people.com.cn/mediafile/pic/20191220/61/10568742155018691509.jpg",
+      "url": "https://github.com/eco684/tv/raw/main/tv/大明風華.txt",
       "type": "txt",
       "subTitle": "讀檔整理中",
       "click": true,
@@ -56,9 +56,9 @@
       "webPlus": {}
     },
     {
-      "name": "連續劇S6",
-      "pic": "http://www.eco684.yabi.me/jpg/s6.jpg?i=1",
-      "url": "https://github.com/eco684/tv/blob/main/tv/s3.txt",
+      "name": "整理中S6",
+      "pic": "http://www.eco684.yabi.me/jpg/s6.jpg",
+      "url": "https://github.com/eco684/tv/raw/main/tv//s3.txt",
       "type": "txt",
       "subTitle": "讀檔整理中",
       "click": true,
@@ -67,9 +67,9 @@
       "webPlus": {}
     },
     {
-      "name": "連續劇S7",
-      "pic": "http://www.eco684.yabi.me/jpg/s7.jpg?i=1",
-      "url": "https://github.com/eco684/tv/blob/main/tv/s4.txt",
+      "name": "整理中S7",
+      "pic": "http://www.eco684.yabi.me/jpg/s7.jpg",
+      "url": "https://github.com/eco684/tv/raw/main/tv/4.txt",
       "type": "txt",
       "subTitle": "讀檔整理中",
       "click": true,
@@ -78,9 +78,9 @@
       "webPlus": {}
     },
     {
-      "name": "連續劇S8",
-      "pic": "http://www.eco684.yabi.me/jpg/s8.jpg?i=1",
-      "url": "http://www.eco684.yabi.me/txt/s8.txt?i=1",
+      "name": "整理中S8",
+      "pic": "http://www.eco684.yabi.me/jpg/s8.jpg",
+      "url": "http://www.eco684.yabi.me/txt/s8.txt",
       "type": "txt",
       "subTitle": "讀檔整理中",
       "click": true,
@@ -89,9 +89,9 @@
       "webPlus": {}
     },
     {
-      "name": "連續劇S9",
-      "pic": "http://www.eco684.yabi.me/jpg/s9.jpg?i=1",
-      "url": "http://www.eco684.yabi.me/txt/s9.txt?i=1",
+      "name": "整理中S9",
+      "pic": "http://www.eco684.yabi.me/jpg/s9.jpg",
+      "url": "http://www.eco684.yabi.me/txt/s9.txt",
       "type": "txt",
       "subTitle": "讀檔整理中",
       "click": true,
@@ -100,9 +100,9 @@
       "webPlus": {}
     },
     {
-      "name": "連續劇S10",
-      "pic": "http://www.eco684.yabi.me/jpg/s10.jpg?i=1",
-      "url": "http://www.eco684.yabi.me/txt/s10.txt?i=1",
+      "name": "整理中S10",
+      "pic": "http://www.eco684.yabi.me/jpg/s10.jpg",
+      "url": "http://www.eco684.yabi.me/txt/s10.txt",
       "type": "txt",
       "subTitle": "讀檔整理中",
       "click": true,
