@@ -1,0 +1,3 @@
+DMAT-192,https://cdn.av01.tv/v2/20210420a/h_254dmat00192/content/index45va-v2-a1.m3u8?hdnea=ip=114.36.73.6~st=1619575805~exp=1619662205~acl=/v2/20210420a/h_254dmat00192/content/*~hmac=74ae330c42b4fa3cba18d4898ffa3f4f302bd03b0d938eb2a0119e7a71eb7efb
+JUFE-284,https://h-adam-cdn.av01.tv/v2/20210425/jufe00284/content/index45va-v2-a1.m3u8?hdnea=ip=114.36.73.6~st=1619575935~exp=1619662335~acl=/v2/20210425/jufe00284/content/*~hmac=ff77aa7cb1e9b94f1524ab4cc156645a85fa276dc98d77b18570776c59e3188e
+ZMEN-083,https://cdn.av01.tv/v2/20210405a/zmen00083/content/index45va-v2-a1.m3u8?hdnea=ip=114.36.73.6~st=1619576098~exp=1619662498~acl=/v2/20210405a/zmen00083/content/*~hmac=c27cae416f4f332e78479bedb097316dc097c01698eb62db31adfd362ca8ab94

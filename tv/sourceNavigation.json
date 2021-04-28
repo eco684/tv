@@ -12,9 +12,9 @@
       "webPlus": {}
     },
     {
-      "name": "海绵影视S2測試",
+      "name": "COKEMV影視測試",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/35196776.jpg",
-      "url": "https://github.com/eco684/tv/raw/main/tv//s2.txt",
+      "url": "https://github.com/eco684/tv/raw/main/tv/理智派生活.txt",
       "type": "txt",
       "subTitle": "讀檔整理中",
       "click": true,
@@ -25,7 +25,7 @@
     {
       "name": "劇迷TV測試S3",
       "pic": "https://img10.360buyimg.com/ddimg/jfs/t1/162393/26/13890/29780/60560c96Edf5e1a47/3abbcd6c690a6cba.jpg",
-      "url": "https://github.com/eco684/tv/raw/main/tv//s3.txt",
+      "url": "https://github.com/eco684/tv/raw/main/tv/s3.txt",
       "type": "txt",
       "subTitle": "讀檔整理中",
       "click": true,
@@ -36,7 +36,7 @@
     {
       "name": "劇迷TV測試S4",
       "pic": "https://img13.360buyimg.com/ddimg/jfs/t1/177606/11/722/41136/60839cfcEa2d00609/3e1b3ac6314682b6.jpg",
-      "url": "https://github.com/eco684/tv/raw/main/tv//s4.txt",
+      "url": "https://github.com/eco684/tv/raw/main/tv/s4.txt",
       "type": "txt",
       "subTitle": "讀檔整理中",
       "click": true,
@@ -56,20 +56,9 @@
       "webPlus": {}
     },
     {
-      "name": "整理中S6",
-      "pic": "http://www.eco684.yabi.me/jpg/s6.jpg",
-      "url": "https://github.com/eco684/tv/raw/main/tv//s3.txt",
-      "type": "txt",
-      "subTitle": "讀檔整理中",
-      "click": true,
-      "autoNext": false,
-      "decoder": 0,
-      "webPlus": {}
-    },
-    {
-      "name": "整理中S7",
-      "pic": "http://www.eco684.yabi.me/jpg/s7.jpg",
-      "url": "https://github.com/eco684/tv/raw/main/tv/4.txt",
+      "name": "獨播庫小女霓裳",
+      "pic": "https://pub.gboku.com/upload/vod/20210416-1/4b80d591786853689253cdf5eac85dee.jpg",
+      "url": "https://github.com/eco684/tv/raw/main/tv/小女霓裳.txt",
       "type": "txt",
       "subTitle": "讀檔整理中",
       "click": true,
@@ -103,6 +92,17 @@
       "name": "整理中S10",
       "pic": "http://www.eco684.yabi.me/jpg/s10.jpg",
       "url": "http://www.eco684.yabi.me/txt/s10.txt",
+      "type": "txt",
+      "subTitle": "讀檔整理中",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "TV01",
+      "pic": "https://www.hcpst.gov.tw/images2/4031camellia.jpg",
+      "url": "https://github.com/eco684/tv/raw/main/tv/AV01TV.txt",
       "type": "txt",
       "subTitle": "讀檔整理中",
       "click": true,
