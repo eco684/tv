@@ -118,7 +118,7 @@
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "ul > li",
+            "searchListCss": "li",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -1297,7 +1297,7 @@
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "ul > li",
+            "searchListCss": "li",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -1458,7 +1458,7 @@
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "ul > li",
+            "searchListCss": "li",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -1556,7 +1556,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.myui-content__list",
+            "mainCss": "archive-content.clearfix-after",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -1585,7 +1585,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.videos-list",
+            "mainCss": "video-list-content",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -1610,7 +1610,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist__media",
+            "mainCss": "video-list-__media",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
