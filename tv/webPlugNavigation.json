@@ -2342,7 +2342,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.mo-cols-case.mo-java-waps div.mo-cols-lays.mo-back-white.mo-part-round div.mo-cols-rows",
+            "mainCss": "div.mo-main-info div.mo-cols-case.mo-java-waps div.mo-cols-lays.mo-back-white.mo-part-round",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
