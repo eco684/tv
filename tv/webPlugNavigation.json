@@ -389,7 +389,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.tab-pane.fade.in.clearfix",
+            "mainCss": "ul.myui-content__list",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -418,7 +418,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist.clearfix",
+            "mainCss": "ul.myui-vodlist",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -443,7 +443,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul#searchList",
+            "mainCss": "ul.myui-vodlist__media",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -1190,7 +1190,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.mo-cols-rows",
+            "mainCss": "div.mo-cols-lays.mo-back-white.mo-part-round",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -1215,7 +1215,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.mo-cols-rows",
+            "mainCss": "div.mo-cols-lays.mo-back-white.mo-part-round",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -1629,31 +1629,7 @@
           "area": "全部,&&大陸,大陸&&香港,香港&&台灣,台灣&&美國,美國&&法國,法國&&英國,英國&&日本,日本&&韓國,韓國&&印度,印度&&德國,德國&&泰國,泰國&&其他,其他"
         },
         "html": {
-          "episodes": {
-            "hasUrlPrefix": false,
-            "isListItemAttr": true,
-            "isReg": false,
-            "isRegNeedDecoder": false,
-            "listCss": "li > a",
-            "isMultiList": false,
-            "listCssMulti": "",
-            "listItemAttr": "href",
-            "listItemCss": "a",
-            "listItemIndex": 0,
-            "mainCss": "archive-content.clearfix-after",
-            "mainIndex": 0,
-            "regIndexList": [
-              0
-            ],
-            "regItemIndex": 0,
-            "regItemStr": "",
-            "regSplitList": [
-              ""
-            ],
-            "regStrList": [
-              ""
-            ]
-          },
+          "episodes": {},
           "nav": {
             "isKWInUrl": false,
             "isWebPlay": false,
