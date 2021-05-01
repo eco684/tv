@@ -113,7 +113,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "body.mo-cols-body.mo-cols-minw.mo-back-muted.mo-body-backs.mo-ptxs-80px.mo-part-potn.mo-pbxs-50px.mo-pbsm-0px div.mo-main-info div.mo-cols-case.mo-java-waps div.mo-cols-lays.mo-back-white.mo-part-round",
+            "mainCss": "body.mo-cols-body.mo-cols-minw.mo-back-muted.mo-body-backs.mo-ptxs-80px.mo-part-potn.mo-pbxs-50px.mo-pbsm-0px div.mo-main-info div.mo-cols-case.mo-java-waps div.mo-cols-lays.mo-back-white.mo-part-round div.mo-cols-rows",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
