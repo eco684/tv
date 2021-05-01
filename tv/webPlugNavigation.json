@@ -77,7 +77,7 @@
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "span.pic-text.text-right",
+            "descCss": "span.mo-situ-rema.mo-part-ramp.mo-fsxs-12px.mo-text-white.mo-coxs-center",
             "descIndex": 0,
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
@@ -90,8 +90,8 @@
             "isUrlAttr": true,
             "mainCss": "body.mo-cols-body.mo-cols-minw.mo-back-muted.mo-body-backs.mo-ptxs-80px.mo-part-potn.mo-pbxs-50px.mo-pbsm-0px div.mo-main-info div.mo-cols-case.mo-java-waps div.mo-cols-lays.mo-back-white.mo-part-round ul.mo-cols-rows",
             "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
+            "nameAttr": "",
+            "nameCss": ".mo-situ-name.mo-fsxs-14px.mo-coxs-center.mo-comd-left.mo-wrap-arow",
             "nameIndex": 0,
             "searchListCss": "ul > li",
             "urlAttr": "href",
@@ -550,7 +550,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.myui-content__list.scrollbar.sort-list.clearfix",
+            "mainCss": "ul.myui-content__list",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -2449,7 +2449,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.myui-content__list.scrollbar.sort-list.clearfix",
+            "mainCss": "ul.myui-content__list",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -2610,7 +2610,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.myui-content__list.scrollbar.sort-list.clearfix",
+            "mainCss": "ul.myui-content__list",
             "mainIndex": 0,
             "regIndexList": [
               0
