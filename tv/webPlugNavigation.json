@@ -2241,7 +2241,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.haimianys.com/index.php/vod/search/wd/{kw}.html",
-        "nav_url": "https://www.haimianys.com/index.php/vod/show/id/navCate-navPage.html",
+        "nav_url": "https://www.haimianys.com/index.php/vod/show/id/navCate/page/navPage.html",
         "cate_url": "https://www.haimianys.com/index.php/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "海綿影視",
         "kw": "wd",
@@ -2288,7 +2288,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.mo-cols-lays.mo-back-white.mo-part-round.mo-cols-rows.mo-part-over",
+            "mainCss": "div.mo-main-info div.mo-cols-case.mo-java-waps div.mo-cols-lays.mo-back-white.mo-part-round.mo-cols-rows",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -2317,7 +2317,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.mo-cols-lays.mo-back-white.mo-part-round.mo-cols-rows.mo-part-over",
+            "mainCss": "body.mo-cols-body.mo-cols-minw.mo-back-muted.mo-body-backs.mo-ptxs-80px.mo-part-potn.mo-pbxs-50px.mo-pbsm-0px div.mo-main-info div.mo-cols-case.mo-java-waps div.mo-cols-lays.mo-back-white.mo-part-round ul.mo-cols-rows",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -2342,7 +2342,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.mo-cols-lays.mo-back-white.mo-part-round",
+            "mainCss": "div.mo-main-info div.mo-cols-case.mo-java-waps div.mo-cols-lays.mo-back-white.mo-part-round div.mo-cols-rows",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -2724,7 +2724,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://javgiga.com/?s={kw}",
-        "nav_url": "https://javgiga.com/navCate-navPage.html",
+        "nav_url": "https://javgiga.com/navCate/page/navPage/",
         "cate_url": "https://javgiga.com/cateNav/page/catePage/year/cateYear.html",
         "web_name": "GIGI",
         "kw": "wd",
