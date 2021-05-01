@@ -2317,7 +2317,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.mo-cols-lays.mo-back-white.mo-part-round",
+            "mainCss": "div.mo-cols-lays.mo-back-white.mo-part-round.mo-cols-rows.mo-part-over",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
