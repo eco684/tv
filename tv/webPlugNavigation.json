@@ -118,7 +118,7 @@
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "ul > li",
+            "searchListCss": "ul > dl",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -550,7 +550,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.myui-content__list",
+            "mainCss": "body div.container div.row div.col-lg-wide-75.col-md-wide-7.col-xs-1.padding-0 div.myui-panel.myui-panel-bg.clearfix div.myui-panel-box.clearfix div.tab-content.myui-panel_bd div#playlist1.tab-pane.fade.in.clearfix.active ul.myui-content__list.scrollbar.sort-list.clearfix",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -2449,7 +2449,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.myui-content__list",
+            "mainCss": "body div.container div.row div.col-lg-wide-75.col-md-wide-7.col-xs-1.padding-0 div.myui-panel.myui-panel-bg.clearfix div.myui-panel-box.clearfix div.tab-content.myui-panel_bd div#playlist1.tab-pane.fade.in.clearfix.active ul.myui-content__list.scrollbar.sort-list.clearfix",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -2610,7 +2610,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.myui-content__list",
+            "mainCss": "body div.container div.row div.col-lg-wide-75.col-md-wide-7.col-xs-1.padding-0 div.myui-panel.myui-panel-bg.clearfix div.myui-panel-box.clearfix div.tab-content.myui-panel_bd div#playlist1.tab-pane.fade.in.clearfix.active ul.myui-content__list.scrollbar.sort-list.clearfix",
             "mainIndex": 0,
             "regIndexList": [
               0
