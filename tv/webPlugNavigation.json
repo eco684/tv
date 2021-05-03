@@ -2446,7 +2446,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://jumi.tv/search/wd/{kw}.html",
-        "nav_url": "https://jumi.tv/",
+        "nav_url": "https://jumi.tv/show/navCate/page/navPage.html",
         "cate_url": "https://jumi.tv/show/cateNav/cateArea/cateCate/page/catePage/cateYear.html",
         "web_name": "劇迷TV測試",
         "kw": "wd",
