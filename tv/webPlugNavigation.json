@@ -118,7 +118,7 @@
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "dt.mo-paxs-5px.mo-pamd-10px.mo-cols-info.mo-cols-xs4.mo-cols-sm3.mo-cols-lg2",
+            "searchListCss": "dl.mo-deta-info.mo-cols-rows",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
