@@ -2446,7 +2446,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://jumi.tv/search/wd/{kw}.html",
-        "nav_url": "https://jumi.tv/show/navCate/page/navPage.html",
+        "nav_url": "https://jumi.tv/show/navCate/page/navPage/year/2021.html",
         "cate_url": "https://jumi.tv/show/navCate/cateArea/cateCate/page/navPage/cateYear.html",
         "web_name": "劇迷TV測試",
         "kw": "wd",
@@ -2456,28 +2456,38 @@
             "value": "value"
           }
         ],
-        "navHtml": {
+                "navHtml": {
           "name": [
+            "陸劇",
             "電影",
-            "劇集",
+            "台劇",
+            "港劇",
+            "日劇",
+            "美集",
             "綜藝",
-            "動漫"
+            "動漫",
+            "韓劇"
           ],
           "cate": [
+            "13",
             "1",
-            "2",
+            "22",
+            "14",
+            "15",
+            "16",
             "3",
-            "4"
+            "4",
+            "23"
           ],
           "page": "1"
         },
         "cateHtml": {
-          "isCate": true,
-          "isYear": true,
-          "isArea": true,
-          "area": "全部,&&大陸,area/大陸&&台灣,area/台灣&&美國,area/美國&&&&日本,area/日本&&韓國,area/韓國",
-          "cate": "全部,&&動作,class/動作&&戰爭,class/戰爭",
-          "year": "全部,&&2021,year/2021&&2020,year/2020&&2019,year/2019"
+          "isCate": false,
+          "isYear": false,
+          "isArea": false,
+          "cate": "全部,&&動作,動作&&劇情,劇情&&喜劇,喜劇&&愛情,愛情&&科幻,科幻&&驚悚,驚悚&&恐怖,恐怖&&懸疑,懸疑&&奇幻,奇幻&&歷史,歷史&&犯罪,犯罪&&動畫,動畫&&喪屍,喪屍&&幻想,幻想&&戰爭,戰爭&&暴力,暴力&&古裝,古裝&&武俠,武俠&&災難,災難",
+          "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
+          "area": "全部,&&大陸,大陸&&香港,香港&&台灣,台灣&&美國,美國&&法國,法國&&英國,英國&&日本,日本&&韓國,韓國&&印度,印度&&德國,德國&&泰國,泰國&&其他,其他"
         },
         "html": {
           "episodes": {
