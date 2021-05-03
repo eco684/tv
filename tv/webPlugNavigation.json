@@ -2446,8 +2446,8 @@
       "click": true,
       "webPlus": {
         "search_url": "https://jumi.tv/search/wd/{kw}.html",
-        "nav_url": "https://jumi.tv/show/cateNav/cateArea/cateCate/page/catePage/cateYear.html",
-        "cate_url": "https://jumi.tv/type/cateNav/page/catePage/year/cateYear.html",
+        "nav_url": "https://jumi.tv/show/navCate/page/navPage",
+        "cate_url": "https://jumi.tv/show/cateNav/cateArea/cateCate/page/catePage/cateYear.html",
         "web_name": "劇迷TV測試",
         "kw": "wd",
         "params": [
@@ -2477,8 +2477,8 @@
           "isArea": true,
           "area": "全部,&&大陸,area/大陸&&台灣,area/台灣&&美國,area/美國&&&&日本,area/日本&&韓國,area/韓國",
           "cate": "全部,&&動作,class/動作&&戰爭,class/戰爭",
-          "year": "全部,&&2021,year/2021&&2020,year/2020&&2019,year/2019"      
-          },
+          "year": "全部,&&2021,year/2021&&2020,year/2020&&2019,year/2019"
+        },
         "html": {
           "episodes": {
             "hasUrlPrefix": false,
