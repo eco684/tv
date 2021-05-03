@@ -12,7 +12,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.haimianys.com/index.php/vod/search.html?wd={kw}",
-        "nav_url": "https://www.haimianys.com/index.php/vod/show/id/navCate/page/navPage.html",
+        "nav_url": "https://www.haimianys.com/index.php/vod/show/id/navCate/page/navPage/year/2021.html",
         "cate_url": "https://www.haimianys.com/index.php/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "海綿影視",
         "kw": "wd",
@@ -342,7 +342,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://imaple.co/search/wd/{kw}.html",
-        "nav_url": "https://imaple.co/type/navCate-navPage.html",
+        "nav_url": "https://imaple.co/show/navCate/page/navPage/year/2021.html",
         "cate_url": "https://imaple.co/type/cateNav/page/catePage/year/cateYear.html",
         "web_name": "楓林網",
         "kw": "wd",
@@ -503,7 +503,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.jpysvip.net/vodsearch/{kw}-------------.html",
-        "nav_url": "https://www.jpysvip.net/vodtype/navCate-navPage.html",
+        "nav_url": "https://www.jpysvip.net/vodshow/navCate--------navPage---2021.html",
         "cate_url": "https://www.jpysvip.net/vodtype/cateNav/page/catePage/year/cateYear.html",
         "web_name": "極品影視",
         "kw": "wd",
@@ -792,7 +792,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.juhaokan.cc/vodsearch/-------------.html?wd={kw}&submit=",
-        "nav_url": "https://www.juhaokan.cc/vodtype/navCate-navPage.html",
+        "nav_url": "https://www.juhaokan.cc/vodshow/navCate--------navPage---2021.html",
         "cate_url": "https://www.juhaokan.cc/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "剧好看",
         "kw": "wd",
@@ -972,7 +972,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.nfmovies.com/search.php?searchword={kw}",
-        "nav_url": "https://www.nfmovies.com/list/?navCate-navPage.html",
+        "nav_url": "https://www.nfmovies.com/search.php?page=navPage&searchtype=5&tid=navCate&year=2021",
         "cate_url": "https://www.nfmovies.com/search.php?page=catePage&searchtype=5&tid=cateNav&area=cateArea&year=cateYear",
         "web_name": "奈菲影视",
         "kw": "wd",
@@ -1132,7 +1132,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.siguyy.com/search/-------------.html?wd={kw}&submit=",
-        "nav_url": "https://www.siguyy.com/type/navCate-navPage.html",
+        "nav_url": "https://www.siguyy.com/show/navCate--------navPage---2021.html",
         "cate_url": "https://www.siguyy.com/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "思古影视",
         "kw": "wd",
@@ -2456,7 +2456,7 @@
             "value": "value"
           }
         ],
-                "navHtml": {
+        "navHtml": {
           "name": [
             "陸劇",
             "電影",
