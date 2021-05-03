@@ -1,7 +1,7 @@
 ﻿{
   "data": [
     {
-      "name": "海綿影視",
+      "name": "海綿影視(2021年片)",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/30179560.jpg",
       "type": "webPlug",
       "subTitle": "高清有篩選",
@@ -14,7 +14,7 @@
         "search_url": "https://www.haimianys.com/index.php/vod/search.html?wd={kw}",
         "nav_url": "https://www.haimianys.com/index.php/vod/show/id/navCate/page/navPage/year/2021.html",
         "cate_url": "https://www.haimianys.com/index.php/vod/show/id/cateNav/page/catePage/year/cateYear.html",
-        "web_name": "海綿影視",
+        "web_name": "海綿影視(2021年片)",
         "kw": "wd",
         "params": [
           {
@@ -118,7 +118,7 @@
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "dl.mo-deta-info.mo-cols-rows",
+            "searchListCss": "dt.mo-paxs-5px.mo-pamd-10px.mo-cols-info.mo-cols-xs4.mo-cols-sm3.mo-cols-lg2",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -162,7 +162,7 @@
       }
     },
     {
-      "name": "劇迷TV",
+      "name": "劇迷TV(2021年片)",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/26985839.jpg",
       "type": "webPlug",
       "subTitle": "高清有篩選",
@@ -173,9 +173,9 @@
       "click": true,
       "webPlus": {
         "search_url": "https://jumi.tv/search/wd/{kw}.html",
-        "nav_url": "https://jumi.tv/type/navCate-navPage.html",
-        "cate_url": "https://jumi.tv/type/cateNav/page/catePage/year/cateYear.html",
-        "web_name": "劇迷TV",
+        "nav_url": "https://jumi.tv/show/navCate/page/navPage/year/2021.html",
+        "cate_url": "https://jumi.tv/show/navCate/cateArea/cateCate/page/navPage/cateYear.html",
+        "web_name": "劇迷TV(2021年片)",
         "kw": "wd",
         "params": [
           {
@@ -331,7 +331,7 @@
       }
     },
     {
-      "name": "楓林網",
+      "name": "楓林網(2021年片)",
       "pic": "https://imaple.co/template/imaple/statics/img/load.png",
       "type": "webPlug",
       "subTitle": "高清有篩選",
@@ -344,7 +344,7 @@
         "search_url": "https://imaple.co/search/wd/{kw}.html",
         "nav_url": "https://imaple.co/show/navCate/page/navPage/year/2021.html",
         "cate_url": "https://imaple.co/type/cateNav/page/catePage/year/cateYear.html",
-        "web_name": "楓林網",
+        "web_name": "楓林網(2021年片)",
         "kw": "wd",
         "params": [
           {
@@ -492,7 +492,7 @@
       }
     },
     {
-      "name": "極品影視",
+      "name": "極品影視(2021年片)",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/1291578.jpg",
       "type": "webPlug",
       "subTitle": "高清有篩選",
@@ -505,7 +505,7 @@
         "search_url": "https://www.jpysvip.net/vodsearch/{kw}-------------.html",
         "nav_url": "https://www.jpysvip.net/vodshow/navCate--------navPage---2021.html",
         "cate_url": "https://www.jpysvip.net/vodtype/cateNav/page/catePage/year/cateYear.html",
-        "web_name": "極品影視",
+        "web_name": "極品影視(2021年片)",
         "kw": "wd",
         "params": [
           {
@@ -781,7 +781,7 @@
       }
     },
     {
-      "name": "剧好看",
+      "name": "剧好看(2021年片)",
       "pic": "https://gitee.com/ccccrazy/pic/raw/master/pic/3.jpg",
       "type": "webPlug",
       "subTitle": "",
@@ -794,7 +794,7 @@
         "search_url": "https://www.juhaokan.cc/vodsearch/-------------.html?wd={kw}&submit=",
         "nav_url": "https://www.juhaokan.cc/vodshow/navCate--------navPage---2021.html",
         "cate_url": "https://www.juhaokan.cc/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-        "web_name": "剧好看",
+        "web_name": "剧好看(2021年片)",
         "kw": "wd",
         "params": [
           {
@@ -960,7 +960,7 @@
       }
     },
     {
-      "name": "⒅奈菲影视",
+      "name": "⒅奈菲影视(2021年片)",
       "pic": "https://s3.ax1x.com/2021/02/28/69Burj.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
@@ -974,7 +974,7 @@
         "search_url": "https://www.nfmovies.com/search.php?searchword={kw}",
         "nav_url": "https://www.nfmovies.com/search.php?page=navPage&searchtype=5&tid=navCate&year=2021",
         "cate_url": "https://www.nfmovies.com/search.php?page=catePage&searchtype=5&tid=cateNav&area=cateArea&year=cateYear",
-        "web_name": "奈菲影视",
+        "web_name": "奈菲影视(2021年片)",
         "kw": "wd",
         "params": [
           {
@@ -1071,7 +1071,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist.clearfix",
+            "mainCss": "ul.myui-vodlist__media.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -1120,7 +1120,7 @@
       }
     },
     {
-      "name": "思古影视",
+      "name": "思古影视(2021年片)",
       "pic": "https://s3.ax1x.com/2021/02/28/69BFat.png",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
@@ -1134,7 +1134,7 @@
         "search_url": "https://www.siguyy.com/search/-------------.html?wd={kw}&submit=",
         "nav_url": "https://www.siguyy.com/show/navCate--------navPage---2021.html",
         "cate_url": "https://www.siguyy.com/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-        "web_name": "思古影视",
+        "web_name": "思古影视(2021年片)",
         "kw": "wd",
         "params": [
           {
@@ -1231,7 +1231,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist.clearfix",
+            "mainCss": "ul.myui-vodlist__media.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -1571,12 +1571,12 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.hotgrow",
+            "mainCss": "div.ec-body-z.search-body.cf",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "div div",
+            "searchListCss": "div.ec-search",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -2435,7 +2435,7 @@
       }
     },
     {
-      "name": "劇迷TV測試",
+      "name": "劇迷TV",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/26985839.jpg",
       "type": "webPlug",
       "subTitle": "高清有篩選",
@@ -2446,9 +2446,9 @@
       "click": true,
       "webPlus": {
         "search_url": "https://jumi.tv/search/wd/{kw}.html",
-        "nav_url": "https://jumi.tv/show/navCate/page/navPage/year/2021.html",
-        "cate_url": "https://jumi.tv/show/navCate/cateArea/cateCate/page/navPage/cateYear.html",
-        "web_name": "劇迷TV測試",
+        "nav_url": "https://jumi.tv/type/navCate-navPage.html",
+        "cate_url": "https://jumi.tv/type/cateNav/page/catePage/year/cateYear.html",
+        "web_name": "劇迷TV",
         "kw": "wd",
         "params": [
           {
