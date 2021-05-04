@@ -2336,13 +2336,13 @@
             "isListItemAttr": true,
             "isReg": false,
             "isRegNeedDecoder": false,
-            "listCss": "li ",
+            "listCss": "li > a",
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "body div.container div.row div.col-md-9.col-sm-12.box-main-content div.layout-box.clearfix.m-0 div.playlist ul#con_playlist_1.clearfix.fade.in.active",
+            "mainCss": "div.container div.row div.col-md-9.col-sm-12.box-main-content div.layout-box.clearfix.m-0 div.playlist ul#con_playlist_1.clearfix.fade.in.active",
             "mainIndex": 0,
             "regIndexList": [
               0
