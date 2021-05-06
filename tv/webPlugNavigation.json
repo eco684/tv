@@ -942,20 +942,20 @@
       }
     },
     {
-      "name": "極品影視(測試)",
-      "pic": "https://xh-img-pullzone-888.b-cdn.net/1291578.jpg",
+      "name": "飯團影院",
+      "pic": "https://xh-img-pullzone-888.b-cdn.net/26805209.jpg",
       "type": "webPlug",
-      "subTitle": "高清有篩選",
-      "subMobileTitle": "(wpcm調試中2.23）質量高",
+      "subTitle": "高清",
+      "subMobileTitle": "質量高",
       "ads": "",
       "webUrl": "https://www.jpysvip.net/",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://www.jpysvip.net/vodsearch/{kw}-------------.html",
-        "nav_url": "https://www.jpysvip.net/vodshow/navCate--------navPage---2021.html",
-        "cate_url": "https://www.jpysvip.net/vodtype/cateNav/page/catePage/year/cateYear.html",
-        "web_name": "極品影視(測試)",
+        "search_url": "https://fantuan.tv/vodsearch.html?wd={kw}&submit=",
+        "nav_url": "https://fantuan.tv/vodshow/id/navCate/page/navPage/year/2021.html",
+        "cate_url": "https://fantuan.tv/vodshow/id/cateNav/page/catePage/year/cateYear.html",
+        "web_name": "飯團影院",
         "kw": "wd",
         "params": [
           {
@@ -966,7 +966,7 @@
         "navHtml": {
           "name": [
             "電影",
-            "連續劇",
+            "電視劇",
             "綜藝",
             "動畫",
             "動作片"
@@ -1000,7 +1000,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.myui-content__list",
+            "mainCss": "ul.myui-content__list.scrollbar.sort-list.clearfix",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -1029,12 +1029,12 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist",
+            "mainCss": "ul.myui-vodlist.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "ul > li",
+            "searchListCss": "ul > li ",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -1054,7 +1054,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist__media",
+            "mainCss": "ul#searchList.myui-vodlist__media.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -1092,7 +1092,7 @@
             "urlAttr": "",
             "urlCss": "",
             "urlIndex": 0,
-            "videoCss": "div.clearfix",
+            "videoCss": "html body.active div.myui-player.clearfix div.container div.row div.myui-player__item.clearfix div#player-left.col-lg-wide-75.col-md-wide-65.clearfix.padding-0.relative div.myui-player__box.player-fixed div.embed-responsive.clearfix div.MacPlayer.embed-responsive table tbody tr td#playleft",
             "videoIndex": 1,
             "isVideoUrlAttr": true,
             "videoUrlAttr": "",
@@ -2424,7 +2424,7 @@
             "itemAttr": "",
             "itemCss": "script",
             "itemIndex": 2,
-            "mainCss": "div#player",
+            "mainCss": "html body div.container div.row div.layout-box.clearfix.p-0.m-0 div.col-md-9.col-sm-12.col-xs-12.player_left div#zanpiancms_player div#cms_play.embed-responsive.embed-responsive-16by9",
             "mainIndex": 0,
             "nameAttr": "",
             "nameCss": "",
@@ -2435,7 +2435,7 @@
             "urlAttr": "",
             "urlCss": "",
             "urlIndex": 0,
-            "videoCss": "body.page.play main#main.wrapper div.player-block div.content div.player-box div.player-box-main div.player-wrapper div.MacPlayer table tbody tr td#playleft iframe",
+            "videoCss": "iframe.zanpiancms-play-iframe",
             "videoIndex": 1,
             "isVideoUrlAttr": true,
             "videoUrlAttr": "",
