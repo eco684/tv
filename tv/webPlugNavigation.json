@@ -2996,7 +2996,7 @@
             "isReg": false,
             "isRegNeedDecoder": false,
             "listCss": "li > a",
-            "isMultiList": true,
+            "isMultiList": false,
             "listCssMulti": "div.myui-panel__head.active.bottom-line.clearfix",
             "listItemAttr": "href",
             "listItemCss": "a",
