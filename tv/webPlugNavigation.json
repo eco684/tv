@@ -542,8 +542,8 @@
           "episodes": {
             "hasUrlPrefix": false,
             "isListItemAttr": true,
-            "isReg": true,
-            "isRegNeedDecoder": false,
+            "isReg": false,
+            "isRegNeedDecoder": true,
             "listCss": "li > a",
             "isMultiList": false,
             "listCssMulti": "",
@@ -2824,8 +2824,8 @@
           "episodes": {
             "hasUrlPrefix": false,
             "isListItemAttr": true,
-            "isReg": true,
-            "isRegNeedDecoder": false,
+            "isReg": false,
+            "isRegNeedDecoder": true,
             "listCss": "ul > li",
             "isMultiList": false,
             "listCssMulti": "",
