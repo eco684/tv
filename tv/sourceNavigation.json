@@ -1,18 +1,7 @@
 ﻿{
   "data": [
     {
-      "name": "封神演義2019",
-      "pic": "https://xh-img-pullzone-888.b-cdn.net/25970952.jpg",
-      "url": "https://github.com/eco684/tv/raw/main/tv/封神演義2019.txt",
-      "type": "txt",
-      "subTitle": "讀檔整理中",
-      "click": true,
-      "autoNext": false,
-      "decoder": 0,
-      "webPlus": {}
-    },
-    {
-      "name": "COKEMV影視測試",
+      "name": "理智派生活",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/35196776.jpg",
       "url": "https://github.com/eco684/tv/raw/main/tv/理智派生活.txt",
       "type": "txt",
@@ -103,6 +92,17 @@
       "name": "TV01",
       "pic": "https://www.hcpst.gov.tw/images2/4031camellia.jpg",
       "url": "https://github.com/eco684/tv/raw/main/tv/AV01TV.txt",
+      "type": "txt",
+      "subTitle": "讀檔整理中",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "封神演義2019",
+      "pic": "https://xh-img-pullzone-888.b-cdn.net/25970952.jpg",
+      "url": "https://github.com/eco684/tv/raw/main/tv/封神演義2019.txt",
       "type": "txt",
       "subTitle": "讀檔整理中",
       "click": true,
