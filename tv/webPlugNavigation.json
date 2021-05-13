@@ -2377,9 +2377,9 @@
             "mainCss": "body.mo-cols-body.mo-cols-minw.mo-back-muted.mo-body-backs.mo-ptxs-80px.mo-part-potn.mo-pbxs-50px.mo-pbsm-0px div.mo-main-info div.mo-cols-case.mo-java-waps div.mo-cols-lays.mo-back-white.mo-part-round ul.mo-cols-rows",
             "mainListIndex": 0,
             "nameAttr": "",
-            "nameCss": "li.mo-paxs-5px.mo-pamd-10px.mo-cols-info.mo-cols-xs4.mo-cols-sm3.mo-cols-lg2 a.mo-situ-name.mo-fsxs-14px.mo-coxs-center.mo-comd-left.mo-wrap-arow",
-            "nameIndex": 0,
-            "searchListCss": "li.mo-paxs-5px.mo-pamd-10px.mo-cols-info.mo-cols-xs4.mo-cols-sm3.mo-cols-lg2 a.mo-situ-pics.mo-situ-lazy.mo-lazy-color.mo-bord-round.mo-cols-rows.mo-lazy-highs.mo-byxs-2by3",
+            "nameCss": "a",
+            "nameIndex": 2,
+            "searchListCss": "ul > li",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
