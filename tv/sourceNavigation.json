@@ -8,7 +8,7 @@
       "subTitle": "讀檔整理中",
       "click": true,
       "autoNext": false,
-      "decoder": 0,
+      "decoder": 2,
       "webPlus": {}
     },
     {
@@ -41,7 +41,7 @@
       "subTitle": "讀檔整理中",
       "click": true,
       "autoNext": false,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },
     {
@@ -107,7 +107,7 @@
       "subTitle": "讀檔整理中",
       "click": true,
       "autoNext": false,
-      "decoder": 0,
+      "decoder": 3,
       "webPlus": {}
     }
   ]
