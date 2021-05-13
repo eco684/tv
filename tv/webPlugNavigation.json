@@ -10,7 +10,6 @@
       "webUrl": "https://jumi.tv/",
       "webOpen": false,
       "click": true,
-      "decoder": 0,
       "webPlus": {
         "search_url": "https://jumi.tv/search/wd/{kw}.html",
         "nav_url": "https://jumi.tv/show/navCate/page/navPage/year/2021.html",
@@ -180,7 +179,6 @@
       "webUrl": "https://imaple.co/",
       "webOpen": false,
       "click": true,
-      "decoder": 1,
       "webPlus": {
         "search_url": "https://imaple.co/search/wd/{kw}.html",
         "nav_url": "https://imaple.co/show/navCate/page/navPage/year/2021.html",
@@ -342,7 +340,6 @@
       "webUrl": "https://www.jpysvip.net/",
       "webOpen": false,
       "click": true,
-      "decoder": 2,
       "webPlus": {
         "search_url": "https://www.jpysvip.net/vodsearch/{kw}-------------.html",
         "nav_url": "https://www.jpysvip.net/vodshow/navCate--------navPage---2021.html",
@@ -2380,7 +2377,7 @@
             "mainCss": "body.mo-cols-body.mo-cols-minw.mo-back-muted.mo-body-backs.mo-ptxs-80px.mo-part-potn.mo-pbxs-50px.mo-pbsm-0px div.mo-main-info div.mo-cols-case.mo-java-waps div.mo-cols-lays.mo-back-white.mo-part-round ul.mo-cols-rows",
             "mainListIndex": 0,
             "nameAttr": "",
-            "nameCss": "li.mo-paxs-5px:nth-child(1) > a:nth-child(2)",
+            "nameCss": "/ul/li[1]/a[2]",
             "nameIndex": 0,
             "searchListCss": "ul > li",
             "urlAttr": "href",
@@ -2405,7 +2402,7 @@
             "mainCss": "div.mo-main-info",
             "mainListIndex": 0,
             "nameAttr": "",
-            "nameCss": "dl.mo-deta-info:nth-child(1) > dd:nth-child(2) > h1:nth-child(1) > a:nth-child(1)",
+            "nameCss": "/dl[1]/dd/h1/a",
             "nameIndex": 0,
             "searchListCss": "dl.mo-deta-info.mo-cols-rows",
             "urlAttr": "href",
