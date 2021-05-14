@@ -67,7 +67,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.myui-panel-box.clearfix",
+            "mainCss": "tab-pane.fade.clearfix.active.in",
             "mainIndex": 0,
             "regIndexList": [
               0
