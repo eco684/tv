@@ -54,8 +54,8 @@
             "isReg": false,
             "isRegNeedDecoder": true,
             "listCss": "li > a",
-            "isMultiList": false,
-            "listCssMulti": "",
+            "isMultiList": true,
+            "listCssMulti": "div.tab-pane.fade.in.clearfix",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
@@ -161,7 +161,7 @@
         }
       }
     },
-        {
+    {
       "name": "極品影視(測試1)",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/1291578.jpg",
       "type": "webPlug",
@@ -214,14 +214,14 @@
             "isListItemAttr": true,
             "isReg": false,
             "isRegNeedDecoder": true,
-            "listCss": "li > a",
-            "isMultiList": false,
-            "listCssMulti": "",
+            "listCss": "ul > li",
+            "isMultiList": true,
+            "listCssMulti": "div.tab-pane.fade.in.clearfix",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.myui-content__list",
-            "mainIndex": 1,
+            "mainCss": "div.myui-panel-box.clearfix",
+            "mainIndex": 0,
             "regIndexList": [
               0
             ],
@@ -375,13 +375,13 @@
             "isListItemAttr": true,
             "isReg": false,
             "isRegNeedDecoder": true,
-            "listCss": "li > a",
-            "isMultiList": false,
-            "listCssMulti": "",
+            "listCss": "ul > li.col-lg-10.col-md-8.col-sm-6.col-xs-4",
+            "isMultiList": true,
+            "listCssMulti": "div.tab-pane.fade.in.clearfix",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.myui-content__list",
+            "mainCss": "div.myui-panel-box.clearfix",
             "mainIndex": 2,
             "regIndexList": [
               0
