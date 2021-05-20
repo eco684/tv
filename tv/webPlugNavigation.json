@@ -350,7 +350,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://jumi.tv/search/wd/{kw}.html",
-        "nav_url": "https://jumi.tv/type/navCate-navPage.html",
+        "nav_url": "https://jumi.tv/show/navCate/page/navPage/year/2019.html",
         "cate_url": "https://jumi.tv/type/cateNav/page/catePage/year/cateYear.html",
         "web_name": "劇迷TV[線路3](2019片)",
         "kw": "wd",
@@ -680,7 +680,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.jpysvip.net/vodsearch/{kw}-------------.html",
-        "nav_url": "https://www.jpysvip.net/vodshow/navCate--------navPage---2021.html",
+        "nav_url": "https://www.jpysvip.net/vodshow/navCate--------navPage---2020.html",
         "cate_url": "https://www.jpysvip.net/vodtype/cateNav/page/catePage/year/cateYear.html",
         "web_name": "極品影視[線路2](2020年片)",
         "kw": "wd",
@@ -1323,7 +1323,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.haimianys.com/index.php/vod/search.html?wd={kw}",
-        "nav_url": "https://www.haimianys.com/index.php/vod/show/id/navCate/page/navPage/year/2021.html",
+        "nav_url": "https://www.haimianys.com/index.php/vod/show/id/navCate/page/navPage/year/2020.html",
         "cate_url": "https://www.haimianys.com/index.php/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "海綿影視(2021片)",
         "kw": "wd",
