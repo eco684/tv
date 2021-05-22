@@ -4,8 +4,8 @@
       "name": "劇迷TV(2021年片)",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/30402296.jpg",
       "type": "webPlug",
-      "subTitle": "高清有篩選",
-      "subMobileTitle": "(wpcm調試中2.23）質量高",
+      "subTitle": "1080p",
+      "subMobileTitle": "1080p",
       "ads": "",
       "webUrl": "https://jumi.tv/",
       "webOpen": false,
@@ -170,20 +170,20 @@
       }
     },
     {
-      "name": "劇迷TV[線路2](2020年片)",
+      "name": "劇迷TV[線路2]",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/30402296.jpg",
       "type": "webPlug",
-      "subTitle": "高清有篩選",
-      "subMobileTitle": "(wpcm調試中2.23）質量高",
+      "subTitle": "1080p",
+      "subMobileTitle": "1080p",
       "ads": "",
       "webUrl": "https://jumi.tv/",
       "webOpen": false,
       "click": true,
       "webPlus": {
         "search_url": "https://jumi.tv/search/wd/{kw}.html",
-        "nav_url": "https://jumi.tv/show/navCate/page/navPage/year/2020.html",
+        "nav_url": "https://jumi.tv/show/navCate/page/navPage/year/2021.html",
         "cate_url": "https://jumi.tv/show/navCate/cateArea/cateCate/page/navPage/cateYear.html",
-        "web_name": "劇迷TV[線路2](2021年片)",
+        "web_name": "劇迷TV[線路2]",
         "kw": "wd",
         "params": [
           {
@@ -339,7 +339,7 @@
       }
     },
     {
-      "name": "劇迷TV[線路3](2019片)",
+      "name": "劇迷TV[線路3]",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/30402296.jpg",
       "type": "webPlug",
       "subTitle": "1080p",
@@ -350,9 +350,9 @@
       "click": true,
       "webPlus": {
         "search_url": "https://jumi.tv/search/wd/{kw}.html",
-        "nav_url": "https://jumi.tv/show/navCate/page/navPage/year/2019.html",
+        "nav_url": "https://jumi.tv/show/navCate/page/navPage/year/2021.html",
         "cate_url": "https://jumi.tv/type/cateNav/page/catePage/year/cateYear.html",
-        "web_name": "劇迷TV[線路3](2019片)",
+        "web_name": "劇迷TV[線路3]",
         "kw": "wd",
         "params": [
           {
@@ -669,7 +669,7 @@
       }
     },
     {
-      "name": "極品影視[線路2](2020年片)",
+      "name": "極品影視[線路2]",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/6791750.jpg",
       "type": "webPlug",
       "subTitle": "高清有篩選",
@@ -680,7 +680,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.jpysvip.net/vodsearch/{kw}-------------.html",
-        "nav_url": "https://www.jpysvip.net/vodshow/navCate--------navPage---2020.html",
+        "nav_url": "https://www.jpysvip.net/vodshow/navCate--------navPage---2021.html",
         "cate_url": "https://www.jpysvip.net/vodtype/cateNav/page/catePage/year/cateYear.html",
         "web_name": "極品影視[線路2](2020年片)",
         "kw": "wd",
@@ -1312,7 +1312,7 @@
       }
     },
     {
-      "name": "海綿影視[線路2](2020片)",
+      "name": "海綿影視[線路2]",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/30179560.jpg",
       "type": "webPlug",
       "subTitle": "1080p",
@@ -1323,9 +1323,9 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.haimianys.com/index.php/vod/search.html?wd={kw}",
-        "nav_url": "https://www.haimianys.com/index.php/vod/show/id/navCate/page/navPage/year/2020.html",
+        "nav_url": "https://www.haimianys.com/index.php/vod/show/id/navCate/page/navPage/year/2021.html",
         "cate_url": "https://www.haimianys.com/index.php/vod/show/id/cateNav/page/catePage/year/cateYear.html",
-        "web_name": "海綿影視[線路2](2020片)",
+        "web_name": "海綿影視[線路2]",
         "kw": "wd",
         "params": [
           {
