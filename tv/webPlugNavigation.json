@@ -350,7 +350,7 @@
       "click": true,
       "webPlus": {
         "search_url": "http://maguays.cc/index.php/vod/search.html?wd={kw}&submit=",
-        "nav_url": "http://maguays.cc/index.php/vod/show/id/navCate/page/navPage.html",
+        "nav_url": "http://maguays.cc/index.php/vod/show/id/navCate/page/navPage.html?btwaf=14849846",
         "cate_url": "https://jumi.tv/type/cateNav/page/catePage/year/cateYear.html",
         "web_name": "麻瓜影院(2021年片)",
         "kw": "wd",
@@ -830,7 +830,7 @@
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://www.lekkan.com/vodsearch/-------------/?wd={kw}=",
+        "search_url": "https://www.lekkan.com/vodsearch/-------------/?wd={kw}&submit=",
         "nav_url": "https://www.lekkan.com/vodshow/navCate--------navPage---2021/",
         "cate_url": "https://www.jpysvip.net/vodtype/cateNav/page/catePage/year/cateYear.html",
         "web_name": "樂看(2021年片)",
