@@ -395,7 +395,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": " ul.content_playlist.clearfix",
+            "mainCss": " html body.bstem div.container div.left_row.fl div#bofy.pannel.clearfix div.play_source div.play_list_box.hide.show div.playlist_full ul.content_playlist.clearfix",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -424,12 +424,12 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.vodlist.vodlist_wi",
+            "mainCss": "html body.fixres div#show_page div.container div.row div.pannel.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "ul > li",
+            "searchListCss": "li.vodlist_item.num_*",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -449,7 +449,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.vodlist.clearfix",
+            "mainCss": "html body div.container div.left_row.fl div.pannel.search_box.clearfix ul.vodlist.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
