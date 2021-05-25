@@ -350,7 +350,7 @@
       "click": true,
       "webPlus": {
         "search_url": "http://maguays.cc/index.php/vod/search.html?wd={kw}&submit=",
-        "nav_url": "http://maguays.cc/index.php/vod/show/id/navCate/page/navPage.html?btwaf=14849846",
+        "nav_url": "http://maguays.cc/index.php/vod/show/id/navCate/page/navPage.html",
         "cate_url": "https://jumi.tv/type/cateNav/page/catePage/year/cateYear.html",
         "web_name": "麻瓜影院(2021年片)",
         "kw": "wd",
@@ -395,7 +395,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "html body.bstem div.container div.left_row.fl div#bofy.pannel.clearfix div.play_source div.play_list_box.hide.show div#playlistbox.playlist_notfull ul.content_playlist.list_scroll.clearfix",
+            "mainCss": " ul.content_playlist.clearfix",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -424,12 +424,12 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "html body.fixres div#show_page div.container div.row div.pannel.clearfix ul.vodlist.vodlist_wi",
+            "mainCss": "ul.vodlist.vodlist_wi",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "li.vodlist_item",
+            "searchListCss": "ul > li",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -449,7 +449,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "html body div.container div.left_row.fl div.pannel.search_box.clearfix ul.vodlist.clearfix",
+            "mainCss": "ul.vodlist.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
