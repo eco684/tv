@@ -505,7 +505,6 @@
     {
       "name": "555電影(2021年片)",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/20470074.jpg",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "20200512修正",
       "subMobileTitle": "20210512修正",
@@ -2140,7 +2139,6 @@
     {
       "name": "神馬影視720p",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/35216228.jpg",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "720p",
       "subMobileTitle": "720p",
@@ -2460,7 +2458,6 @@
     {
       "name": "鲨鱼TV(2021年片)",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/34925179.jpg",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "20210527增",
       "subMobileTitle": "20210527增",
@@ -2471,7 +2468,7 @@
       "webPlus": {
         "search_url": "https://www.sharktv.cn/search.html?wd={kw}",
         "nav_url": "https://www.sharktv.cn/navCate.html",
-        "cate_url": "https://www.wydcn.com/vod/show/id/cateNav/page/catePage/year/cateYear.html",
+        "cate_url": "https://www.sharktv.cn/navCate.html?cat=all&area=all&year=&act=&rank=rankhot&pageno=navPage",
         "web_name": "鲨鱼TV(2021年片)",
         "kw": "wd",
         "params": [
@@ -2509,13 +2506,13 @@
             "isListItemAttr": true,
             "isReg": false,
             "isRegNeedDecoder": false,
-            "listCss": "am-btn-sm.btn-play-source",
+            "listCss": "button.am-btn.am-btn-sm.btn-play-source.am-btn-secondary",
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "data-url",
             "listItemCss": "",
             "listItemIndex": 0,
-            "mainCss": "div.am-tab-panel.am-fade.am-in.am-active.am-scrollable-vertical",
+            "mainCss": "body.am-with-fixed-navbar div.am-container div.am-panel.am-panel-default div.am-panel-bd div#tv-res-choose.am-tabs div.am-tabs-bd.tv-res-lists div#youku.am-tab-panel.am-fade.am-in.am-active",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -2534,11 +2531,11 @@
             "isWebPlay": false,
             "descAttr": "",
             "descCss": "a.movie-item div.movie-cover span.movie-description p",
-            "descIndex": 0,
+            "descIndex": 1,
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": true,
-            "imgAttr": "src",
-            "imgCss": "a.movie-item div.movie-cover img.img-loaded",
+            "imgAttr": "data-original",
+            "imgCss": "a.movie-item div.movie-cover",
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
@@ -2784,7 +2781,7 @@
             "videoIndex": 1,
             "isVideoUrlAttr": true,
             "videoUrlAttr": "",
-            "isFromWebView": false,
+            "isFromWebView": true,
             "js": ""
           }
         }
