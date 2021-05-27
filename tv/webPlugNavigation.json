@@ -2544,7 +2544,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.am-avg-sm-3.am-avg-md-4.am-avg-lg-7.am-thumbnails.movie-lists",
+            "mainCss": "html.js.cssanimations body.am-with-fixed-navbar div.am-container ul.am-avg-sm-3.am-avg-md-4.am-avg-lg-7.am-thumbnails.movie-lists",
             "mainListIndex": 0,
             "nameAttr": "",
             "nameCss": "a.movie-item div.movie-title p.movie-name",
@@ -2574,7 +2574,7 @@
             "nameAttr": "alt",
             "nameCss": "dvi > a",
             "nameIndex": 0,
-            "searchListCss": "ul > li",
+            "searchListCss": "li.am-g.am-list-item-desced.am-list-item-thumbed.am-list-item-thumb-left",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
