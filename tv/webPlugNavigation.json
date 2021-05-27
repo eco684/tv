@@ -341,7 +341,7 @@
       }
     },
     {
-      "name": "COKEMV影視(硬解)",
+      "name": "COKEMV影視(2021硬解)",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/27166442.jpg",
       "type": "webPlug",
       "subTitle": "在線1080P電影",
@@ -355,7 +355,7 @@
         "search_url": "https://cokemv.cn/vodsearch/-------------.html?wd={kw}&submit=",
         "nav_url": "https://cokemv.cn/vodshow/navCate--------navPage---2021.html",
         "cate_url": "http://gudanys.com/vod/show/id/cateNav/page/catePage/year/cateYear.html",
-        "web_name": "COKEMV影視(硬解)",
+        "web_name": "COKEMV影視(2021硬解)",
         "kw": "wd",
         "params": [
           {
@@ -2470,7 +2470,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.sharktv.cn/search.html?wd={kw}",
-        "nav_url": "https://www.sharktv.cn/navCate.html?cat=&area=&year=2021&act=&rank=rankhot&pageno=navPage",
+        "nav_url": "https://www.sharktv.cn/cateNav.html?cat=all&area=all&year=&act=&rank=rankhot&pageno=catePage",
         "cate_url": "https://www.wydcn.com/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "鲨鱼TV(2021年片)",
         "kw": "wd",
@@ -2572,9 +2572,9 @@
             "mainCss": "html.js.cssanimations body.am-with-fixed-navbar div.am-container.search-body div.am-list-news.am-list-news-default.am-no-layout div.am-list-news-bd ul.am-list",
             "mainListIndex": 0,
             "nameAttr": "alt",
-            "nameCss": "a",
+            "nameCss": "dvi > a",
             "nameIndex": 0,
-            "searchListCss": "li.am-g.am-list-item-desced.am-list-item-thumbed.am-list-item-thumb-left",
+            "searchListCss": "ul > li",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
