@@ -2470,7 +2470,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.sharktv.cn/search.html?wd={kw}",
-        "nav_url": "https://www.sharktv.cn/cateNav.html?cat=all&area=all&year=&act=&rank=rankhot&pageno=catePage",
+        "nav_url": "https://www.sharktv.cn/navCate.html?cat=&area=&year=&act=&rank=rankhot&pageno=navPage",
         "cate_url": "https://www.wydcn.com/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "鲨鱼TV(2021年片)",
         "kw": "wd",
