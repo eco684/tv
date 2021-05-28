@@ -2339,7 +2339,7 @@
         },
         "html": {
           "episodes": {
-            "hasUrlPrefix": false,
+            "hasUrlPrefix": true,
             "isListItemAttr": true,
             "isReg": false,
             "isRegNeedDecoder": false,
