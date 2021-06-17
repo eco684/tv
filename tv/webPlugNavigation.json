@@ -400,7 +400,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "html body.active div.container div.row div.myui-panel.myui-panel-bg.clearfix div.myui-panel-box.clearfix div.tab-content.myui-panel_bd div#playlist1.tab-pane.fade.in.clearfix.active",
+            "mainCss": "html body.active div.myui-container-bg.padding-0 div.container div.row div.myui-player__item.clearfix div#player-sidebar.col-md-wide-25.padding-0 div.myui-panel.active.clearfix div.myui-panel-box.clearfix div.tab-content.mb10 div#player1.tab-pane.fade.in.active.clearfix ul#playlist.myui-content__list.playlist.clearfix",
             "mainIndex": 0,
             "regIndexList": [
               0
