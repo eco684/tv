@@ -341,21 +341,21 @@
       }
     },
     {
-      "name": "追劇達人(2021)",
-      "pic": "https://xh-img-pullzone-888.b-cdn.net/35205803.jpg",
+      "name": "劇迷TV(2021年片)",
+      "pic": "https://xh-img-pullzone-888.b-cdn.net/30402296.jpg",
       "type": "webPlug",
-      "subTitle": "在線1080P電影",
-      "subMobileTitle": "20210617新增",
+      "subTitle": "1080p",
+      "subMobileTitle": "1080p",
       "ads": "",
-      "webUrl": "http://vipmv.tv",
+      "webUrl": "https://jumi.tv/",
       "webOpen": false,
       "click": true,
       "decoder": 0,
       "webPlus": {
-        "search_url": "http://vipmv.tv/index.php/vod/search.html?wd={kw}&submit=",
-        "nav_url": "http://vipmv.tv/index.php/vod/show/id/navCate/page/navPage/year/2021.html",
-        "cate_url": "http://gudanys.com/vod/show/id/cateNav/page/catePage/year/cateYear.html",
-        "web_name": "追劇達人(2021)",
+        "search_url": "https://jumi.tv/search/wd/{kw}.html",
+        "nav_url": "https://jumi.tv/show/navCate/page/navPage/year/2021.html",
+        "cate_url": "https://jumi.tv/show/navCate/cateArea/cateCate/page/navPage/cateYear.html",
+        "web_name": "劇迷TV(2021年片)",
         "kw": "wd",
         "params": [
           {
@@ -365,18 +365,26 @@
         ],
         "navHtml": {
           "name": [
+            "陸劇",
             "電影",
-            "連續劇",
+            "台劇",
+            "港劇",
+            "日劇",
+            "美集",
             "綜藝",
             "動漫",
-            "動作片"
+            "韓劇"
           ],
           "cate": [
+            "13",
             "1",
-            "2",
+            "22",
+            "14",
+            "15",
+            "16",
             "3",
             "4",
-            "6"
+            "23"
           ],
           "page": "1"
         },
@@ -400,12 +408,12 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.myui-content__list.sort-list.clearfix",
+            "mainCss": "ul.myui-content__list",
             "mainIndex": 0,
             "regIndexList": [
               0
             ],
-            "regItemIndex": "",
+            "regItemIndex": 0,
             "regItemStr": "",
             "regSplitList": [
               ""
@@ -418,7 +426,7 @@
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "span.pic-text.text-right",
+            "descCss": "span.pic-text.text-center",
             "descIndex": 0,
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
@@ -429,7 +437,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist.clearfix",
+            "mainCss": "ul.myui-vodlist",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -443,7 +451,7 @@
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "span.pic-text.text-right",
+            "descCss": "span.pic-text.text-center",
             "descIndex": 0,
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
@@ -454,12 +462,12 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul#searchList.myui-vodlist__media.clearfix",
+            "mainCss": "ul.myui-vodlist__media",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "ul > li ",
+            "searchListCss": "ul > li",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
