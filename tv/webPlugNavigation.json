@@ -171,7 +171,7 @@
             "listItemAttr": "data-url",
             "listItemCss": "button",
             "listItemIndex": 0,
-            "mainCss": "div#local.am-tab-panel.am-fade.am-in.am-active",
+            "mainCss": "div.am-tab-panel.am-fade.am-in.am-active",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -204,7 +204,7 @@
             "mainListIndex": 0,
             "nameAttr": "",
             "nameCss": "a > div > p",
-            "nameIndex": 1,
+            "nameIndex": 0,
             "searchListCss": "li",
             "urlAttr": "href",
             "urlCss": "a",
