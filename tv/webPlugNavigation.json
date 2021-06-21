@@ -292,7 +292,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "body.archive.category.category-censored.category-5.hfeed div#page div#content.site-content.row div#primary.content-area main#main.site-main.with-aside div.archive-content.clearfix-after div.video-list-content div.videos-list",
+            "mainCss": "div.video-list-content div.videos-list",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a > div > video",
