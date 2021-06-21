@@ -292,7 +292,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.video-list-content div.videos-list",
+            "mainCss": "/body/div[1]/div[4]/div[1]/main/div[2]/div[1]/div",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a > div > video",
