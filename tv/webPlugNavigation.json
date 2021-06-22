@@ -4,8 +4,8 @@
       "name": "劇迷TV(2021年片)",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/30402296.jpg",
       "type": "webPlug",
-      "subTitle": "1080p",
-      "subMobileTitle": "1080p",
+      "subTitle": "eco684_20210622增加",
+      "subMobileTitle": "eco684_20210622增加",
       "ads": "",
       "webUrl": "https://jumi.tv/",
       "webOpen": false,
@@ -174,8 +174,8 @@
       "name": "劇迷TV[線路2]",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/30402296.jpg",
       "type": "webPlug",
-      "subTitle": "1080p",
-      "subMobileTitle": "1080p",
+      "subTitle": "eco684_20210622增加",
+      "subMobileTitle": "eco684_20210622增加",
       "ads": "",
       "webUrl": "https://jumi.tv/",
       "webOpen": false,
@@ -344,8 +344,8 @@
       "name": "追劇達人(2021)",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/35205803.jpg",
       "type": "webPlug",
-      "subTitle": "20210617新增",
-      "subMobileTitle": "1080p",
+      "subTitle": "eco684_20210622增加",
+      "subMobileTitle": "eco684_20210622增加",
       "ads": "",
       "webUrl": "http://vipmv.tv/",
       "webOpen": false,
@@ -465,8 +465,8 @@
       "name": "COKEMV影視(2021硬解)",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/27166442.jpg",
       "type": "webPlug",
-      "subTitle": "在線1080P電影",
-      "subMobileTitle": "在線1080P電影",
+      "subTitle": "eco684_20210622增加",
+      "subMobileTitle": "eco684_20210622增加",
       "ads": "",
       "webUrl": "https://cokemv.cn/",
       "webOpen": false,
@@ -627,8 +627,8 @@
       "name": "大師兄2(2021年片)",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/27045615.jpg",
       "type": "webPlug",
-      "subTitle": "202010527增加",
-      "subMobileTitle": "202010527增加",
+      "subTitle": "eco684_20210622增加",
+      "subMobileTitle": "eco684_20210622增加",
       "ads": "",
       "webUrl": "https://tv.ci/",
       "webOpen": false,
@@ -789,8 +789,8 @@
       "name": " 爱迪影视(2021年片)",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/34925179.jpg",
       "type": "webPlug",
-      "subTitle": "202010528增加",
-      "subMobileTitle": "202010528增加",
+      "subTitle": "eco684_20210622增加",
+      "subMobileTitle": "eco684_20210622增加",
       "ads": "",
       "webUrl": "https://aidi.tv/",
       "webOpen": false,
@@ -1128,8 +1128,8 @@
       "name": "樂看(2021年片)",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/35314507.jpg",
       "type": "webPlug",
-      "subTitle": "202010527增加",
-      "subMobileTitle": "202010527增加",
+      "subTitle": "eco684_20210622增加",
+      "subMobileTitle": "eco684_20210622增加",
       "ads": "",
       "webUrl": "https://www.lekkan.com/",
       "webOpen": false,
@@ -1290,8 +1290,8 @@
       "name": "飯團影院",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/26805209.jpg",
       "type": "webPlug",
-      "subTitle": "1080P快速",
-      "subMobileTitle": "1080P快速",
+      "subTitle": "eco684_20210622增加",
+      "subMobileTitle": "eco684_20210622增加",
       "ads": "",
       "webUrl": "https://fantuan.tv/",
       "webOpen": false,
@@ -1449,11 +1449,11 @@
       }
     },
     {
-      "name": "一只魚",
+      "name": "一只魚(2021年片)",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/27166442.jpg",
       "type": "webPlug",
-      "subTitle": "高清速度快(菜單鍵或上下鍵選集)",
-      "subMobileTitle": "高清速度快",
+      "subTitle": "eco684_20210622修改",
+      "subMobileTitle": "eco684_20210622修改",
       "ads": "",
       "webUrl": "https://www.4kyu.cc",
       "webOpen": false,
@@ -1461,9 +1461,9 @@
       "decoder": 0,
       "webPlus": {
         "search_url": "https://www.4kyu.cc/vodsearch/{kw}-------------.html",
-        "nav_url": "https://www.4kyu.cc/vodshow/navCate--------navPage---.html",
+        "nav_url": "https://www.4kyu.cc/vodshow/navCate--------navPage---2021.html",
         "cate_url": "https://www.4kyu.cc/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-        "web_name": "一只魚",
+        "web_name": "一只魚(2021年片)",
         "kw": "wd",
         "params": [
           {
@@ -1475,24 +1475,24 @@
           "name": [
             "全部",
             "藍光電影",
-            "藍光紀錄片",
             "藍光影視",
             "藍光港台",
-            "藍光英美",
             "藍光日韓",
             "藍光動漫",
-            "藍光綜藝"
+            "藍光綜藝",
+            "藍光英美",
+            "藍光紀錄片"
           ],
           "cate": [
             "23",
-            "24",
             "31",
             "25",
             "79",
-            "81",
             "80",
             "26",
-            "33"
+            "33",
+            "81",
+            "24"
           ],
           "page": "1"
         },
@@ -1578,11 +1578,11 @@
       }
     },
     {
-      "name": "9億看看",
+      "name": "9億(2021年片)",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/33424345.jpg",
       "type": "webPlug",
-      "subTitle": "快速",
-      "subMobileTitle": "快速",
+      "subTitle": "eco684_20210622修改",
+      "subMobileTitle": "eco684_20210622修改",
       "ads": "",
       "webUrl": "http://www.9ekk.com",
       "webOpen": false,
@@ -1590,9 +1590,9 @@
       "decoder": 0,
       "webPlus": {
         "search_url": "https://9ehao.com/vod/search.html?wd={kw}&submit=",
-        "nav_url": "https://9ehao.com/vodshow/navCate/page/navPage.html",
+        "nav_url": "https://www.9ehao.com/vodshow/navCate/page/navPage/year/2021.html",
         "cate_url": "https://9ehao.com/vodshow/cateNav/area/cateArea/page/catePage/year/cateYear/class/cateCate",
-        "web_name": "9億看看",
+        "web_name": "9億(2021年片)",
         "kw": "wd",
         "params": [
           {
@@ -1602,38 +1602,18 @@
         ],
         "navHtml": {
           "name": [
-            "国语配音",
-            "热播电影",
-            "热播电视",
-            "国产剧",
-            "热播美剧",
-            "国配外剧",
-            "动作片",
-            "喜剧片",
-            "爱情片",
-            "科幻片",
-            "恐怖片",
-            "剧情片",
-            "战争片",
-            "综艺",
-            "动漫"
+            "電影",
+            "電視",
+            "綜藝",
+            "動漫",
+            "動作片"
           ],
           "cate": [
-            "gypy",
-            "zuijinrebodianying",
-            "zuijinrebodianshiju",
-            "guochanju",
-            "rebomeiju",
-            "guoyupeiyinhanju",
-            "dongzuopian",
-            "xijupian",
-            "aiqingpian",
-            "kehuanpian",
-            "kongbupian",
-            "juqingpian",
-            "zhanzhengpian",
+            "dianying",
+            "lianxuju",
             "zongyi",
-            "dongman"
+            "dongman",
+            "dongzuopian"
           ],
           "page": "1"
         },
@@ -2081,6 +2061,124 @@
       }
     },
     {
+      "name": "鲨鱼TV(2021年片)",
+      "pic": "https://xh-img-pullzone-888.b-cdn.net/34925179.jpg",
+      "type": "webPlug",
+      "subTitle": "eco684_20210622增加",
+      "subMobileTitle": "eco684_20210622增加",
+      "ads": "",
+      "webUrl": "https://www.mgtv.com.favnow.com/?token=sharktv&v=",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "https://www.sharktv.cn/search.html?wd={kw}",
+        "nav_url": "https://www.sharktv.cn/navCate.html?cat=all&area=all&year=&act=&rank=rankhot&pageno=navPage",
+        "cate_url": "https://www.sharktv.cn/navCate.html?cat=all&area=all&year=&act=&rank=rankhot&pageno=navPage",
+        "web_name": "鲨鱼TV(2021年片)",
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
+          }
+        ],
+        "navHtml": {
+          "name": [
+            "電影",
+            "電視劇",
+            "動漫",
+            "綜藝"
+          ],
+          "cate": [
+            "movie",
+            "tv",
+            "cartoon",
+            "variety"
+          ],
+          "page": "1"
+        },
+        "cateHtml": {},
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": true,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "button",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "data-url",
+            "listItemCss": "button",
+            "listItemIndex": 0,
+            "mainCss": "div.am-tab-panel.am-fade.am-in.am-active",
+            "mainIndex": 0,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "p",
+            "descCss": "div > span > p",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": true,
+            "imgAttr": "data-original",
+            "imgCss": "a > div > img",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": false,
+            "isUrlAttr": true,
+            "mainCss": "ul.am-avg-sm-3.am-avg-md-4.am-avg-lg-7.am-thumbnails.movie-lists",
+            "mainListIndex": 0,
+            "nameAttr": "",
+            "nameCss": "a > div > p",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "span.video-score.am-hide-sm",
+            "descCss": "div > a",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": true,
+            "imgAttr": "data-original",
+            "imgCss": "div > a > img",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "body.am-with-fixed-navbar div.am-container.search-body div.am-list-news.am-list-news-default.am-no-layout div.am-list-news-bd ul.am-list",
+            "mainListIndex": 0,
+            "nameAttr": "alt",
+            "nameCss": "div > a > img.img-loaded",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "div > a",
+            "urlIndex": 0
+          },
+          "video": {}
+        }
+      }
+    },
+    {
       "name": "海綿影視[線路2]",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/30179560.jpg",
       "type": "webPlug",
@@ -2401,292 +2499,6 @@
             "isFromWebView": false,
             "js": ""
           }
-        }
-      }
-    },
-    {
-      "name": "555電影(2021年片)",
-      "pic": "https://xh-img-pullzone-888.b-cdn.net/20470074.jpg",
-      "type": "webPlug",
-      "subTitle": "20200512修正",
-      "subMobileTitle": "20210528修正",
-      "ads": "",
-      "webUrl": "https://www.o8tv.com/index.php",
-      "webOpen": false,
-      "click": false,
-      "decoder": 0,
-      "webPlus": {
-        "search_url": "https://www.o8tv.com/index.php/vod/search.html?wd={kw}&submit=",
-        "nav_url": "https://www.o8tv.com/index.php/vod/show/id/navCate/page/navPage/year/2021.html",
-        "cate_url": "https://www.o8tv.com/index.php/vod/show/area/cateArea/class/cateCate/id/navCate/year/CateYear.html",
-        "web_name": "555電影(2021年片)",
-        "kw": "wd",
-        "params": [
-          {
-            "key": "key",
-            "value": "value"
-          }
-        ],
-        "navHtml": {
-          "name": [
-            "全部",
-            "藍光電影",
-            "電影",
-            "藍光連續劇",
-            "連續劇",
-            "藍光綜藝",
-            "藍光動漫",
-            "動漫"
-          ],
-          "cate": [
-            78,
-            106,
-            1,
-            107,
-            2,
-            109,
-            108,
-            4
-          ],
-          "page": "1"
-        },
-        "cateHtml": {
-          "isCate": false,
-          "isYear": false,
-          "isArea": false,
-          "cate": "全部,&&动作,动作&&喜剧,喜剧&&爱情,爱情&&科幻,科幻",
-          "year": "全部,&&2021,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
-          "area": "全部,&&大陆,大陆&&香港,香港&&台湾,台湾&&美国,美国&&韩国,韩国&&其他,其他"
-        },
-        "html": {
-          "episodes": {
-            "hasUrlPrefix": false,
-            "isListItemAttr": true,
-            "isReg": false,
-            "isRegNeedDecoder": false,
-            "listCss": "li > a",
-            "isMultiList": false,
-            "listCssMulti": "",
-            "listItemAttr": "href",
-            "listItemCss": "a",
-            "listItemIndex": 0,
-            "mainCss": "ul.hl-plays-list.hl-sort-list.clearfix",
-            "mainIndex": 0,
-            "regIndexList": [
-              0
-            ],
-            "regItemIndex": 0,
-            "regItemStr": "",
-            "regSplitList": [
-              ""
-            ],
-            "regStrList": [
-              ""
-            ]
-          },
-          "nav": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "span.hl-lc-1.remarks",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "ul.hl-vod-list.clearfix",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "ul > li ",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "search": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "span.hl-lc-1.remarks",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "div.hl-list-wrap",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "ul > li ",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "video": {
-            "episodesListCss": "",
-            "episodesMainCss": "",
-            "episodesMainIndex": 0,
-            "hasEpisodes": false,
-            "hasUrlPrefix": false,
-            "iframeAttr": "src",
-            "iframeIndex": 0,
-            "isFrame": true,
-            "isFrameProcess": false,
-            "isItemAttr": false,
-            "isNameAttr": false,
-            "isReg": true,
-            "isUrlAttr": false,
-            "itemAttr": "",
-            "itemCss": "script",
-            "itemIndex": 2,
-            "mainCss": "body",
-            "mainIndex": 0,
-            "nameAttr": "",
-            "nameCss": "",
-            "nameIndex": 0,
-            "regIndex": 0,
-            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
-            "title": "",
-            "urlAttr": "",
-            "urlCss": "",
-            "urlIndex": 0,
-            "videoCss": "",
-            "videoIndex": 1,
-            "isVideoUrlAttr": true,
-            "videoUrlAttr": "",
-            "isFromWebView": false,
-            "js": ""
-          }
-        }
-      }
-    },
-    {
-      "name": "鲨鱼TV(2021年片)",
-      "pic": "https://xh-img-pullzone-888.b-cdn.net/34925179.jpg",
-      "type": "webPlug",
-      "subTitle": "20210527增",
-      "subMobileTitle": "20210527增",
-      "ads": "",
-      "webUrl": "https://www.sharktv.cn/",
-      "webOpen": false,
-      "click": false,
-      "webPlus": {
-        "search_url": "https://www.sharktv.cn/search.html?wd={kw}",
-        "nav_url": "https://www.sharktv.cn/navCate.html?cat=all&area=all&year=&act=&rank=rankhot&pageno=navPage",
-        "cate_url": "https://www.sharktv.cn/navCate.html?cat=all&area=all&year=&act=&rank=rankhot&pageno=navPage",
-        "web_name": "鲨鱼TV(2021年片)",
-        "kw": "wd",
-        "params": [
-          {
-            "key": "key",
-            "value": "value"
-          }
-        ],
-        "navHtml": {
-          "name": [
-            "電影",
-            "電視劇",
-            "動漫",
-            "綜藝"
-          ],
-          "cate": [
-            "movie",
-            "tv",
-            "cartoon",
-            "variety"
-          ],
-          "page": "1"
-        },
-        "cateHtml": {},
-        "html": {
-          "episodes": {
-            "hasUrlPrefix": true,
-            "isListItemAttr": true,
-            "isReg": false,
-            "isRegNeedDecoder": false,
-            "listCss": "button",
-            "isMultiList": false,
-            "listCssMulti": "",
-            "listItemAttr": "data-url",
-            "listItemCss": "button",
-            "listItemIndex": 0,
-            "mainCss": "div.am-tab-panel.am-fade.am-in.am-active",
-            "mainIndex": 0,
-            "regIndexList": [
-              0
-            ],
-            "regItemIndex": 0,
-            "regItemStr": "",
-            "regSplitList": [
-              ""
-            ],
-            "regStrList": [
-              ""
-            ]
-          },
-          "nav": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "p",
-            "descCss": "div > span > p",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": true,
-            "imgAttr": "data-original",
-            "imgCss": "a > div > img",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": false,
-            "isUrlAttr": true,
-            "mainCss": "ul.am-avg-sm-3.am-avg-md-4.am-avg-lg-7.am-thumbnails.movie-lists",
-            "mainListIndex": 0,
-            "nameAttr": "",
-            "nameCss": "a > div > p",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "search": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "span.video-score.am-hide-sm",
-            "descCss": "div > a",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": true,
-            "imgAttr": "data-original",
-            "imgCss": "div > a > img",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "body.am-with-fixed-navbar div.am-container.search-body div.am-list-news.am-list-news-default.am-no-layout div.am-list-news-bd ul.am-list",
-            "mainListIndex": 0,
-            "nameAttr": "alt",
-            "nameCss": "div > a > img.img-loaded",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "div > a",
-            "urlIndex": 0
-          },
-          "video": {}
         }
       }
     },
