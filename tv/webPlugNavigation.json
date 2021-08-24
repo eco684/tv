@@ -1178,7 +1178,7 @@
       "decoder": 0,
       "webPlus": {
         "search_url": "http://vipmv.tv/index.php/vod/search.html?wd={kw}&submit=",
-        "nav_url": "http://vipmv.tv/vodshow/navCate.html",
+        "nav_url": "http://vipmv.tv/Movietype/navCate.html",
         "cate_url": "https://jumi.tv/show/navCate/cateArea/cateCate/page/navPage/cateYear.html",
         "web_name": "追劇達人",
         "kw": "wd",
