@@ -1248,11 +1248,11 @@
             "isNameAttr": true,
             "isUrlAttr": true,
             "mainCss": "div.vodlist.hotgrow.size.listdh",
-            "mainListIndex": 1,
+            "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "div.pack-packcover.returl.list-top-b",
+            "searchListCss": "div.pack-ykpack",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
