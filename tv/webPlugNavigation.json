@@ -1247,7 +1247,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "body div.wwp.wow.fadeInUp.animated div.wwp.public.wow.fadeInUp.top20.animated div.vodlist.hotgrow.size.listdh",
+            "mainCss": "body div.wwp.wow.fadeInUp.animated div.wwp.public.wow.fadeInUp.top20.animated div.vodlist",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
