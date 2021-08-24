@@ -1,6 +1,17 @@
 ﻿{
   "data": [
     {
+      "name": "天龍八部",
+      "pic": "https://img.molimao.top/jm/upload/vod/20210814-1/27e76820cddaf59c8f64891d1155878f.jpg",
+      "url": "https://github.com/eco684/tv/raw/main/tv/s4.txt",
+      "type": "txt",
+      "subTitle": "讀檔整理中",
+      "click": true,
+      "autoNext": false,
+      "decoder": 2,
+      "webPlus": {}
+    },
+    {
       "name": "千古玦塵",
       "pic": "https://img13.360buyimg.com/ddimg/jfs/t1/183571/3/9368/15328/60ca9cf4E9536a133/c51115f1d4fae881.jpg",
       "url": "https://github.com/eco684/tv/raw/main/tv/s3.txt",
@@ -13,7 +24,7 @@
     },
     {
       "name": "理智派生活",
-      "pic": "https://xh-img-pullzone-888.b-cdn.net/35196776.jpg",
+      "pic": "https://img.molimao.top/jm/upload/vod/20210401-2/fc07ccab1aad59d24256ed161c9c9362.jpg",
       "url": "https://github.com/eco684/tv/raw/main/tv/理智派生活.txt",
       "type": "txt",
       "subTitle": "讀檔整理中",
@@ -23,19 +34,8 @@
       "webPlus": {}
     },
     {
-      "name": "劇迷TV測試S4",
-      "pic": "https://img13.360buyimg.com/ddimg/jfs/t1/177606/11/722/41136/60839cfcEa2d00609/3e1b3ac6314682b6.jpg",
-      "url": "https://github.com/eco684/tv/raw/main/tv/s4.txt",
-      "type": "txt",
-      "subTitle": "讀檔整理中",
-      "click": true,
-      "autoNext": false,
-      "decoder": 2,
-      "webPlus": {}
-    },
-    {
       "name": "大明風華2019",
-      "pic": "https://xh-img-pullzone-888.b-cdn.net/27094895.jpg",
+      "pic": "https://ae01.alicdn.com/kf/U463451cb28434796806d755a46a08ee8L.jpg",
       "url": "https://github.com/eco684/tv/raw/main/tv/大明風華.txt",
       "type": "txt",
       "subTitle": "讀檔整理中",
@@ -48,6 +48,17 @@
       "name": "獨播庫小女霓裳",
       "pic": "https://pub.gboku.com/upload/vod/20210416-1/4b80d591786853689253cdf5eac85dee.jpg",
       "url": "https://github.com/eco684/tv/raw/main/tv/小女霓裳.txt",
+      "type": "txt",
+      "subTitle": "讀檔整理中",
+      "click": true,
+      "autoNext": false,
+      "decoder": 2,
+      "webPlus": {}
+    },
+    {
+      "name": "封神演義2019",
+      "pic": "https://img.molimao.top/jm/upload/vod/20210407-2/7cfac429e5f2afb0613eff00447b1a84.jpg",
+      "url": "https://github.com/eco684/tv/raw/main/tv/封神演義2019.txt",
       "type": "txt",
       "subTitle": "讀檔整理中",
       "click": true,
@@ -92,17 +103,6 @@
       "name": "TV01",
       "pic": "https://www.hcpst.gov.tw/images2/4031camellia.jpg",
       "url": "https://github.com/eco684/tv/raw/main/tv/AV01TV.txt",
-      "type": "txt",
-      "subTitle": "讀檔整理中",
-      "click": true,
-      "autoNext": false,
-      "decoder": 2,
-      "webPlus": {}
-    },
-    {
-      "name": "封神演義2019",
-      "pic": "https://xh-img-pullzone-888.b-cdn.net/25970952.jpg",
-      "url": "https://github.com/eco684/tv/raw/main/tv/封神演義2019.txt",
       "type": "txt",
       "subTitle": "讀檔整理中",
       "click": true,
