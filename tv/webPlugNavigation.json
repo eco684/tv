@@ -1252,7 +1252,7 @@
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "div > div",
+            "searchListCss": "div.pack-packcover.returl.list-top-b",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
