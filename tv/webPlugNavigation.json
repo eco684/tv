@@ -1587,7 +1587,7 @@
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "div.pack",
+            "searchListCss": "div.pack-ykpack",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -2636,12 +2636,12 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "html body div.container div.row div.container div.row div.col-lg-wide-8.col-xs-1.padding-0 div.stui-pannel.stui-pannel-bg.clearfix div.stui-pannel-box div.stui-pannel_bd ul.stui-vodlist.clearfix",
+            "mainCss": "ul.stui-vodlist",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "li.col-md-5.col-sm-4.col-xs-3",
+            "searchListCss": "ul > li",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
