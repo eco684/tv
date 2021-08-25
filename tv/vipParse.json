@@ -1,151 +1,31 @@
 ﻿{
   "data": [
     {
-      "id": 20,
-      "name": "jx1",
+      "id": 1,
+      "name": "劇迷",
       "ad": "no",
-      "url": "http://jiexi.huxinjiaoyi.com/analysis.php?url="
+      "url": "https://titan.mgtv.com.jumi.tv/player/analysis.php?v="
     },
     {
-      "id": 20,
-      "name": "jx2",
+      "id": 1,
+      "name": "B站解析1",
       "ad": "no",
-      "url": "https://v.jhdyw.vip/jhcs/?url="
+      "url": "https://vip.parwix.com:4433/player/?url="
     },
     {
-      "id": 20,
-      "name": "jx3",
+      "id": 1,
+      "name": "BL",
       "ad": "no",
-      "url": "https://jx.url.js.cn/?url="
+      "url": "https://vip.bljiex.com/?v="
     },
     {
-      "id": 20,
-      "name": "titan",
+      "id": 1,
+      "name": "ccyjjd",
       "ad": "no",
-      "url": " https://titan.mgtv.com.parwix.com:4433/player/analysis.php?v="
+      "url": "https://ckmov.ccyjjd.com/ckmov/?url="
     },   
     {
-      "id": 20,
-      "name": "4K渝",
-      "ad": "no",
-      "url": "http://4kyu.cc/xplay/?url="
-    },
-    {
-      "id": 20,
-      "name": "恐怖",
-      "ad": "no",
-      "url": "https://m3u8.kongbuya.com/?url="
-    },    
-    {
-      "id": 20,
-      "name": "1907",
-      "ad": "no",
-      "url": "https://z1.m1907.cn/?jx="
-    },
-    {
-      "id": 20,
-      "name": "17云",
-      "ad": "no",
-      "url": "https://www.1717yun.com/jx/ty.php?url="
-    },
-    {
-      "id": 20,
-      "name": "屌?解析",
-      "ad": "no",
-      "url": "https://api.xdiaosi.com/?url="
-    },
-    {
-      "id": 19,
-      "name": "ckmov",
-      "ad": "no",
-      "url": "https://www.ckmov.vip/api.php?url="
-    },
-    {
-      "id": 19,
-      "name": "nxflv",
-      "ad": "no",
-      "url": "https://www.nxflv.com/?url="
-    },
-    {
-      "id": 19,
-      "name": "91jxs",
-      "ad": "no",
-      "url": "https://www.91jxs.com/jiexi/?url="
-    },
-    {
-      "id": 19,
-      "name": "iztyy",
-      "ad": "no",
-      "url": "https://jx.iztyy.com/svip/?url="
-    },
-    {
-      "id": 19,
-      "name": "ppflv",
-      "ad": "no",
-      "url": "http://jx.ppflv.com/?url="
-    },
-    {
-      "id": 19,
-      "name": "618g",
-      "ad": "no",
-      "url": "https://jx.618g.com/?url="
-    },
-    {
-      "id": 19,
-      "name": "ivito",
-      "ad": "no",
-      "url": "https://jx.ivito.cn/?url="
-    },
-    {
-      "id": 19,
-      "name": "ap2p",
-      "ad": "no",
-      "url": "https://jx.ap2p.cn/?url="
-    },
-    {
-      "id": 19,
-      "name": "3jx",
-      "ad": "no",
-      "url": "http://api.3jx.top/vip/?url="
-    },
-    {
-      "id": 19,
-      "name": "v8解析",
-      "ad": "no",
-      "url": "https://jx.sujx.top/jiexi.php/?url="
-     },
-     {
-       "id": 19,
-       "name": "ll解析",
-       "ad": "no",
-       "url": "http://jx.hao-zsj.cn/vip/?url="
-     },
-     {
-       "id": 19,
-       "name": "月亮云解析",
-       "ad": "no",
-       "url": "http://api.yueliangjx.com/?url="
-     },
-     {
-       "id": 19,
-       "name": "全网解析",
-       "ad": "no",
-       "url": "https://jx.elwtc.com/vip/?url="
-      },
-      {
-        "id": 19,
-        "name": "66解析s",
-        "ad": "no",
-        "url": "https://api.3jx.top/vip/?url="
-      },
-      {
-        "id": 19,
-        "name": "我要解析",
-        "ad": "no",
-        "url": "https://api.51jiexi.xyz/?url="
-      },
-      {
-        "id": 19,
+        "id": 1,
         "name": "la",
         "ad": "no",
         "url": "http://api.jiexi.la/?url="
