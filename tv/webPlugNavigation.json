@@ -1587,7 +1587,7 @@
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "div.pack-ykpack",
+            "searchListCss": "div.pack-ykpack > div.pack-packcover",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -2569,7 +2569,7 @@
       "click": true,
       "webPlus": {
         "search_url": "http://1090ys2.com/search.html?wd={kw}&submit=",
-        "nav_url": "http://1090ys2.com/whole/navCate/page/navPage.html",
+        "nav_url": "http://1090ys2.com/whole/navCate/page/navPage/year/2021.html",
         "cate_url": "",
         "web_name": "1090影視（無法篩選)",
         "kw": "wd",
@@ -2641,7 +2641,7 @@
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "ul > li",
+            "searchListCss": "li.col-md-5",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
