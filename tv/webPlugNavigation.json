@@ -1587,7 +1587,7 @@
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "div.pack-ykpack > div.pack-packcover",
+            "searchListCss": "div",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -2429,7 +2429,7 @@
       }
     },
     {
-      "name": "一只魚(2021年片)",
+      "name": "一只魚",
       "pic": "https://xh-img-pullzone-888.b-cdn.net/27166442.jpg",
       "type": "webPlug",
       "subTitle": "eco684_20210622修改",
@@ -2441,9 +2441,9 @@
       "decoder": 0,
       "webPlus": {
         "search_url": "https://www.4kyu.cc/vodsearch/{kw}-------------.html",
-        "nav_url": "https://www.4kyu.cc/vodshow/navCate--------navPage---2021.html",
+        "nav_url": "https://www.4kyu.cc/vodtype/navCate-navPage.html",
         "cate_url": "https://www.4kyu.cc/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-        "web_name": "一只魚(2021年片)",
+        "web_name": "一只魚",
         "kw": "wd",
         "params": [
           {
@@ -2990,12 +2990,12 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.stui-vodlist",
+            "mainCss": "ul.stui-vodlist.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "li.col-md-5",
+            "searchListCss": "li",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
