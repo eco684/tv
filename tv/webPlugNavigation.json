@@ -3255,7 +3255,7 @@
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
-            "imgCss": "div.pack-packcover.returl.list-top-b a",
+            "imgCss": "a.aplus-exp.ecimgbor div.bj.eclazy",
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
