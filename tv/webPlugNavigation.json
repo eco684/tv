@@ -647,21 +647,21 @@
       }
     },
     {
-      "name": "範例(2021年片)",
-      "pic": "https://img.molimao.top/jm/upload/vod/20210605-1/4fe5463fb52b26ba3a8271159c5c4008.jpg",
+      "name": "影視工廠(2021年片)",
+      "pic": "https://img.molimao.top/jm/upload/vod/20210605-1/ee306ada34476c1a8546d9799d8a4c5f.jpg",
       "type": "webPlug",
       "subTitle": "eco684_20210622增加",
-      "subMobileTitle": "eco684_20210622增加",
+      "subMobileTitle": "eco684_20210910增加",
       "ads": "",
-      "webUrl": "https://jumi.tv/",
+      "webUrl": "https://www.ysgc.cc/",
       "webOpen": false,
       "click": true,
       "decoder": 0,
       "webPlus": {
-        "search_url": "https://jumi.tv/search/wd/{kw}.html",
-        "nav_url": "https://jumi.tv/show/navCate/page/navPage/year/2021.html",
+        "search_url": "https://www.ysgc.cc/vodsearch/{kw}-------------.html",
+        "nav_url": "https://www.ysgc.cc/vodshow/navCate--------navPage---2021.html",
         "cate_url": "https://jumi.tv/show/navCate/cateArea/cateCate/page/navPage/cateYear.html",
-        "web_name": "範例(2021年片)",
+        "web_name": "影視工廠(2021年片)",
         "kw": "wd",
         "params": [
           {
@@ -671,16 +671,22 @@
         ],
         "navHtml": {
           "name": [
-            "陸劇",
             "電影",
+            "陸劇",
             "台劇",
-            "台劇"
+            "日韓劇",
+            "歐美影",
+            "動漫",
+            "綜藝"
           ],
           "cate": [
-            "13",
             "1",
-            "22",
-            "23"
+            13,
+            14,
+            15,
+            "16",
+            "4",
+            "3"
           ],
           "page": "1"
         },
@@ -726,7 +732,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist",
+            "mainCss": "ul.myui-vodlist.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -740,7 +746,7 @@
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "span.pic-text.text-center",
+            "descCss": "span.pic-text.text-right",
             "descIndex": 0,
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
@@ -751,7 +757,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist__media",
+            "mainCss": "ul#searchList.myui-vodlist",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -3250,7 +3256,7 @@
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "span.pack-prb.hidden",
-            "descCss": "a.aplus-exp.ecimgbor div.bj.eclazy",
+            "descCss": "div.bj.eclazy",
             "descIndex": 0,
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
