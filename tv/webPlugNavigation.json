@@ -494,7 +494,7 @@
       }
     },
     {
-      "name": "蛋蛋讚影院(2021年片)",
+      "name": "泥巴影院",
       "pic": "https://ae01.alicdn.com/kf/U91c40f4e77ef4c598c60bfd0f1839c8fA.jpg",
       "type": "webPlug",
       "subTitle": "eco684_20210622增加",
@@ -505,10 +505,10 @@
       "click": true,
       "decoder": 0,
       "webPlus": {
-        "search_url": "https://www.dandanzan.cc/so/{kw}-{kw}--.html",
-        "nav_url": "https://www.dandanzan.cc/navCate/index_navPage.html",
+        "search_url": "https://www.mudvod.tv/search.html?keyword={kw}&catId=1",
+        "nav_url": "https://www.mudvod.tv/filter.html?x=1&channelId=navCate",
         "cate_url": "https://jumi.tv/show/navCate/cateArea/cateCate/page/navPage/cateYear.html",
-        "web_name": "蛋蛋讚影院(2021年片)",
+        "web_name": "泥巴影院",
         "kw": "wd",
         "params": [
           {
@@ -524,10 +524,10 @@
             "動漫"
           ],
           "cate": [
-            "dianying",
-            "dianshiju",
-            "zongyi",
-            "dongman"
+            1,
+            2,
+            3,
+            4
           ],
           "page": "1"
         },
@@ -544,7 +544,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.playlist.clearfix",
+            "mainCss": "ul#play_list_0.qy-episode-num",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -562,50 +562,50 @@
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "div.note span",
+            "descCss": "",
             "descIndex": 0,
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
-            "imgAttr": "src",
-            "imgCss": "a",
+            "imgAttr": "",
+            "imgCss": "",
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.lists-content",
+            "mainCss": "ul.qy-mod-ul",
             "mainListIndex": 0,
-            "nameAttr": "alt",
-            "nameCss": "a",
+            "nameAttr": "title",
+            "nameCss": "div.qy-list-img.vertical div.title-wrap p.main a",
             "nameIndex": 0,
-            "searchListCss": "ul > li",
+            "searchListCss": "li.qy-mod-li",
             "urlAttr": "href",
-            "urlCss": "a",
+            "urlCss": "div.qy-list-img.vertical div.title-wrap p.main a",
             "urlIndex": 0
           },
           "search": {
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "div.note span",
+            "descCss": "",
             "descIndex": 0,
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
-            "imgAttr": "src",
-            "imgCss": "a",
+            "imgAttr": "",
+            "imgCss": "",
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.lists-content",
+            "mainCss": "ul.qy-mod-ul",
             "mainListIndex": 0,
-            "nameAttr": "alt",
-            "nameCss": "a",
+            "nameAttr": "title",
+            "nameCss": "div.qy-list-img.vertical div.title-wrap p.main a.link-txt",
             "nameIndex": 0,
             "searchListCss": "ul > li",
             "urlAttr": "href",
-            "urlCss": "a",
+            "urlCss": "div.qy-list-img.vertical div.title-wrap p.main a.link-txt",
             "urlIndex": 0
           },
           "video": {
@@ -1283,7 +1283,7 @@
       }
     },
     {
-      "name": " 爱迪影视",
+      "name": "愛迪影視",
       "pic": "https://ae01.alicdn.com/kf/U4ce2fa8f760543e9ad25d829a43840b7L.jpg",
       "type": "webPlug",
       "subTitle": "eco684_20210622增加",
@@ -1296,7 +1296,7 @@
         "search_url": "https://aidi.tv/vsearch/-------------.html?wd={kw}&submit=",
         "nav_url": "https://aidi.tv/show/navCate--------navPage---.html",
         "cate_url": "https://jumi.tv/type/cateNav/page/catePage/year/cateYear.html",
-        "web_name": "爱迪影视",
+        "web_name": "愛迪影視",
         "kw": "wd",
         "params": [
           {
