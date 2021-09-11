@@ -1855,7 +1855,7 @@
             "imgCss": "",
             "imgIndex": 0,
             "isDescAttr": false,
-            "isImgAttr": true,
+            "isImgAttr": false,
             "isNameAttr": true,
             "isUrlAttr": true,
             "mainCss": "div.card-body",
@@ -1865,7 +1865,7 @@
             "nameIndex": 0,
             "searchListCss": "ul.list-unstyled",
             "urlAttr": "href",
-            "urlCss": "a",
+            "urlCss": "div > div > a",
             "urlIndex": 0
           },
           "video": {
