@@ -1192,13 +1192,13 @@
             "isListItemAttr": true,
             "isReg": false,
             "isRegNeedDecoder": false,
-            "listCss": "ul > li > a",
+            "listCss": "li > a",
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "html body main#body div.container div.row div.col-lg-9.main div.card.card-thread div.card-body div.message.break-all div#player_list.clearfix.mt-3 h2.title.border-top.border-bottom.mb-3.pt-2.pb-2",
+            "mainCss": "ul.myui-content__list.scrollbar.sort-list.clearfix",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -1798,13 +1798,13 @@
             "isListItemAttr": true,
             "isReg": false,
             "isRegNeedDecoder": false,
-            "listCss": "ul li#0",
+            "listCss": "li > a",
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
             "listItemCss": "a.btn.btn-orange",
             "listItemIndex": 0,
-            "mainCss": "div#player_list.clearfix.mt-3",
+            "mainCss": "html body main#body div.container div.row div.col-lg-9.main div.card.card-thread div.card-body div.message.break-all div#player_list.clearfix.mt-3 ul",
             "mainIndex": 0,
             "regIndexList": [
               0
