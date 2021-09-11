@@ -1754,7 +1754,7 @@
       }
     },
     {
-      "name": "Auete影視",
+      "name": "Auete影視(只有第1頁內容)",
       "pic": "https://img.molimao.top/jm/upload/vod/20210605-1/b44835ba3d3d360381089b261a40e1af.jpg",
       "type": "webPlug",
       "subTitle": "eco684_20210911增加",
@@ -1768,7 +1768,7 @@
         "search_url": "https://auete.com/search.php?searchword={kw}",
         "nav_url": "https://auete.com/navCate/index.html",
         "cate_url": "https://jumi.tv/show/navCate/cateArea/cateCate/page/navPage/cateYear.html",
-        "web_name": "Auete影視",
+        "web_name": "Auete影視(只有第1頁內容)",
         "kw": "wd",
         "params": [
           {
@@ -1821,7 +1821,7 @@
           "nav": {
             "isKWInUrl": false,
             "isWebPlay": false,
-            "descAttr": "button.hdtag",
+            "descAttr": "button",
             "descCss": "a.pic",
             "descIndex": 0,
             "hasImgUrlPrefix": true,
@@ -1861,11 +1861,164 @@
             "mainCss": "div.card-body",
             "mainListIndex": 0,
             "nameAttr": "span.text-danger",
-            "nameCss": "a",
+            "nameCss": "li.media.thread.tap div.media-body div.subject.break-all a",
             "nameIndex": 0,
             "searchListCss": "ul.list-unstyled.threadlist.mb-0",
             "urlAttr": "href",
-            "urlCss": "a",
+            "urlCss": "li.media.thread.tap div.media-body div.subject.break-all a",
+            "urlIndex": 0
+          },
+          "video": {
+            "episodesListCss": "",
+            "episodesMainCss": "",
+            "episodesMainIndex": 0,
+            "hasEpisodes": false,
+            "hasUrlPrefix": false,
+            "iframeAttr": "src",
+            "iframeIndex": 0,
+            "isFrame": true,
+            "isFrameProcess": false,
+            "isItemAttr": false,
+            "isNameAttr": false,
+            "isReg": true,
+            "isUrlAttr": false,
+            "itemAttr": "",
+            "itemCss": "script",
+            "itemIndex": 2,
+            "mainCss": "body",
+            "mainIndex": 0,
+            "nameAttr": "",
+            "nameCss": "",
+            "nameIndex": 0,
+            "regIndex": 0,
+            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
+            "title": "",
+            "urlAttr": "",
+            "urlCss": "",
+            "urlIndex": 0,
+            "videoCss": "",
+            "videoIndex": 1,
+            "isVideoUrlAttr": true,
+            "videoUrlAttr": "",
+            "isFromWebView": false,
+            "js": ""
+          }
+        }
+      }
+    },
+    {
+      "name": "Auete影視(第2頁開始內容)",
+      "pic": "https://img.molimao.top/jm/upload/vod/20210605-1/b44835ba3d3d360381089b261a40e1af.jpg",
+      "type": "webPlug",
+      "subTitle": "eco684_20210911增加",
+      "subMobileTitle": "eco684_20210911增加",
+      "ads": "",
+      "webUrl": "https://auete.com/",
+      "webOpen": false,
+      "click": true,
+      "decoder": 0,
+      "webPlus": {
+        "search_url": "https://auete.com/search.php?searchword={kw}",
+        "nav_url": "https://auete.com/navCate/indexnavPage.html",
+        "cate_url": "https://jumi.tv/show/navCate/cateArea/cateCate/page/navPage/cateYear.html",
+        "web_name": "Auete影視(第2頁開始內容)",
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
+          }
+        ],
+        "navHtml": {
+          "name": [
+            "陸劇",
+            "電影",
+            "綜藝",
+            "動漫"
+          ],
+          "cate": [
+            "Tv",
+            "Movie",
+            "Zy",
+            "Dm"
+          ],
+          "page": "2"
+        },
+        "cateHtml": {},
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "li > a",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a.btn.btn-orange",
+            "listItemIndex": 0,
+            "mainCss": "html body main#body div.container div.row div.col-lg-9.main div.card.card-thread div.card-body div.message.break-all div#player_list.clearfix.mt-3 ul",
+            "mainIndex": 0,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "button",
+            "descCss": "a.pic",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "src",
+            "imgCss": "a.pic img.lazy",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.threadlist",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a.pic img.lazy",
+            "nameIndex": 0,
+            "searchListCss": "li.trans_3",
+            "urlAttr": "href",
+            "urlCss": "a.pic",
+            "urlIndex": 0
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "div.card-body",
+            "mainListIndex": 0,
+            "nameAttr": "span.text-danger",
+            "nameCss": "li.media.thread.tap div.media-body div.subject.break-all a",
+            "nameIndex": 0,
+            "searchListCss": "ul.list-unstyled.threadlist.mb-0",
+            "urlAttr": "href",
+            "urlCss": "li.media.thread.tap div.media-body div.subject.break-all a",
             "urlIndex": 0
           },
           "video": {
