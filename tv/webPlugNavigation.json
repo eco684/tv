@@ -1821,7 +1821,7 @@
           "nav": {
             "isKWInUrl": false,
             "isWebPlay": false,
-            "descAttr": "button",
+            "descAttr": "button.hdtag",
             "descCss": "a.pic",
             "descIndex": 0,
             "hasImgUrlPrefix": true,
