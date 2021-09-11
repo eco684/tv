@@ -1192,13 +1192,13 @@
             "isListItemAttr": true,
             "isReg": false,
             "isRegNeedDecoder": false,
-            "listCss": "li > a",
+            "listCss": "ul > li > a",
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.myui-content__list",
+            "mainCss": "html body main#body div.container div.row div.col-lg-9.main div.card.card-thread div.card-body div.message.break-all div#player_list.clearfix.mt-3 h2.title.border-top.border-bottom.mb-3.pt-2.pb-2",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -1802,7 +1802,7 @@
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
-            "listItemCss": "a",
+            "listItemCss": "a.btn.btn-orange",
             "listItemIndex": 0,
             "mainCss": "div#player_list.clearfix.mt-3",
             "mainIndex": 0,
@@ -1821,8 +1821,8 @@
           "nav": {
             "isKWInUrl": false,
             "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "span.pic-text.text-center",
+            "descAttr": "button",
+            "descCss": "a.pic",
             "descIndex": 0,
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
@@ -1840,7 +1840,7 @@
             "nameIndex": 0,
             "searchListCss": "li.trans_3",
             "urlAttr": "href",
-            "urlCss": "a",
+            "urlCss": "a.pic",
             "urlIndex": 0
           },
           "search": {
@@ -1858,14 +1858,14 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.card-body",
+            "mainCss": "html body main#body div.container div.row div.col-lg-9.main div.card div.card-body",
             "mainListIndex": 0,
             "nameAttr": "span.text-danger",
-            "nameCss": "ul.list-unstyled.threadlist.mb-0 li.media.thread.tap div.media-body div.subject.break-all a",
+            "nameCss": "div.subject.break-all a",
             "nameIndex": 0,
-            "searchListCss": "ul.list-unstyled",
+            "searchListCss": "ul.list-unstyled.threadlist.mb-0",
             "urlAttr": "href",
-            "urlCss": "ul.list-unstyled.threadlist.mb-0 li.media.thread.tap div.media-body div.subject.break-all",
+            "urlCss": "div.subject.break-all a",
             "urlIndex": 0
           },
           "video": {
