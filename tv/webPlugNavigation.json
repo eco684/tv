@@ -1855,7 +1855,7 @@
             "imgCss": "a",
             "imgIndex": 0,
             "isDescAttr": false,
-            "isImgAttr": false,
+            "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
             "mainCss": "div.card-body",
@@ -1863,7 +1863,7 @@
             "nameAttr": "span.text-danger",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "ul.list-unstyled > div.media-body  > div.subject",
+            "searchListCss": "ul > li ",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
