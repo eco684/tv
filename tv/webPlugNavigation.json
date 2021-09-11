@@ -1766,7 +1766,7 @@
       "decoder": 0,
       "webPlus": {
         "search_url": "https://auete.com/search.php?searchword={kw}",
-        "nav_url": "https://auete.com/navCate/indexnavPage.html",
+        "nav_url": "https://auete.com/navCate/index.html",
         "cate_url": "https://jumi.tv/show/navCate/cateArea/cateCate/page/navPage/cateYear.html",
         "web_name": "Auete影視",
         "kw": "wd",
@@ -1789,7 +1789,7 @@
             "Zy",
             "Dm"
           ],
-          "page": ""
+          "page": "1"
         },
         "cateHtml": {},
         "html": {
@@ -2753,7 +2753,7 @@
       "ads": "",
       "webUrl": "https://www.dandanzan.cc/",
       "webOpen": false,
-      "click": true,
+      "click": false,
       "decoder": 0,
       "webPlus": {
         "search_url": "https://www.mudvod.tv/search.html?keyword={kw}&catId=1",
