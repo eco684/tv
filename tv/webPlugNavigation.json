@@ -1798,13 +1798,13 @@
             "isListItemAttr": true,
             "isReg": false,
             "isRegNeedDecoder": false,
-            "listCss": "ul > li",
+            "listCss": "ul li#0",
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "h2.title.border-top.border-bottom.mb-3.pt-2.pb-2",
+            "mainCss": "div#player_list.clearfix.mt-3",
             "mainIndex": 0,
             "regIndexList": [
               0
