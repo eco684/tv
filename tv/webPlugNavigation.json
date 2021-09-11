@@ -1863,7 +1863,7 @@
             "nameAttr": "span.text-danger",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "ul > li ",
+            "searchListCss": "ul.list-unstyled.threadlist.mb-0",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
