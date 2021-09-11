@@ -1863,7 +1863,7 @@
             "nameAttr": "span.text-danger",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "li.media.thread.tap div.media-body div.subject.break-all",
+            "searchListCss": "ul.list-unstyled > div.media-body  > div.subject",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -2829,7 +2829,7 @@
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "div.qy-list-img.vertical div.title-wrap p.main",
+            "searchListCss": "li.qy-mod-li > div.qy-list-img > div.title-wrap > p.main",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -2849,14 +2849,14 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "html body div#__nuxt div#__layout div div#adSkinInner.qy-dark div.ph-skin-wrap div.qy-list-page div.list-content div#block-D.qy-list-wrap ul.qy-mod-ul",
+            "mainCss": "ul.qy-mod-ul",
             "mainListIndex": 0,
             "nameAttr": "title",
-            "nameCss": "div.qy-list-img.vertical div.title-wrap p.main a.link-txt",
+            "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "li.qy-mod-li",
+            "searchListCss": "li.qy-mod-li > div.qy-list-img > div.title-wrap > p.main",
             "urlAttr": "href",
-            "urlCss": "div.qy-list-img.vertical div.title-wrap p.main a.link-txt",
+            "urlCss": "a",
             "urlIndex": 0
           },
           "video": {
