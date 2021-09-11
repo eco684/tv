@@ -1864,8 +1864,8 @@
             "nameCss": "a",
             "nameIndex": 0,
             "searchListCss": "ul.list-unstyled",
-            "urlAttr": "href",
-            "urlCss": "div > div > a",
+            "urlAttr": "data-href",
+            "urlCss": "li",
             "urlIndex": 0
           },
           "video": {
