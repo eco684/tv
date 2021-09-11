@@ -1861,11 +1861,11 @@
             "mainCss": "html body main#body div.container div.row div.col-lg-9.main div.card div.card-body",
             "mainListIndex": 0,
             "nameAttr": "",
-            "nameCss": "",
+            "nameCss": "span.text-danger",
             "nameIndex": 0,
-            "searchListCss": "ul.list-unstyled",
+            "searchListCss": "ul.list-unstyled.threadlist.mb-0 li.media.thread.tap div.media-body div.subject.break-all",
             "urlAttr": "href",
-            "urlCss": "div.media-body div.subject.break-all a",
+            "urlCss": "a",
             "urlIndex": 0
           },
           "video": {
