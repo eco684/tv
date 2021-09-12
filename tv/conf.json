@@ -8,13 +8,6 @@
       "categories": []
     },
     {
-      "key": "阿房影視",
-      "name": "阿房影視",
-      "type": 0,
-      "api": "http://api.hszbj.net/api.php/provide/vod/at/xml",
-      "categories": []
-    },
-    {
       "key": "2A資源站",
       "name": "2A資源站",
       "type": 1,
@@ -927,16 +920,20 @@
       "url": "https://titan.mgtv.com.jumi.tv/player/analysis.php?v="
     },
     {
+      "name": "8old",
+      "url": "https://danmu.8old.cn/vip/?url="
+    },
+    {
+      "name": "海綿",
+      "url": "https://jxqd.hao7di.com/m3u8.php?url="
+    },
+    {
       "name": "高速接口1",
       "url": "https://jsap.attakids.com/?url="
     },
     {
       "name": "B站解析1",
       "url": "https://vip.parwix.com:4433/player/?url="
-    },
-    {
-      "name": "8old",
-      "url": "https://danmu.8old.cn/vip/?url="
     },
     {
       "name": "蝦米",
@@ -947,12 +944,12 @@
       "url": "https://www.ckplayer.vip/jiexi/?url="
     },
     {
-      "name": "BL",
-      "url": "https://vip.bljiex.com/?v="
+      "name": "九八",
+      "url": "https://jx.youyitv.com/?url="
     },
     {
-      "name": "樂多資源",
-      "url": "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid="
+      "name": "BL",
+      "url": "https://vip.bljiex.com/?v="
     },
     {
       "name": "ccyjjd",
@@ -967,16 +964,8 @@
       "url": "https://vip.laobandq.com/jiexi.php?url="
     },
     {
-      "name": "Mao解析",
-      "url": "https://qd.hxys.tv/m3u8.php?url="
-    },
-    {
       "name": "盤古",
       "url": "https://www.pangujiexi.cc/jiexi.php?url="
-    },
-    {
-      "name": "SSAMAO",
-      "url": "https://www.ssamao.com/jx/?url="
     },
     {
       "name": "無極",
@@ -995,10 +984,6 @@
       "url": "https://123.1dior.cn/?url="
     },
     {
-      "name": "福星",
-      "url": "https://jx.popo520.cn/jiexi/?url="
-    },
-    {
       "name": "RDHK",
       "url": "https://jx.rdhk.net/?v="
     },
@@ -1011,32 +996,12 @@
       "url": "https://api.jiexi.la/?url="
     },
     {
-      "name": "久播",
-      "url": "https://jx.jiubojx.com/vip.php?url="
-    },
-    {
-      "name": "九八",
-      "url": "https://jx.youyitv.com/?url="
-    },
-    {
       "name": "老板",
       "url": "https://vip.laobandq.com/jiexi.php?url="
     },
     {
-      "name": "樂喵",
-      "url": "https://jx.hao-zsj.cn/vip/?url="
-    },
-    {
       "name": "MUTV",
       "url": "https://jiexi.janan.net/jiexi/?url="
-    },
-    {
-      "name": "明日",
-      "url": "https://jx.yingxiangbao.cn/vip.php?url="
-    },
-    {
-      "name": "磨菇",
-      "url": "https://jx.wzslw.cn/?url="
     },
     {
       "name": "OK",
@@ -1049,14 +1014,6 @@
     {
       "name": "小蔣",
       "url": "https://www.kpezp.cn/jlexi.php?url="
-    },
-    {
-      "name": "小狼",
-      "url": "https://jx.yaohuaxuan.com/?url="
-    },
-    {
-      "name": "智能",
-      "url": "https://vip.kurumit3.top/?v="
     },
     {
       "name": "星馳",
@@ -1075,16 +1032,12 @@
       "url": "https://go.yh0523.cn/y.cy?url="
     },
     {
-      "name": "雲端",
+      "name": "雲端??",
       "url": "https://jx.ergan.top/?url="
     },
     {
       "name": "17雲",
       "url": "https://www.1717yun.com/jx/ty.php?url="
-    },
-    {
-      "name": "66",
-      "url": "https://api.3jx.top/vip/?url="
     },
     {
       "name": "116",
@@ -1101,6 +1054,46 @@
     {
       "name": "8090",
       "url": "https://www.8090g.cn/?url="
+    },
+    {
+      "name": "福星??",
+      "url": "https://jx.popo520.cn/jiexi/?url="
+    },
+    {
+      "name": "樂喵??",
+      "url": "https://jx.hao-zsj.cn/vip/?url="
+    },
+    {
+      "name": "久播??",
+      "url": "https://jx.jiubojx.com/vip.php?url="
+    },
+    {
+      "name": "明日??",
+      "url": "https://jx.yingxiangbao.cn/vip.php?url="
+    },
+    {
+      "name": "小狼??",
+      "url": "https://jx.yaohuaxuan.com/?url="
+    },
+    {
+      "name": "智能??",
+      "url": "https://vip.kurumit3.top/?v="
+    },
+    {
+      "name": "66??",
+      "url": "https://api.3jx.top/vip/?url="
+    },
+    {
+      "name": "SSAMAO??",
+      "url": "https://www.ssamao.com/jx/?url="
+    },
+    {
+      "name": "磨菇??",
+      "url": "https://jx.wzslw.cn/?url="
+    },
+    {
+      "name": "Mao解析??",
+      "url": "https://qd.hxys.tv/m3u8.php?url="
     }
   ],
   "flags": [
