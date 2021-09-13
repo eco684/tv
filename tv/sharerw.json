@@ -1,126 +1,245 @@
-###
 {
   "sites": [
+    {
+      "key": "極品資源",
+      "name": "極品資源",
+      "type": 0,
+      "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
+      "categories": []
+    },
     {
       "key": "快播雲",
       "name": "快播雲",
       "type": 0,
       "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
-      "categories": [
-        "國產劇",
-        "港台劇",
-        "日韓劇",
-        "歐美劇",
-        "泰劇",
-        "綜藝",
-        "動漫",
-        "動作片",
-        "喜劇片",
-        "愛情片",
-        "科幻片",
-        "恐怖片",
-        "劇情片",
-        "戰爭片",
-        "紀錄片"
-      ]
+      "categories": []
+    },
+        {
+      "key": "三零解析",
+      "name": "三零解析",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/at/xml/",
+      "categories": []
     },
     {
-      "key": "afys_spider",
-      "name": "阿房影視",
-      "type": 2,
-      "api": "7gxke5P9eFZoVV",
-      "playUrl": "",
-      "searchable": 1,
-      "filterable": 1
+      "key": "偵探APP",
+      "name": "偵探APP",
+      "type": 0,
+      "api": "http://ys.huangguay.com/api.php/provide/vod/at/xml/",
+      "categories": []
     },
     {
-      "key": "jpys_spider",
-      "name": "極品影視",
-      "type": 2,
-      "api": "xZk2ejNzP8Gape",
-      "playUrl": "",
-      "searchable": 0,
-      "filterable": 1
+      "key": "好好解析",
+      "name": "好好解析",
+      "type": 0,
+      "api": "http://haohaozy.com/api.php/provide/vod/at/xml/",
+      "categories": []
     },
     {
-      "key": "mgys_spider",
-      "name": "暮光影視",
-      "type": 2,
-      "api": "vnEF7qPNzi6C6C",
-      "playUrl": "",
-      "quickSearch": 0
+      "key": "電影牛解析",
+      "name": "電影解析牛",
+      "type": 0,
+      "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
+      "categories": []
     },
     {
-      "key": "ysgc_spider",
-      "name": "影視工廠",
-      "type": 2,
-      "api": "XXjMEvL4jg66rQ",
-      "playUrl": "",
-      "quickSearch": 0
+      "key": "8090解析",
+      "name": "8090解析",
+      "type": 0,
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
+      "playUrl": ""
     },
     {
-      "key": "auete_spider",
-      "name": "Auete影視",
-      "type": 2,
-      "api": "eboTY5qAokEemZ",
+      "key": "蘑菇解析很慢",
+      "name": "蘑菇解析很慢",
+      "type": 0,
+      "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
       "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
+      "categories": []
     },
     {
-      "key": "adys_spider",
-      "name": "愛迪影視",
-      "type": 2,
-      "api": "48YdXbyTkTe55r",
+      "key": "2A資解析",
+      "name": "2A資解析",
+      "type": 1,
+      "api": "http://zy.zcocc.com/api.php/provide/vod/",
       "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
+      "categories": []
     },
     {
-      "key": "hgys_spider",
-      "name": "HG影視",
-      "type": 2,
-      "api": "wkjskK5hA6Cxr7",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
+      "key": "無盡資源",
+      "name": "無盡資源",
+      "type": 0,
+      "api": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/",
+      "playUrl": ""
     },
     {
-      "key": "zjdr_spider",
-      "name": "追劇達人",
-      "type": 2,
-      "api": "irB66BwzwhbL4r",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
+      "key": "紅牛資源",
+      "name": "紅牛資源",
+      "type": 0,
+      "api": "https://www.hongniuzy.com/inc/hnm3u8.php",
+      "playUrl": "https://www.tutukiki.com/m3u8/?url="
     },
     {
-      "key": "zjm_spider",
-      "name": "追劇喵",
-      "type": 2,
-      "api": "KaxKyHhd9ErA9n",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
+      "key": "恐怖鴨資源",
+      "name": "恐怖鴨資源",
+      "type": 0,
+      "api": "https://kongbuya.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
     },
     {
-      "key": "xysgc_spider",
-      "name": "新影視工廠",
-      "type": 2,
-      "api": "Gy35wr8J2YUrtC",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
+      "key": "北鬥星",
+      "name": "北鬥星",
+      "type": 0,
+      "api": "https://v8.bdxzyapi.com/inc/api.php",
+      "playUrl": ""
     },
     {
-      "key": "kby_spider",
-      "name": "恐怖鴨",
-      "type": 2,
-      "api": "ZdZYGB9BcfXR6W",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
+      "key": "芒果",
+      "name": "芒果",
+      "type": 0,
+      "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
+      "categories": []
+    },
+    {
+      "key": "KK看劇",
+      "name": "KK看劇",
+      "type": 0,
+      "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
+      "categories": []
+    },
+    {
+      "key": "美劇星球",
+      "name": "美劇星球",
+      "type": 0,
+      "api": "https://www.meijuxq.com/inc/api.php",
+      "categories": []
+    },
+    {
+      "key": "八戒雲",
+      "name": "八戒雲",
+      "type": 0,
+      "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
+      "categories": []
+    },
+    {
+      "key": "速搜資源",
+      "name": "速搜資源",
+      "type": 0,
+      "api": "http://www.susouzy.com/api.php/provide/vod/at/xml",
+      "categories": []
+    },
+    {
+      "key": "安逸",
+      "name": "安逸",
+      "type": 0,
+      "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "1886",
+      "name": "1886",
+      "type": 0,
+      "api": "http://cj.1886zy.co/inc/api.php",
+      "playUrl": ""
+    },
+    {
+      "key": "獨播庫",
+      "name": "獨播庫",
+      "type": 0,
+      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "瑞瑞",
+      "name": "瑞瑞",
+      "type": 0,
+      "api": "http://http://www.ruiuri.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "北鬥星",
+      "name": "北鬥星",
+      "type": 0,
+      "api": "https://v8.bdxzyapi.com/inc/api.php",
+      "playUrl": ""
+    },
+    {
+      "key": "讚片",
+      "name": "讚片",
+      "type": 0,
+      "api": "http://vip.1573i.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "橘貓",
+      "name": "橘貓",
+      "type": 0,
+      "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "五一",
+      "name": "五一",
+      "type": 0,
+      "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "速影",
+      "name": "速影",
+      "type": 0,
+      "api": "https://xn--128-zm3fr26s.xyz/inc/api.php",
+      "playUrl": ""
+    },
+    {
+      "key": "淘片資源",
+      "name": "淘片資源",
+      "type": 0,
+      "api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "605資源",
+      "name": "605資源",
+      "type": 0,
+      "api": "http://www.605zy.co/inc/605m3u8.php",
+      "playUrl": ""
+    },
+    {
+      "key": "優果",
+      "name": "優果",
+      "type": 0,
+      "api": "https://www.ugvapi.com/inc/zyapimac.php",
+      "playUrl": ""
+    },
+    {
+      "key": "老鴨資源",
+      "name": "老鴨資源",
+      "type": 0,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://player.laoyam3u8.com/aliplayer/?url="
+    },
+    {
+      "key": "歐樂影院",
+      "name": "歐樂影院",
+      "type": 0,
+      "api": "https://www.olevod.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "天空資源",
+      "name": "天空資源",
+      "type": 0,
+      "api": "https://caiji.tiankongapi.com/inc/api.php",
+      "playUrl": ""
+    },
+    {
+      "key": "番茄資源",
+      "name": "番茄資源",
+      "type": 0,
+      "api": "http://api.fqzy.cc/api.php/provide/vod/at/xml",
+      "playUrl": "https://jx.fqzy.cc/jx.php?url="
     },
     {
       "key": "柚子資源",
@@ -128,60 +247,15 @@
       "type": 0,
       "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
       "playUrl": "",
-      "categories": [
-        "綜藝",
-        "動漫",
-        "動作",
-        "喜劇",
-        "愛情",
-        "科幻",
-        "恐怖",
-        "劇情",
-        "戰爭",
-        "大陸劇",
-        "港台劇",
-        "日韓劇",
-        "歐美劇",
-        "紀錄",
-        "海外劇",
-        "藍光電影",
-        "藍光電視劇",
-        "藍光動漫"
-      ]
+      "categories": []
     },
     {
-      "key": "樂多采集",
-      "name": "樂多采集",
+      "key": "穿梭資源",
+      "name": "穿梭資源",
       "type": 0,
-      "api": "https://cj.leduocaiji.com/inc/api.php",
-      "playUrl": "https://api.xxctzy.com/1.php?vid=",
-      "categories": [
-        "綜藝",
-        "動作片",
-        "喜劇片",
-        "愛情片",
-        "科幻片",
-        "恐怖片",
-        "劇情片",
-        "戰爭片",
-        "國產劇",
-        "港劇",
-        "日劇",
-        "歐美劇",
-        "台劇",
-        "韓劇",
-        "其他動漫",
-        "體育賽事",
-        "海外劇",
-        "紀錄片",
-        "國產動漫",
-        "日本動漫",
-        "歐美動漫",
-        "動畫電影",
-        "籃球",
-        "足球",
-        "網球"
-      ]
+      "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": []
     },
     {
       "key": "安逸影院",
@@ -189,94 +263,7 @@
       "type": 0,
       "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
       "playUrl": "",
-      "categories": [
-        "綜藝",
-        "動漫",
-        "動作片",
-        "喜劇片",
-        "愛情片",
-        "科幻片",
-        "恐怖片",
-        "劇情片",
-        "戰爭片",
-        "國產劇",
-        "港台劇",
-        "日韓劇",
-        "歐美劇",
-        "福利"
-      ]
-    },
-    {
-      "key": "2A資源站",
-      "name": "2A資源站",
-      "type": 1,
-      "api": "http://zy.zcocc.com/api.php/provide/vod/",
-      "playUrl": "",
-      "categories": [
-        "綜藝",
-        "動作片",
-        "喜劇片",
-        "愛情片",
-        "科幻片",
-        "恐怖片",
-        "劇情片",
-        "戰爭片",
-        "國產劇",
-        "香港劇",
-        "韓國劇",
-        "歐美劇",
-        "微電影",
-        "紀錄片",
-        "倫理片",
-        "冒險片",
-        "懸疑片",
-        "犯罪片",
-        "災難片",
-        "魔幻片",
-        "青春片",
-        "音樂片",
-        "其他片",
-        "驚悚片",
-        "動畫片",
-        "奇幻片",
-        "台灣劇",
-        "日本劇",
-        "其他劇",
-        "國產動漫",
-        "日本動漫",
-        "歐美動漫",
-        "其他動漫"
-      ]
-    },
-    {
-      "key": "蘑菇資源",
-      "name": "蘑菇資源",
-      "type": 0,
-      "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": [
-        "綜藝",
-        "動漫",
-        "動作片",
-        "喜劇片",
-        "愛情片",
-        "科幻片",
-        "恐怖片",
-        "劇情片",
-        "戰爭片",
-        "國產劇",
-        "港台劇",
-        "日韓劇",
-        "歐美劇",
-        "犯罪片",
-        "奇幻片",
-        "懸疑片",
-        "動畫片",
-        "驚悚片",
-        "古裝片",
-        "泰國劇",
-        "其他劇"
-      ]
+      "categories": []
     },
     {
       "key": "88資源",
@@ -284,29 +271,7 @@
       "type": 0,
       "api": "http://www.88zyw.net/inc/api.php",
       "playUrl": "",
-      "categories": [
-        "綜藝",
-        "動作片",
-        "喜劇片",
-        "愛情片",
-        "科幻片",
-        "恐怖片",
-        "劇情片",
-        "戰爭片",
-        "國產劇",
-        "港台劇",
-        "日韓劇",
-        "歐美劇",
-        "東南亞劇",
-        "倫理",
-        "性感",
-        "日本動漫",
-        "紀錄片",
-        "國產動漫",
-        "歐美動漫",
-        "里番",
-        "歐美片"
-      ]
+      "categories": []
     },
     {
       "key": "39影視",
@@ -314,21 +279,7 @@
       "type": 0,
       "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
       "playUrl": "",
-      "categories": [
-        "綜藝",
-        "動漫",
-        "動作片",
-        "喜劇片",
-        "愛情片",
-        "科幻片",
-        "恐怖片",
-        "劇情片",
-        "戰爭片",
-        "國產劇",
-        "港台劇",
-        "日韓劇",
-        "歐美劇"
-      ]
+      "categories": []
     },
     {
       "key": "追劇吧",
@@ -336,28 +287,70 @@
       "type": 0,
       "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
       "playUrl": "",
-      "categories": [
-        "電影",
-        "綜藝",
-        "動漫",
-        "動作片",
-        "喜劇片",
-        "愛情片",
-        "科幻片",
-        "恐怖片",
-        "劇情片",
-        "戰爭片",
-        "國產劇",
-        "港台劇",
-        "日韓劇",
-        "歐美劇",
-        "懸疑片",
-        "災難片",
-        "犯罪片",
-        "其他片",
-        "泰國劇",
-        "倫理片"
-      ]
+      "categories": []
+    },
+    {
+      "key": "玉米",
+      "name": "玉米",
+      "type": 0,
+      "api": "https://yumi.video/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "categories": []
+    },
+    {
+      "key": "TVB雲播",
+      "name": "TVB雲播",
+      "type": 0,
+      "api": "http://www.tvyb02.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": []
+    },
+    {
+      "key": "比心",
+      "name": "比心",
+      "type": 0,
+      "api": "http://bxin.tv/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "categories": []
+    },
+    {
+      "key": "愛尚",
+      "name": "愛尚",
+      "type": 0,
+      "api": "http://www.aisvod.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": []
+    },
+    {
+      "key": "豆瓣雲",
+      "name": "豆瓣雲",
+      "type": 0,
+      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "categories": []
+    },
+    {
+      "key": "38資源",
+      "name": "38資源",
+      "type": 0,
+      "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": []
+    },
+    {
+      "key": "思古",
+      "name": "思古",
+      "type": 0,
+      "api": "https://www.siguyy.com/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "categories": []
+    },
+    {
+      "key": "影派資源",
+      "name": "影派資源",
+      "type": 0,
+      "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
     }
   ],
   "lives": [
@@ -921,49 +914,30 @@
       ]
     }
   ],
-  "flags": [
-    "youku",
-    "qq",
-    "iqiyi",
-    "qiyi",
-    "letv",
-    "sohu",
-    "tudou",
-    "pptv",
-    "mgtv",
-    "wasu",
-    "bilibili"
-  ],
   "parses": [
     {
-      "name": "暮光解析",
-      "url": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
+      "name": "劇迷",
+      "url": "https://titan.mgtv.com.jumi.tv/player/analysis.php?v="
     },
     {
-      "name": "Parwix解析",
-      "url": "https://vip.parwix.com:4433/player/?url="
+      "name": "8old",
+      "url": "https://danmu.8old.cn/vip/?url="
     },
     {
-      "name": "Json.M3u8",
-      "url": "https://json.m3u8.tv:7788/json.php?url=",
-      "type": 1
+      "name": "無名",
+      "url": "https://www.administratorm.com/WMXZ.WANG/index.php?url="
     },
     {
-      "name": "Json.VodJX",
-      "url": "https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=",
-      "type": 1
+      "name": "海綿",
+      "url": "https://jxqd.hao7di.com/m3u8.php?url="
     },
     {
-      "name": "純凈解析",
-      "url": "https://z1.m1907.cn/?jx="
-    },
-    {
-      "name": "高速接口1",
+      "name": "高速",
       "url": "https://jsap.attakids.com/?url="
     },
     {
-      "name": "B站解析2",
-      "url": "https://www.cuan.la/m3u8.php?url="
+      "name": "B站",
+      "url": "https://vip.parwix.com:4433/player/?url="
     },
     {
       "name": "蝦米",
@@ -972,6 +946,10 @@
     {
       "name": "Ckplayer",
       "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "name": "九八",
+      "url": "https://jx.youyitv.com/?url="
     },
     {
       "name": "BL",
@@ -990,16 +968,8 @@
       "url": "https://vip.laobandq.com/jiexi.php?url="
     },
     {
-      "name": "Mao解析",
-      "url": "https://qd.hxys.tv/m3u8.php?url="
-    },
-    {
       "name": "盤古",
       "url": "https://www.pangujiexi.cc/jiexi.php?url="
-    },
-    {
-      "name": "SSAMAO",
-      "url": "https://www.ssamao.com/jx/?url="
     },
     {
       "name": "無極",
@@ -1018,10 +988,6 @@
       "url": "https://123.1dior.cn/?url="
     },
     {
-      "name": "福星",
-      "url": "https://jx.popo520.cn/jiexi/?url="
-    },
-    {
       "name": "RDHK",
       "url": "https://jx.rdhk.net/?v="
     },
@@ -1034,32 +1000,12 @@
       "url": "https://api.jiexi.la/?url="
     },
     {
-      "name": "久播",
-      "url": "https://jx.jiubojx.com/vip.php?url="
-    },
-    {
-      "name": "九八",
-      "url": "https://jx.youyitv.com/?url="
-    },
-    {
       "name": "老板",
       "url": "https://vip.laobandq.com/jiexi.php?url="
     },
     {
-      "name": "樂喵",
-      "url": "https://jx.hao-zsj.cn/vip/?url="
-    },
-    {
       "name": "MUTV",
       "url": "https://jiexi.janan.net/jiexi/?url="
-    },
-    {
-      "name": "明日",
-      "url": "https://jx.yingxiangbao.cn/vip.php?url="
-    },
-    {
-      "name": "磨菇",
-      "url": "https://jx.wzslw.cn/?url="
     },
     {
       "name": "OK",
@@ -1072,14 +1018,6 @@
     {
       "name": "小蔣",
       "url": "https://www.kpezp.cn/jlexi.php?url="
-    },
-    {
-      "name": "小狼",
-      "url": "https://jx.yaohuaxuan.com/?url="
-    },
-    {
-      "name": "智能",
-      "url": "https://vip.kurumit3.top/?v="
     },
     {
       "name": "星馳",
@@ -1098,16 +1036,8 @@
       "url": "https://go.yh0523.cn/y.cy?url="
     },
     {
-      "name": "雲端",
-      "url": "https://jx.ergan.top/?url="
-    },
-    {
       "name": "17雲",
       "url": "https://www.1717yun.com/jx/ty.php?url="
-    },
-    {
-      "name": "66",
-      "url": "https://api.3jx.top/vip/?url="
     },
     {
       "name": "116",
@@ -1125,6 +1055,18 @@
       "name": "8090",
       "url": "https://www.8090g.cn/?url="
     }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu"
   ],
   "ijk": [
     {
