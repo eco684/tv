@@ -23,8 +23,8 @@
       "categories": []
     },
     {
-      "key": "偵探APP",
-      "name": "偵探APP",
+      "key": "偵探解析",
+      "name": "偵探解析",
       "type": 0,
       "api": "http://ys.huangguay.com/api.php/provide/vod/at/xml/",
       "categories": []
@@ -38,7 +38,7 @@
     },
     {
       "key": "電影牛解析",
-      "name": "電影解析牛",
+      "name": "電影牛解析",
       "type": 0,
       "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
       "categories": []
@@ -59,8 +59,8 @@
       "categories": []
     },
     {
-      "key": "2A資解析",
-      "name": "2A資解析",
+      "key": "2A解析",
+      "name": "2A解析",
       "type": 1,
       "api": "http://zy.zcocc.com/api.php/provide/vod/",
       "playUrl": "",
