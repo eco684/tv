@@ -15,7 +15,7 @@
       "playUrl": "",
       "categories": []
     },
-        {
+    {
       "key": "三零解析",
       "name": "三零解析",
       "type": 0,
@@ -81,31 +81,45 @@
       "playUrl": "https://www.tutukiki.com/m3u8/?url="
     },
     {
-      "key": "恐怖鴨資源",
-      "name": "恐怖鴨資源",
+      "key": "三零-愛奇藝 ",
+      "name": "三零-愛奇藝 ",
       "type": 0,
-      "api": "https://kongbuya.com/api.php/provide/vod/at/xml/",
+      "api": "http://api.000zy.com/provide/vod/from/qiyi/at/xml/               ",
       "playUrl": ""
     },
     {
-      "key": "北鬥星",
-      "name": "北鬥星",
+      "key": "三零-騰訊",
+      "name": "三零-騰訊",
       "type": 0,
-      "api": "https://v8.bdxzyapi.com/inc/api.php",
+      "api": "http://api.000zy.com/provide/vod/from/qq/at/xml/               ",
       "playUrl": ""
     },
     {
-      "key": "芒果",
-      "name": "芒果",
+      "key": "三零-優酷 ",
+      "name": "三零-優酷 ",
       "type": 0,
-      "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
+      "api": "http://api.000zy.com/provide/vod/from/youku/at/xml/               ",
+      "playUrl": ""
+    },
+    {
+      "key": "三零-芒果TV ",
+      "name": "三零-芒果TV ",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/from/mgtv/at/xml/               ",
+      "playUrl": ""
+    },
+    {
+      "key": "三零-搜狐",
+      "name": "三零-搜狐",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/from/sohu/at/xml/",
       "categories": []
     },
     {
-      "key": "KK看劇",
-      "name": "KK看劇",
+      "key": "三零-樂視",
+      "name": "三零-樂視",
       "type": 0,
-      "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
+      "api": "http://api.000zy.com/provide/vod/from/letv/at/xml/",
       "categories": []
     },
     {
@@ -114,6 +128,13 @@
       "type": 0,
       "api": "https://www.meijuxq.com/inc/api.php",
       "categories": []
+    },
+    {
+      "key": "三零-PP",
+      "name": "三零-PP",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/from/pptv/at/xml/",
+      "playUrl": ""
     },
     {
       "key": "八戒雲",
@@ -141,13 +162,6 @@
       "name": "1886",
       "type": 0,
       "api": "http://cj.1886zy.co/inc/api.php",
-      "playUrl": ""
-    },
-    {
-      "key": "獨播庫",
-      "name": "獨播庫",
-      "type": 0,
-      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
@@ -211,20 +225,6 @@
       "name": "優果",
       "type": 0,
       "api": "https://www.ugvapi.com/inc/zyapimac.php",
-      "playUrl": ""
-    },
-    {
-      "key": "老鴨資源",
-      "name": "老鴨資源",
-      "type": 0,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://player.laoyam3u8.com/aliplayer/?url="
-    },
-    {
-      "key": "歐樂影院",
-      "name": "歐樂影院",
-      "type": 0,
-      "api": "https://www.olevod.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
