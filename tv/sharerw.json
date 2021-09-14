@@ -916,6 +916,10 @@
   ],
   "parses": [
     {
+      "name": "月亮",
+      "url": "https://api.yueliangjx.com/?url="
+    },
+    {
       "name": "劇迷",
       "url": "https://titan.mgtv.com.jumi.tv/player/analysis.php?v="
     },
@@ -934,6 +938,10 @@
     {
       "name": "高速",
       "url": "https://jsap.attakids.com/?url="
+    },
+    {
+      "name": "盤古",
+      "url": "https://www.pangujiexi.cc/jiexi.php?url="
     },
     {
       "name": "B站",
@@ -966,10 +974,6 @@
     {
       "name": "老板",
       "url": "https://vip.laobandq.com/jiexi.php?url="
-    },
-    {
-      "name": "盤古",
-      "url": "https://www.pangujiexi.cc/jiexi.php?url="
     },
     {
       "name": "無極",
@@ -1026,10 +1030,6 @@
     {
       "name": "星空",
       "url": "http://60jx.com/?url="
-    },
-    {
-      "name": "月亮",
-      "url": "https://api.yueliangjx.com/?url="
     },
     {
       "name": "0523",
