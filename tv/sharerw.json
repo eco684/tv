@@ -123,13 +123,6 @@
       "categories": []
     },
     {
-      "key": "美劇星球",
-      "name": "美劇星球",
-      "type": 0,
-      "api": "https://www.meijuxq.com/inc/api.php",
-      "categories": []
-    },
-    {
       "key": "三零-PP",
       "name": "三零-PP",
       "type": 0,
@@ -141,13 +134,6 @@
       "name": "八戒雲",
       "type": 0,
       "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
-      "categories": []
-    },
-    {
-      "key": "速搜資源",
-      "name": "速搜資源",
-      "type": 0,
-      "api": "http://www.susouzy.com/api.php/provide/vod/at/xml",
       "categories": []
     },
     {
@@ -165,24 +151,10 @@
       "playUrl": ""
     },
     {
-      "key": "瑞瑞",
-      "name": "瑞瑞",
-      "type": 0,
-      "api": "http://http://www.ruiuri.com/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
-    {
       "key": "北鬥星",
       "name": "北鬥星",
       "type": 0,
       "api": "https://v8.bdxzyapi.com/inc/api.php",
-      "playUrl": ""
-    },
-    {
-      "key": "讚片",
-      "name": "讚片",
-      "type": 0,
-      "api": "http://vip.1573i.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
@@ -250,14 +222,6 @@
       "categories": []
     },
     {
-      "key": "穿梭資源",
-      "name": "穿梭資源",
-      "type": 0,
-      "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "categories": []
-    },
-    {
       "key": "安逸影院",
       "name": "安逸影院",
       "type": 0,
@@ -286,62 +250,6 @@
       "name": "追劇吧",
       "type": 0,
       "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "玉米",
-      "name": "玉米",
-      "type": 0,
-      "api": "https://yumi.video/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "TVB雲播",
-      "name": "TVB雲播",
-      "type": 0,
-      "api": "http://www.tvyb02.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "比心",
-      "name": "比心",
-      "type": 0,
-      "api": "http://bxin.tv/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "愛尚",
-      "name": "愛尚",
-      "type": 0,
-      "api": "http://www.aisvod.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "豆瓣雲",
-      "name": "豆瓣雲",
-      "type": 0,
-      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "38資源",
-      "name": "38資源",
-      "type": 0,
-      "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "思古",
-      "name": "思古",
-      "type": 0,
-      "api": "https://www.siguyy.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": []
     },
