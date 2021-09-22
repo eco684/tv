@@ -401,7 +401,7 @@
             "nameAttr": "span.text-danger",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "ul.list-unstyled.threadlist.mb-0",
+            "searchListCss": "ul > li",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
