@@ -397,7 +397,7 @@
             "isNameAttr": true,
             "isUrlAttr": true,
             "mainCss": "html body main#body div.container div.row div.col-lg-9.main div.card div.card-body",
-            "mainListIndex": 0,
+            "mainListIndex": 1,
             "nameAttr": "span.text-danger",
             "nameCss": "li.media.thread.tap div.media-body div.subject.break-all a",
             "nameIndex": 0,
