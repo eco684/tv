@@ -825,7 +825,11 @@
   "parses": [
     {
       "name": "月亮",
-      "url": "https://api.yueliangjx.com/?url="
+      "url": "https://vip.jianjians.com/?url="
+    },
+    {
+      "name": "蝦米",
+      "url": "https://jx.xmflv.com/?url="
     },
     {
       "name": "劇迷",
@@ -844,20 +848,24 @@
       "url": "https://jxqd.hao7di.com/m3u8.php?url="
     },
     {
+      "name": "B站",
+      "url": "https://vip.parwix.com:4433/player/?url="
+    },
+    {
+      "name": "B站2",
+      "url": "https://jx.parwix.com:4433/player/analysis.php?v="
+    },
+    {
+      "name": "追劇",
+      "url": "https://vip123kan.vip/m3u8.php?url="
+    },
+    {
       "name": "高速",
       "url": "https://jsap.attakids.com/?url="
     },
     {
       "name": "盤古",
       "url": "https://www.pangujiexi.cc/jiexi.php?url="
-    },
-    {
-      "name": "B站",
-      "url": "https://vip.parwix.com:4433/player/?url="
-    },
-    {
-      "name": "蝦米",
-      "url": "https://jx.xmflv.com/?url="
     },
     {
       "name": "Ckplayer",
