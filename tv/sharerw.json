@@ -165,10 +165,10 @@
       "playUrl": ""
     },
     {
-      "key": "五一",
-      "name": "五一",
+      "key": "人人迷",
+      "name": "人人迷",
       "type": 0,
-      "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
+      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
@@ -832,6 +832,14 @@
       "url": "https://jx.xmflv.com/?url="
     },
     {
+      "name": "BL",
+      "url": "https://vip.bljiex.com/?v="
+    },
+    {
+      "name": "影視",
+      "url": "https://ff.6949.cc/?url="
+    },
+    {
       "name": "劇迷",
       "url": "https://titan.mgtv.com.jumi.tv/player/analysis.php?v="
     },
@@ -864,6 +872,18 @@
       "url": "https://vip123kan.vip/m3u8.php?url="
     },
     {
+      "name": "思古",
+      "url": "https://www.2692222.com/?url="
+    },
+    {
+      "name": "七七",
+      "url": "https://jx.aidouer.net/pp/?url="
+    },
+    {
+      "name": "江湖",
+      "url": "https://api.jhdyw.vip/?url="
+    },
+    {
       "name": "高速",
       "url": "https://jsap.attakids.com/?url="
     },
@@ -878,10 +898,6 @@
     {
       "name": "九八",
       "url": "https://jx.youyitv.com/?url="
-    },
-    {
-      "name": "BL",
-      "url": "https://vip.bljiex.com/?v="
     },
     {
       "name": "ccyjjd",
