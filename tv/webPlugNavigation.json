@@ -58,7 +58,7 @@
             "2-%E7%BE%8E%E5%9B%BD-------",
             "2-%E8%8B%B1%E5%9B%BD-------"
           ],
-          "page": "1"
+          "page": "2"
         },
         "cateHtml": {},
         "html": {
@@ -419,7 +419,7 @@
           },
           "search": {
             "descAttr": "",
-            "descCss": "span.play.hidden-xs",
+            "descCss": "span.pic-text.text-right",
             "descIndex": 0,
             "hasUrlPrefix": true,
             "imgAttr": "data-original",
