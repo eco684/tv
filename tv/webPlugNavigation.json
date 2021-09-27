@@ -1,6 +1,147 @@
 ﻿{
   "data": [
     {
+      "name": "範例(2021年片)",
+      "pic": "https://img.molimao.top/jm/upload/vod/20210605-1/2491c2ee7ea67d923789f3508169f007.jpg",
+      "type": "webPlug",
+      "subTitle": "eco684_20210622增加",
+      "subMobileTitle": "eco684_20210622增加",
+      "ads": "",
+      "webUrl": "https://www.libvio.com/",
+      "webOpen": false,
+      "click": true,
+      "decoder": 0,
+      "webPlus": {
+        "search_url": "https://jumi.tv/search/wd/{kw}.html",
+        "nav_url": "https://www.libvio.com/show/navCatenavPage---.html",
+        "cate_url": "https://jumi.tv/show/navCate/cateArea/cateCate/page/navPage/cateYear.html",
+        "web_name": "範例(2021年片)",
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
+          }
+        ],
+        "navHtml": {
+          "name": [
+            "大陸",
+            "動作",
+            "科幻",
+            "愛情",
+            "動畫",
+            "劇情",
+            "戰爭",
+            "喜劇",
+            "奇幻",
+            "冒險",
+            "動漫",
+            "韓國",
+            "日本",
+            "美國",
+            "英國"
+          ],
+          "cate": [
+            "2-%E4%B8%AD%E5%9B%BD-------",
+            "1---%E5%8A%A8%E4%BD%9C-----",
+            "1---%E7%A7%91%E5%B9%BB-----",
+            "1---%E7%88%B1%E6%83%85-----",
+            "1---%E5%8A%A8%E7%94%BB-----",
+            "1---%E5%89%A7%E6%83%85-----",
+            "1---%E6%88%98%E4%BA%89-----",
+            "1---%E5%96%9C%E5%89%A7-----",
+            "1---%E5%A5%87%E5%B9%BB-----",
+            "1---%E5%86%92%E9%99%A9-----",
+            "4--------",
+            "2-%E9%9F%A9%E5%9B%BD-------",
+            "2-%E6%97%A5%E6%9C%AC-------",
+            "2-%E7%BE%8E%E5%9B%BD-------",
+            "2-%E8%8B%B1%E5%9B%BD-------"
+          ],
+          "page": "1"
+        },
+        "cateHtml": {},
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "li",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "ul.stui-content__playlist.clearfix",
+            "mainIndex": 0,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.pic-text.text-right",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.stui-vodlist.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.hl-lc-1.remarks",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.hl-one-list",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "video": {}
+        }
+      }
+    },
+    {
       "name": "555電影",
       "pic": "https://ae01.alicdn.com/kf/U91c40f4e77ef4c598c60bfd0f1839c8fA.jpg",
       "type": "webPlug",
@@ -109,7 +250,6 @@
             "愛情",
             "動畫",
             "劇情",
-            "警匪",
             "戰爭",
             "喜劇",
             "奇幻",
@@ -127,7 +267,6 @@
             "1---%E7%88%B1%E6%83%85-----",
             "1---%E5%8A%A8%E7%94%BB-----",
             "1---%E5%89%A7%E6%83%85-----",
-            "1---%E8%AD%A6%E5%8C%AA-----",
             "1---%E6%88%98%E4%BA%89-----",
             "1---%E5%96%9C%E5%89%A7-----",
             "1---%E5%A5%87%E5%B9%BB-----",
@@ -291,95 +430,6 @@
             "isNameAttr": true,
             "isUrlAttr": true,
             "mainCss": "ul.stui-vodlist__media.col-pd.clearfix",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          }
-        }
-      }
-    },
-    {
-      "name": "555電影",
-      "pic": "https://ae01.alicdn.com/kf/U91c40f4e77ef4c598c60bfd0f1839c8fA.jpg",
-      "type": "webPlug",
-      "ads": "",
-      "webUrl": "https://www.555dy6.com/",
-      "webOpen": false,
-      "click": true,
-      "webPlus": {
-        "search_url": "https://www.555dy6.com/index.php/vod/search.html?wd={kw}",
-        "nav_url": "https://www.555dy6.com/vodshow/navCate--------navPage---.html",
-        "web_name": "555電影",
-        "navHtml": {
-          "name": [
-            "電影",
-            "動作",
-            "武俠",
-            "大陸",
-            "綜藝"
-          ],
-          "cate": [
-            "1",
-            "84",
-            "120",
-            "120",
-            "3"
-          ],
-          "page": "1"
-        },
-        "html": {
-          "episodes": {
-            "hasUrlPrefix": false,
-            "isListItemAttr": true,
-            "listCss": "li",
-            "isMultiList": false,
-            "listCssMulti": "",
-            "listItemAttr": "href",
-            "listItemCss": "a",
-            "listItemIndex": 0,
-            "mainCss": "ul.myui-content__list.playlist.clearfix",
-            "mainIndex": 0
-          },
-          "nav": {
-            "descAttr": "",
-            "descCss": "span.pic-text.text-right",
-            "descIndex": 0,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist.clearfix",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "search": {
-            "descAttr": "",
-            "descCss": "span.hl-lc-1.remarks",
-            "descIndex": 0,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "ul.hl-one-list",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
