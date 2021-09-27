@@ -99,22 +99,44 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.555dy6.com/index.php/vod/search.html?wd={kw}",
-        "nav_url": "https://www.libvio.com/type/navCate-navPage.html",
+        "nav_url": "https://www.libvio.com/show/navCatenavPage---.html",
         "web_name": "libvio無選",
         "navHtml": {
           "name": [
-            "電影",
-            "劇集",
+            "大陸",
+            "動作",
+            "科幻",
+            "愛情",
+            "動畫",
+            "劇情",
+            "警匪",
+            "戰爭",
+            "喜劇",
+            "奇幻",
+            "冒險",
             "動漫",
-            "日韓",
-            "歐美"
+            "韓國",
+            "日本",
+            "美國",
+            "英國"
           ],
           "cate": [
-            "1",
-            "2",
-            "4",
-            "15",
-            "16"
+            "2-%E4%B8%AD%E5%9B%BD-------",
+            "1---%E5%8A%A8%E4%BD%9C-----",
+            "1---%E7%A7%91%E5%B9%BB-----",
+            "1---%E7%88%B1%E6%83%85-----",
+            "1---%E5%8A%A8%E7%94%BB-----",
+            "1---%E5%89%A7%E6%83%85-----",
+            "1---%E8%AD%A6%E5%8C%AA-----",
+            "1---%E6%88%98%E4%BA%89-----",
+            "1---%E5%96%9C%E5%89%A7-----",
+            "1---%E5%A5%87%E5%B9%BB-----",
+            "1---%E5%86%92%E9%99%A9-----",
+            "4--------",
+            "2-%E9%9F%A9%E5%9B%BD-------",
+            "2-%E6%97%A5%E6%9C%AC-------",
+            "2-%E7%BE%8E%E5%9B%BD-------",
+            "2-%E8%8B%B1%E5%9B%BD-------"
           ],
           "page": "1"
         },
@@ -188,22 +210,36 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.cytc.cc/cmso{kw}.html",
-        "nav_url": "https://www.cytc.cc/navCate/page/navPage.html",
+        "nav_url": "https://www.cytc.cc/cmtop/navCate/page/navPage/year/2021.html",
         "web_name": "草民",
         "navHtml": {
           "name": [
-            "電影",
-            "電視",
-            "綜藝",
+            "大陸",
+            "動作",
+            "科幻",
+            "愛情",
             "動漫",
-            "紀錄"
+            "劇情",
+            "台灣",
+            "香港",
+            "日本",
+            "韓國",
+            "歐美",
+            "綜藝"
           ],
           "cate": [
-            "cmdy/cmdy",
-            "cmdy/cmdsj",
-            "cmdy/cmzy",
-            "cmdy/cmdm",
-            "cmdy/cmjlp"
+            "cmgcj",
+            "cmdzp",
+            "cmkhp",
+            "cmaqp",
+            "cmdm",
+            "cmjqp",
+            "cmtwj",
+            "cmxgj",
+            "cmrbj",
+            "cmhgj",
+            "cmomj",
+            "cmzy"
           ],
           "page": "1"
         },
