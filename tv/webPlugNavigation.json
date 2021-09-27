@@ -209,7 +209,7 @@
         },
         "html": {
           "episodes": {
-            "hasUrlPrefix": false,
+            "hasUrlPrefix": true,
             "isListItemAttr": true,
             "listCss": "li",
             "isMultiList": false,
