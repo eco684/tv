@@ -1,5 +1,12 @@
 {
   "sites": [
+      {
+      "key": "人人",
+      "name": "人人",
+      "type": 0,
+      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
     {
       "key": "極品資源",
       "name": "極品資源",
@@ -14,6 +21,55 @@
       "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": []
+    },
+        {
+      "key": "三零-愛奇藝 ",
+      "name": "三零-愛奇藝 ",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/from/qiyi/at/xml/               ",
+      "playUrl": ""
+    },
+    {
+      "key": "三零-騰訊",
+      "name": "三零-騰訊",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/from/qq/at/xml/               ",
+      "playUrl": ""
+    },
+    {
+      "key": "三零-優酷 ",
+      "name": "三零-優酷 ",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/from/youku/at/xml/               ",
+      "playUrl": ""
+    },
+    {
+      "key": "三零-芒果TV ",
+      "name": "三零-芒果TV ",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/from/mgtv/at/xml/               ",
+      "playUrl": ""
+    },
+    {
+      "key": "三零-搜狐",
+      "name": "三零-搜狐",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/from/sohu/at/xml/",
+      "categories": []
+    },
+    {
+      "key": "三零-樂視",
+      "name": "三零-樂視",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/from/letv/at/xml/",
+      "categories": []
+    },
+    {
+      "key": "三零-PP",
+      "name": "三零-PP",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/from/pptv/at/xml/",
+      "playUrl": ""
     },
     {
       "key": "三零解析",
@@ -81,55 +137,6 @@
       "playUrl": "https://www.tutukiki.com/m3u8/?url="
     },
     {
-      "key": "三零-愛奇藝 ",
-      "name": "三零-愛奇藝 ",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/qiyi/at/xml/               ",
-      "playUrl": ""
-    },
-    {
-      "key": "三零-騰訊",
-      "name": "三零-騰訊",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/qq/at/xml/               ",
-      "playUrl": ""
-    },
-    {
-      "key": "三零-優酷 ",
-      "name": "三零-優酷 ",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/youku/at/xml/               ",
-      "playUrl": ""
-    },
-    {
-      "key": "三零-芒果TV ",
-      "name": "三零-芒果TV ",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/mgtv/at/xml/               ",
-      "playUrl": ""
-    },
-    {
-      "key": "三零-搜狐",
-      "name": "三零-搜狐",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/sohu/at/xml/",
-      "categories": []
-    },
-    {
-      "key": "三零-樂視",
-      "name": "三零-樂視",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/letv/at/xml/",
-      "categories": []
-    },
-    {
-      "key": "三零-PP",
-      "name": "三零-PP",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/pptv/at/xml/",
-      "playUrl": ""
-    },
-    {
       "key": "八戒雲",
       "name": "八戒雲",
       "type": 0,
@@ -162,13 +169,6 @@
       "name": "橘貓",
       "type": 0,
       "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
-      "playUrl": ""
-    },
-    {
-      "key": "人人迷",
-      "name": "人人迷",
-      "type": 0,
-      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
@@ -824,20 +824,28 @@
   ],
   "parses": [
     {
-      "name": "月亮",
-      "url": "https://vip.jianjians.com/?url="
+      "name": "影視",
+      "url": "https://ff.6949.cc/?url="
     },
     {
-      "name": "蝦米",
-      "url": "https://jx.xmflv.com/?url="
+      "name": "思古",
+      "url": "https://www.2692222.com/?url="
     },
     {
       "name": "BL",
       "url": "https://vip.bljiex.com/?v="
     },
     {
-      "name": "影視",
-      "url": "https://ff.6949.cc/?url="
+      "name": "RDHK",
+      "url": "https://jx.rdhk.net/?v="
+    },
+    {
+      "name": "月亮",
+      "url": "https://vip.jianjians.com/?url="
+    },
+    {
+      "name": "蝦米",
+      "url": "https://jx.xmflv.com/?url="
     },
     {
       "name": "劇迷",
@@ -870,10 +878,6 @@
     {
       "name": "追劇",
       "url": "https://vip123kan.vip/m3u8.php?url="
-    },
-    {
-      "name": "思古",
-      "url": "https://www.2692222.com/?url="
     },
     {
       "name": "七七",
@@ -926,10 +930,6 @@
     {
       "name": "迪奧",
       "url": "https://123.1dior.cn/?url="
-    },
-    {
-      "name": "RDHK",
-      "url": "https://jx.rdhk.net/?v="
     },
     {
       "name": "H8",
