@@ -1,12 +1,5 @@
 {
-  "sites": [   
-     {
-      "key": "人人",
-      "name": "人人",
-      "type": 0,
-      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/at/xml/",
-      "playUrl": ""
-    },
+  "sites": [      
     {
       "key": "極品資源",
       "name": "極品資源",
@@ -888,24 +881,8 @@
       "url": "https://api.jhdyw.vip/?url="
     },
     {
-      "name": "高清解析1",
+      "name": "高清",
       "url": "https://jf.4z.cm/jx/?url="
-    },
-    {
-      "name": "高清解析2",
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "番茄解析",
-      "url": "https://dp.8b5q.cn/dplayer/?url="
-    },
-    {
-      "name": "660解析",
-      "url": "https://660e.com/?url="
-    },
-    {
-      "name": "618解析",
-      "url": "https://jx.618g.com/?url="
     },
     {
       "name": "高速",
