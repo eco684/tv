@@ -9,24 +9,6 @@
      "quickSearch": 0,
      "filterable": 1
     },
-    {
-     "key": "csp_Enlienli",
-     "name": "嗯哩嗯哩",
-     "type": 3,
-     "api": "csp_Enlienli",
-     "searchable": 1,
-     "quickSearch": 0,
-     "filterable": 1
-    },
-    {
-      "key": "csp_N0ys",
-      "name": "90影視",
-      "type": 3,
-      "api": "csp_N0ys",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-     },
      {
       "key": "csp_Auete",
       "name": "Auete",
@@ -42,15 +24,6 @@
       "type": 3,
       "api": "csp_Cokemv",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Buka",
-      "name": "真不卡(測試)",
-      "type": 3,
-      "api": "csp_Buka",
-      "searchable": 0,
       "quickSearch": 0,
       "filterable": 1
     },
@@ -77,55 +50,6 @@
       "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": []
-    },
-        {
-      "key": "三零-愛奇藝 ",
-      "name": "三零-愛奇藝 ",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/qiyi/at/xml/               ",
-      "playUrl": ""
-    },
-    {
-      "key": "三零-騰訊",
-      "name": "三零-騰訊",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/qq/at/xml/               ",
-      "playUrl": ""
-    },
-    {
-      "key": "三零-優酷 ",
-      "name": "三零-優酷 ",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/youku/at/xml/               ",
-      "playUrl": ""
-    },
-    {
-      "key": "三零-芒果TV ",
-      "name": "三零-芒果TV ",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/mgtv/at/xml/               ",
-      "playUrl": ""
-    },
-    {
-      "key": "三零-搜狐",
-      "name": "三零-搜狐",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/sohu/at/xml/",
-      "categories": []
-    },
-    {
-      "key": "三零-樂視",
-      "name": "三零-樂視",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/letv/at/xml/",
-      "categories": []
-    },
-    {
-      "key": "三零-PP",
-      "name": "三零-PP",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/pptv/at/xml/",
-      "playUrl": ""
     },
     {
       "key": "三零解析",
@@ -878,7 +802,7 @@
       ]
     }
   ],
-  "spider": "https://github.com/catvod/CatVodTVSpider/raw/master/jar/custom_spider.jar",
+  "spider": "https://github.com/eco684/tv/raw/main/tv/custom_spider.jar",
   "parses": [
     {
       "name": "影視",
@@ -891,6 +815,10 @@
     {
       "name": "BL",
       "url": "https://vip.bljiex.com/?v="
+    },
+    {
+      "name": "OK",
+      "url": "https://okjx.cc/?url="
     },
     {
       "name": "RDHK",
@@ -1007,10 +935,6 @@
     {
       "name": "MUTV",
       "url": "https://jiexi.janan.net/jiexi/?url="
-    },
-    {
-      "name": "OK",
-      "url": "https://okjx.cc/?url="
     },
     {
       "name": "維多",
