@@ -43,7 +43,7 @@
        "api": "csp_tvci",
        "searchable": 1,
        "quickSearch": 0,
-       "filterable": 0
+       "filterable": 1
      },
      {
       "key": "csp_Cokemv",
