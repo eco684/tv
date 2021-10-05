@@ -37,6 +37,15 @@
        "filterable": 0
      },
      {
+      "key": "csp_tvci",
+      "name": "tvci",
+       "type": 3,
+       "api": "csp_tvci",
+       "searchable": 1,
+       "quickSearch": 0,
+       "filterable": 0
+     },
+     {
       "key": "csp_Cokemv",
       "name": "Cokemv",
       "type": 3,
