@@ -1,5 +1,4 @@
 {
-	......
   "sites": [  
      {
       "key": "csp_Aidi",
@@ -64,7 +63,6 @@
       "quickSearch": 0,
       "filterable": 1
     }, 
-  ......
     {
       "key": "極品資源",
       "name": "極品資源",
@@ -832,9 +830,7 @@
     }
   ],
   "spider": "https://github.com/eco684/tv/raw/main/tv/custom_spider.jar",
-  ......
   "parses": [
-  ......
   	{
     "name": "Json並發",
     "type": 2,
@@ -845,7 +841,6 @@
     "type": 2,
     "url": "Sequence"
     },
-  ......
     {
       "name": "影視",
       "url": "https://ff.6949.cc/?url="
