@@ -831,6 +831,16 @@
   ],
   "spider": "https://github.com/eco684/tv/raw/main/tv/custom_spider.jar",
   "parses": [
+  	{
+    "name": "Json並發",
+    "type": 2,
+    "url": "Parallel"
+    },
+    {
+    "name": "Json輪詢",
+    "type": 2,
+    "url": "Sequence"
+    },
     {
       "name": "影視",
       "url": "https://ff.6949.cc/?url="
@@ -894,10 +904,6 @@
     {
       "name": "七七",
       "url": "https://jx.aidouer.net/pp/?url="
-    },
-    {
-      "name": "江湖",
-      "url": "https://api.jhdyw.vip/?url="
     },
     {
       "name": "高清",
