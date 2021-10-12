@@ -266,7 +266,8 @@
       "type": 0,
       "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
       "playUrl": ""
-    },
+    }
+  ],
   "parses": [
     {
        "name": "Json並發",
