@@ -55,6 +55,16 @@
       "filterable": 1
     },
     {
+     "key": "csp_xpath_980",
+     "name": "980影視(XPath)",
+     "type": 3,
+     "api": "csp_XPath",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "ext": "{\"ua\":\"\",\"homeUrl\":\"https://www.98net.com/",\"cateManual\":{\"大陸\":\"jbgcj\",\"動作\":\"jbdzp\",\"愛情\":\"jbaqp\",\"科幻\":\"jbkhp\",\"動漫\":\"jbdm\",\"劇情\":\"jbjqp\",\"台灣\":\"jbtwj\",\"香港\":\"jbxgj\",\"日本\":\"jbrbj\",\"韓國\":\"jbhgj\",\"歐美\":\"jbomj\",\"綜藝\":\"jbzy\"},\"homeVodNode\":\"//div[contains(@class, 'stui-pannel-box')]//ul[contains(@class,'stui-vodlist')]/li//a[contains(@class,'stui-vodlist__thumb')]\",\"homeVodName\":\"/@title\",\"homeVodId\":\"/@href\",\"homeVodIdR\":\"(\\\\S)+/tv/(\\\\w+).html",\"homeVodImg\":\"@data-original\",\"homeVodMark\":\"/span[contains(@class,'pic-text')]/text()\",\"cateUrl\":\"https://www.98net.com/top/{cateId}/page/{catePg}/year/2021.html\",\"cateVodNode\":\"//ul[contains(@class,'stui-vodlist')]//li//a[contains(@class,'stui-vodlist__thumb')]\",\"cateVodName\":\"/@title\",\"cateVodId\":\"/@href\",\"cateVodIdR\":\"(\\\\S)+/tv/(\\\\w+).html\",\"cateVodImg\":\"@data-original\",\"cateVodMark\":\"/span[contains(@class,'pic-text')]/text()\",\"dtUrl\":\"https://www.98net.com/tv/{vid}.html\",\"dtNode\":\"//div[contains(@class,'col-lg-wide-75')]\",\"dtName\":\"//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/@title\",\"dtImg\":\"//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/img/@data-original\",\"dtCate\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '分类')]/following-sibling::*/text()\",\"dtYear\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '年份')]/following-sibling::*/text()\",\"dtArea\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '地区')]/following-sibling::*/text()\",\"dtMark\":\"\",\"dtActor\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '主演')]/following-sibling::*/text()\",\"dtDirector\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '导演')]/following-sibling::*/text()\",\"dtDesc\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '简介')]/parent::text()\",\"dtFromNode\":\"//a[@data-toggle='tab' and contains(@href, 'playlist')]\",\"dtFromName\":\"/text()\",\"dtUrlNode\":\"//div[contains(@class,'tab-content')]/div[contains(@id, 'playlist')]\",\"dtUrlSubNode\":\"//li/a\",\"dtUrlId\":\"@href\",\"dtUrlIdR\":\"/(\\\\S)+/play/+(\\\\w+)_(\\\\d+)_(\\\\d+).html\",\"dtUrlName\":\"/text()\",\"playUrl\":\"https://www.98net.com/play/{playUrl}.html\",\"playUa\":\"\",\"searchUrl\":\"https://www.98net.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10\",\"scVodNode\":\"json:list\",\"scVodName\":\"name\",\"scVodId\":\"id\",\"scVodIdR\":\"\",\"scVodImg\":\"pic\",\"scVodMark\":\"\"}"
+    },
+    {
      "key": "csp_xpath_jpys",
      "name": "極品影視(XPath)",
      "type": 3,
