@@ -56,6 +56,26 @@
      "ext": "https://github.com/eco684/-DOC/raw/main/jpys.json"
     },
     {
+      "key": "csp_xpath_fantuan",
+      "name": "飯團",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/eco684/-DOC/raw/main/fantuan.json"
+    },
+    {
+      "key": "csp_xpath_98",
+      "name": "980影視",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/eco684/-DOC/raw/main/98.json"
+    },
+    {
      "key": "csp_xpath_Jumi",
      "name": "劇迷",
      "type": 3,
@@ -104,6 +124,46 @@
      "quickSearch": 1,
      "filterable": 0,
      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/nfmovie.json"
+    },
+    {
+     "key": "csp_xpath_saohuotv",
+     "name": "骚火电影",
+     "type": 3,
+     "api": "csp_XPath",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 0,
+     "ext": "https://github.com/eco684/-DOC/raw/main/saohuotv2.json"
+    },
+    {
+     "key": "csp_xpath_age",
+     "name": "AGE动漫",
+     "type": 3,
+     "api": "csp_XPath",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 0,
+     "ext": "https://github.com/eco684/-DOC/raw/main/agefans.json"
+    },
+    {
+     "key": "csp_xpath_dm84",
+     "name": "动漫巴士",
+     "type": 3,
+     "api": "csp_XPath",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 0,
+     "ext": "https://github.com/eco684/-DOC/raw/main/dm84.json"
+    },
+    {
+      "key": "csp_xpath_egg",
+      "name": "蛋蛋影院(XPath)",
+      "type": 3,
+      "api": "csp_XPathEgg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/eco684/-DOC/raw/main/egg.json"
     },
     {
       "key": "三零解析",
@@ -232,7 +292,7 @@
       ]
     }
   ],
-  "spider": "https://github.com/eco684/tv/raw/main/tv/custom_spider.jar",
+  "spider": "https://github.com/eco684/-DOC/raw/main/custom_spider.jar",
   "parses": [  	
     {
       "name": "影視",
@@ -275,8 +335,8 @@
       "url": "https://www.administratorm.com/WMXZ.WANG/index.php?url="
     },
     {
-      "name": "極品",
-      "url": "https://jxapp.jpysvip.net/m3u8.php?url="
+      "name": "日批",
+      "url": "https://jx.ns360.cn/1080/jiexi/?url="
     },
     {
       "name": "B站",
