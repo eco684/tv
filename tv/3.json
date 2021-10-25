@@ -46,6 +46,33 @@
      "filterable": 1
     },
     {
+     "key": "csp_Djx",
+     "name": "瓜皮TV",
+     "type": 3,
+     "api": "csp_Djx",
+     "searchable": 1,
+     "quickSearch": 0,
+     "filterable": 1
+    },
+    {
+     "key": "csp_Imaple",
+     "name": "楓林網",
+     "type": 3,
+     "api": "csp_Imaple",
+     "searchable": 1,
+     "quickSearch": 0,
+     "filterable": 1
+    },
+    {
+     "key": "csp_Jumi",
+     "name": "劇迷(可選)",
+     "type": 3,
+     "api": "csp_Jumi",
+     "searchable": 1,
+     "quickSearch": 0,
+     "filterable": 1
+    },
+    {
      "key": "csp_xpath_jpys",
      "name": "極品",
      "type": 3,
