@@ -133,6 +133,16 @@
      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/cjtys.json"
     },
     {
+      "key": "csp_yysdali",
+      "name": "YYDS影視",
+      "type": 3,
+      "api": "csp_YydsAli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/eco684/-DOC/raw/main//yyds.json"
+    },
+    {
       "key": "csp_xpath_libvio",
       "name": "libvio",
       "type": 3,
