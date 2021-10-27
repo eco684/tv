@@ -1,208 +1,55 @@
 {
   "sites": [  
-    {
-     "key": "csp_Ysgc",
-     "name": "影視工廠",
-     "type": 3,
-     "api": "csp_Ysgc",
-     "searchable": 1,
-     "quickSearch": 0,
-     "filterable": 1
-    },
-    {
-     "key": "csp_Aidi",
-     "name": "愛迪",
-     "type": 3,
-     "api": "csp_Aidi",
-     "searchable": 1,
-     "quickSearch": 0,
-     "filterable": 1
-    },
-    {
-     "key": "csp_Auete",
-     "name": "Auete",
-     "type": 3,
-     "api": "csp_Auete",
-     "searchable": 1,
-     "quickSearch": 0,
-     "filterable": 1
-    },
-    {
-     "key": "csp_N0ys",
-     "name": "90影視",
-     "type": 3,
-     "api": "csp_N0ys",
-     "searchable": 1,
-     "quickSearch": 0,
-     "filterable": 0
-    },
-    {
-     "key": "csp_Cokemv",
-     "name": "Cokemv",
-     "type": 3,
-     "api": "csp_Cokemv",
-     "searchable": 1,
-     "quickSearch": 0,
-     "filterable": 1
-    },
-    {
-     "key": "csp_Djx",
-     "name": "瓜皮TV",
-     "type": 3,
-     "api": "csp_Djx",
-     "searchable": 1,
-     "quickSearch": 0,
-     "filterable": 1
-    },
-    {
-     "key": "csp_Imaple",
-     "name": "楓林網",
-     "type": 3,
-     "api": "csp_Imaple",
-     "searchable": 1,
-     "quickSearch": 0,
-     "filterable": 1
-    },
-    {
-     "key": "csp_Jumi",
-     "name": "劇迷(可選)",
-     "type": 3,
-     "api": "csp_Jumi",
-     "searchable": 1,
-     "quickSearch": 0,
-     "filterable": 1
-    },
-    {
-     "key": "csp_xpath_jpys",
-     "name": "極品",
-     "type": 3,
-     "api": "csp_XPath",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 0,
-     "ext": "https://github.com/eco684/-DOC/raw/main/jpys.json"
-    },
-    {
-      "key": "csp_xpath_fantuan",
-      "name": "飯團",
+     {
+      "key": "csp_EPangApp",
+      "name": "阿房影視App",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_EPangApp",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://github.com/eco684/-DOC/raw/main/fantuan.json"
-    },
-    {
-      "key": "csp_xpath_98",
-      "name": "980影視",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://github.com/eco684/-DOC/raw/main/98.json"
-    },
-    {
-     "key": "csp_xpath_Jumi",
-     "name": "劇迷",
-     "type": 3,
-     "api": "csp_XPath",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 0,
-     "ext": "https://github.com/eco684/-DOC/raw/main/jumi.json"
-    },
-    {
-     "key": "csp_xpath_tvci",
-     "name": "大師兄",
-     "type": 3,
-     "api": "csp_XPath",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 0,
-     "ext": "https://github.com/eco684/-DOC/raw/main/tvci.json"
-    },
-    {
-     "key": "csp_xpath_cjt",
-     "name": "CJT影视",
-     "type": 3,
-     "api": "csp_XPathMac",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 0,
-     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/cjtys.json"
-    },
-    {
-      "key": "csp_yysdali",
-      "name": "YYDS影視",
-      "type": 3,
-      "api": "csp_YydsAli",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://github.com/eco684/-DOC/raw/main//yyds.json"
-    },
-    {
-      "key": "csp_xpath_libvio",
-      "name": "libvio",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://github.com/eco684/-DOC/raw/main/libvio.json"
-    },
-    {
-     "key": "csp_xpath_nfmov",
-     "name": "NFMovies",
-     "type": 3,
-     "api": "csp_XPathNfMov",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 0,
-     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/nfmovie.json"
-    },
-    {
-     "key": "csp_xpath_saohuotv",
-     "name": "骚火电影",
-     "type": 3,
-     "api": "csp_XPath",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 0,
-     "ext": "https://github.com/eco684/-DOC/raw/main/saohuotv2.json"
-    },
-    {
-     "key": "csp_xpath_age",
-     "name": "AGE动漫",
-     "type": 3,
-     "api": "csp_XPath",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 0,
-     "ext": "https://github.com/eco684/-DOC/raw/main/agefans.json"
-    },
-    {
-     "key": "csp_xpath_dm84",
-     "name": "动漫巴士",
-     "type": 3,
-     "api": "csp_XPath",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 0,
-     "ext": "https://github.com/eco684/-DOC/raw/main/dm84.json"
-    },
-    {
-      "key": "csp_xpath_egg",
-      "name": "蛋蛋影院(XPath)",
-      "type": 3,
-      "api": "csp_XPathEgg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://github.com/eco684/-DOC/raw/main/egg.json"
-    },
-    {
+      "quickSearch": 0,
+      "filterable": 1
+     },
+      {
+       "key": "csp_xpath_duboku",
+       "name": "独播库",
+       "type": 3,
+       "api": "csp_XPath",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0,
+       "ext": "https://github.com/eco684/-DOC/raw/main/duboku.json"
+      },
+      {
+       "key": "csp_xpath_saohuotv",
+       "name": "骚火电影",
+       "type": 3,
+       "api": "csp_XPath",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0,
+       "ext": "https://github.com/eco684/-DOC/raw/main/saohuotv2.json"
+      },
+      {
+       "key": "csp_xpath_age",
+       "name": "AGE动漫",
+       "type": 3,
+       "api": "csp_XPath",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0,
+       "ext": "https://github.com/eco684/-DOC/raw/main/agefans.json"
+      },
+      {
+       "key": "csp_xpath_dm84",
+       "name": "动漫巴士",
+       "type": 3,
+       "api": "csp_XPath",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0,
+       "ext": "https://github.com/eco684/-DOC/raw/main/dm84.json"
+      },
+      {
       "key": "三零解析",
       "name": "三零解析",
       "type": 0,
@@ -247,18 +94,6 @@
       "categories": []
     }   
   ],
-  "parses": [
-    {
-       "name": "Json並發",
-       "type": 2,
-       "url": "Parallel"
-    },
-    {
-       "name": "Json輪詢",
-       "type": 2,
-       "url": "Sequence"
-    }   	
-            ],
   "lives": [
     {
       "group": "自定義",
