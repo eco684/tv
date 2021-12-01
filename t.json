@@ -1,6 +1,5 @@
 {
   "sites": [  
-  	   { "key": "csp_xpath_tvci", "name": "大師兄(XPath可選)", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://github.com/eco684/CatVodTVSpider/raw/master/xpath/tvci.json" }, 
   	   { "key": "csp_xpath_tvci", "name": "大師兄(XPath可選)", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://github.com/eco684/tv/raw/main/tvivm.json" }, 
        {"key": "csp_xpath_nmtv","name": "小馬TV","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://github.com/eco684/tv/raw/main/niuma.json"},
      {
