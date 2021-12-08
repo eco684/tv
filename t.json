@@ -2,6 +2,14 @@
   "sites": [  
 {"key": "csp_xpath_1010dy.json","name": "雙十","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://github.com/eco684/-DOC/raw/main/1010dy.json"},
 {"key": "csp_xpath_5imv","name": "我爱电影","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://github.com/eco684/-DOC/raw/main/5imv.json"},
+{"key":"唐人街","name":"唐人街(P)","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Renjie.json"},
+{"key":"Gimy","name":"Gimy(P)","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Gimy.json"},
+{"key":"Jumi","name":"Jumi(P)","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Jumi.json"},
+{"key":"Djx","name":"瓜皮TV(P)","type":3,"api": "csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Djx.json"},
+{"key":"独播库","name":"独播库(P)","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Duboku.json"},
+{"key":"Sky4k","name":"Sky4k(P)[en]","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Sky4k.json"},
+{"key":"Nfuxs","name":"南府(P)","type":3,"api": "csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Nfuxs.json"},
+{"key":"Aixixi","name":"爱西西(P)","type":3,"api": "csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Aixixi.json"},
      {
       "key": "三零解析",
       "name": "三零解析",
@@ -131,170 +139,39 @@
   ],
   "spider": "https://github.com/eco684/tv/raw/main/custom_spider.jar",
   "parses": [  	
-    {
-      "name": "影視",
-      "url": "https://ff.6949.cc/?url="
-    },
-    {
-      "name": "jjxx",
-      "url": "http://jjxx.me/?url="
-    },
-    {
-      "name": "BL",
-      "url": "https://vip.bljiex.com/?v="
-    },
-    {
-      "name": "OK",
-      "url": "https://okjx.cc/?url="
-    },
-    {
-      "name": "RDHK",
-      "url": "https://jx.rdhk.net/?v="
-    },
-    {
-      "name": "蝦米",
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "劇迷",
-      "url": "https://titan.mgtv.com.jumi.tv/player/analysis.php?v="
-    },
-    {
-      "name": "8old",
-      "url": "https://danmu.8old.cn/vip/?url="
-    },
-    {
-      "name": "555",
-      "url": "https://jhpc.manduhu.com/?url="
-    },
-    {
-      "name": "無名",
-      "url": "https://www.administratorm.com/WMXZ.WANG/index.php?url="
-    },
-    {
-      "name": "日批",
-      "url": "https://jx.ns360.cn/1080/jiexi/?url="
-    },
-    {
-      "name": "B站",
-      "url": "https://vip.parwix.com:4433/player/?url="
-    },
-    {
-      "name": "B站2",
-      "url": "https://jx.parwix.com:4433/player/analysis.php?v="
-    },
-    {
-      "name": "追劇",
-      "url": "https://vip123kan.vip/m3u8.php?url="
-    },
-    {
-      "name": "cjt",
-      "url": "https://jiexi2.cjt521.com/m3u8/?url="
-    },
-    {
-      "name": "高清",
-      "url": "https://jf.4z.cm/jx/?url="
-    },
-    {
-      "name": "高速",
-      "url": "https://jsap.attakids.com/?url="
-    },
-    {
-      "name": "盤古",
-      "url": "https://www.pangujiexi.cc/jiexi.php?url="
-    },
-    {
-      "name": "Ckplayer",
-      "url": "https://www.ckplayer.vip/jiexi/?url="
-    },
-    {
-      "name": "九八",
-      "url": "https://jx.youyitv.com/?url="
-    },
-    {
-      "name": "ccyjjd",
-      "url": "https://ckmov.ccyjjd.com/ckmov/?url="
-    },
-    {
-      "name": "M3U8",
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
-      "name": "老板",
-      "url": "https://vip.laobandq.com/jiexi.php?url="
-    },
-    {
-      "name": "無極",
-      "url": "https://da.wujiys.com/?url="
-    },
-    {
-      "name": "618G",
-      "url": "https://jx.618g.com/?url="
-    },
-    {
-      "name": "ckmov",
-      "url": "https://www.ckmov.vip/api.php?url="
-    },
-    {
-      "name": "迪奧",
-      "url": "https://123.1dior.cn/?url="
-    },
-    {
-      "name": "H8",
-      "url": "https://www.h8jx.com/jiexi.php?url="
-    },
-    {
-      "name": "解析la",
-      "url": "https://api.jiexi.la/?url="
-    },
-    {
-      "name": "老板",
-      "url": "https://vip.laobandq.com/jiexi.php?url="
-    },
-    {
-      "name": "MUTV",
-      "url": "https://jiexi.janan.net/jiexi/?url="
-    },
-    {
-      "name": "維多",
-      "url": "https://jx.ivito.cn/?url="
-    },
-    {
-      "name": "小蔣",
-      "url": "https://www.kpezp.cn/jlexi.php?url="
-    },
-    {
-      "name": "星馳",
-      "url": "https://vip.cjys.top/?url="
-    },
-    {
-      "name": "星空",
-      "url": "http://60jx.com/?url="
-    },
-    {
-      "name": "0523",
-      "url": "https://go.yh0523.cn/y.cy?url="
-    },
-    {
-      "name": "17雲",
-      "url": "https://www.1717yun.com/jx/ty.php?url="
-    },
-    {
-      "name": "116",
-      "url": "https://jx.116kan.com/?url="
-    },
-    {
-      "name": "200",
-      "url": "https://vip.66parse.club/?url="
-    },
-    {
-      "name": "雲析",
-      "url": "https://jx.yparse.com/index.php?url="
-    },
-    {
-      "name": "8090",
-      "url": "https://www.8090g.cn/?url="
-    }
+{"name":"555TV","type":1,"url":"https://api.parwix.com:4433/analysis/json/?uid=1752&my=fhlwyABGHJLNRX1489&url=","t":182,"i":"checkat2021-12-0616:29:03"},
+{"name":"快云影音1","type":1,"url":"http://vip.mengx.vip/home/api?type=ys&uid=2494472&key=deglpquwxzDNQRV378&url=","t":229,"i":"checkat2021-12-0616:27:54"},
+{"name":"大熊影视","type":1,"url":"https://api.parwix.com:4433/analysis/json/?uid=1735&my=bcefosxyACJKOWX678&url=","t":240,"i":"checkat2021-12-0616:26:30"},
+{"name":"南府影视1","type":1,"url":"http://play.szbodankyy.com/cnmb101/?url=","t":247,"i":"checkat2021-12-0616:29:28"},
+{"name":"小强TV","type":1,"url":"https://json.pangujiexi.com:12345/json.php?url=","t":253,"i":"checkat2021-12-0616:26:13"},
+{"name":"久久追剧","type":1,"url":"https://json.nbjx.vip:4399/?wap=1&url=","t":300,"i":"checkat2021-12-0616:27:25"},
+{"name":"黄河影视","type":1,"url":"http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url=","t":374,"i":"checkat2021-12-0616:26:10"},
+{"name":"久久追剧1","type":1,"url":"http://iptv1.xncyx.top/api/?key=dnctIpkRezy1vGKbVI&url=","t":390,"i":"checkat2021-12-0616:27:27"},
+{"name":"5060影院","type":1,"url":"https://vip.mengx.vip/home/api?type=ys&uid=18613&key=bknprsxCILRTUVYZ79&url=","t":391,"i":"checkat2021-12-0616:29:23"},
+{"name":"南府影视","type":1,"url":"http://ay5k.wchulian.com.cn/home/api?type=ys&uid=218311&key=bghituvyCDSUY01568&tm=1637161513062&url=","t":408,"i":"checkat2021-12-0616:29:24"},
+{"name":"宅男影院","type":1,"url":"http://vip.mengx.vip/home/api?type=ys&uid=1496242&key=cdhiCDFHPQRVZ02567&url=","t":410,"i":"checkat2021-12-0616:28:26"},
+{"name":"看剧吧","type":1,"url":"http://vip.mengx.vip/home/api?type=ys&uid=3714324&key=adhmprtwyzBCHLSUX1&url=","t":453,"i":"checkat2021-12-0616:28:40"},
+{"name":"公主影视","type":1,"url":"http://jno.mshemvg.cn/?url=","t":548,"i":"checkat2021-12-0616:28:11"},
+{"name":"益达影院","type":1,"url":"http://vip.mengx.vip/home/api?type=ys&uid=2462596&key=bdhkCEGHLNOQ123789&url=","t":553,"i":"checkat2021-12-0616:27:53"},
+{"name":"南府影视3","type":1,"url":"https://vip.mengx.vip/home/api?type=ys&uid=4536224&key=ikluvwzAELNSUWYZ19&url=","t":566,"i":"checkat2021-12-0616:29:36"},
+{"name":"影阅阁","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=594615&key=bcehpqtxCEGKMT0248&url=","t":579,"i":"checkat2021-12-0616:29:22"},
+{"name":"雨果影视1","type":1,"url":"https://svip.renrenmi.cc:2222/api/?key=mtjJAJRXpwT5XAqWnn&url=","t":585,"i":"checkat2021-12-0616:27:31"},
+{"name":"雪人影视","type":1,"url":"https://svip.renrenmi.cc:2222/api/?key=S77lACKG9VTwNq5Upv&url=","t":597,"i":"checkat2021-12-0616:27:18"},
+{"name":"段友影视","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=998036&key=afhlnuvzDJLMOX3689&url=","t":601,"i":"checkat2021-12-0616:28:26"},
+{"name":"神马影院","type":1,"url":"https://jhpc.manduhu.com/j.php?url=","t":615,"i":"checkat2021-12-0616:28:47"},
+{"name":"盒子影院","type":1,"url":"http://cygc.xyz:88/api/?key=uju6GVaLpIgZX2012r&url=","t":615,"i":"checkat2021-12-0616:28:24"},
+{"name":"喵乐影视","type":1,"url":"https://api.shengqiankuaitao.cn/api/?key=yU21osyRGGj7U1GmR1&url=","t":635,"i":"checkat2021-12-0616:26:18"},
+{"name":"迷你库","type":1,"url":"https://rrmi.renrenmi.cc:3366/qq/tx.php?url=","t":652,"i":"checkat2021-12-0616:29:20"},
+{"name":"筋斗云1","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url=","t":777,"i":"checkat2021-12-0616:27:24"},
+{"name":"阔贼影院","type":1,"url":"https://supervip.rongxingvr.cn:8866/api/?key=41UviJ16T6DndnSpZr&url=","t":804,"i":"checkat2021-12-0616:27:42"},
+{"name":"CJT影院","type":1,"url":"https://svip.xizny.com/api/?key=R7kI28sF7lyDy9z8wu&url=","t":841,"i":"checkat2021-12-0616:29:15"},
+{"name":"宅男影院1","type":1,"url":"https://vip.rongxingvr.cn/api/?key=TjbT8ogE0sBCt8YA1U&url=","t":843,"i":"checkat2021-12-0616:28:27"},
+{"name":"阿姨追剧1","type":1,"url":"https://json.1920i.com/home/api?type=app&uid=922662&key=efkpqrstuvwBCKOU59&url=","t":861,"i":"checkat2021-12-0616:29:54"},
+{"name":"林谷影视","type":1,"url":"http://jx.jiaodada.cn/api/?key=eQ15x5H0TbOkANPoNR&url=","t":864,"i":"checkat2021-12-0616:29:06"},
+{"name":"星影相随1","type":1,"url":"https://xt.gbxy.net.cn/api/?key=7gAmfK5typSVsg2Qnr&url=","t":873,"i":"checkat2021-12-0616:27:01"},
+{"name":"柠柚影视1","type":1,"url":"https://xt.gbxy.net.cn/api/?key=7gAmfK5typSVsg2Qnr&url=","t":920,"i":"checkat2021-12-0616:26:51"},
+{"name":"皮皮影视","type":1,"url":"https://fast.rongxingvr.cn:8866/api/?key=2YP5jFSwnsDRCjX5pt&url=","t":968,"i":"checkat2021-12-0616:29:10"},
+{"name":"影阅阁1","type":1,"url":"http://api1.json.vin:4433/api/?key=WPDh6vf0aT0ahepWzW&url=","t":989,"i":"checkat2021-12-0616:29:23"}
   ],
   "flags": [
     "youku",
