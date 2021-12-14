@@ -1,12 +1,11 @@
 {
   "sites": [  
-{"key":"nfzjm_spider","name":"南府追剧(AT)","type":3,"api":"csp_Nfzjm","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"ysgc_spider","name":"影视工厂(V0)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"zjdr_spider","name":"追剧达人(V0)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_YydsAli1","name":"YYDS阿里(SP)","type":3,"api":"csp_YydsAli1","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"rrm_spider","name":"人人迷(免解)","type":3,"api":"csp_Rrm","searchable":1,"quickSearch":1,"filterable":0,"ext":"B9C8093A210EADA1"},
-{"key":"ikan_spider","name":"爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":0,"ext":"A9545C889B5D"},
-
+{"key":"nfzjm_spider","name":"南府","type":3,"api":"csp_Nfzjm","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"ysgc_spider","name":"影視工廠","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"zjdr_spider","name":"追劇達人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_YydsAli1","name":"YYDS(阿里)","type":3,"api":"csp_YydsAli1","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"rrm_spider","name":"人人迷","type":3,"api":"csp_Rrm","searchable":1,"quickSearch":1,"filterable":0,"ext":"B9C8093A210EADA1"},
+{"key":"ikan_spider","name":"愛看","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":0,"ext":"A9545C889B5D"},
      {
       "key": "三零解析",
       "name": "三零解析",
