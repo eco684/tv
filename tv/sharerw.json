@@ -1,25 +1,24 @@
 {
   "sites": [
-		{
-			"key": "喵派蓝光",
-			"name": "喵派蓝光",
-			"type": 0,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"api": "https://maoyingshi-api.tvan.xyz/api.php/provide/vod/at/xml/",
-			"playUrl": "https://vip.aiaine.com/api/?type=app&key=ZoarIooQG8rNvs2lMS&url="
-		},
-		{
-			"key": "雪人官采",
-			"name": "雪人官采",
-			"type": 0,
-			"api": "https://zl.qd234.cn/api.php/provide/vod/at/xml",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playUrl": ""
-		},
+{"key":"人人迷","name":"人人迷","type":0,"searchable":1,"quickSearch":1,"api":"https://koko.renrenmi.cc/api.php/provide/vod/at/xml","playUrl":"https://jiexi.moeamv.com/?url="},
+{"key":"龍騰cms1","name":"龍騰1","type":0,"api":"https://www.mczdyw.com/api.php/provide/vod/at/xml","playUrl":"https://jx5.mgtv.co/m3u8.php?url=","searchable":1,"quickSearch":1},
+{"key":"龍騰cms2","name":"龍騰2","type":1,"api":"http://zycj.cygc.xyz/api.php/provide/vod/","playUrl":"https://vip.aiaine.com/api/?type=app&key=hFgGEvnaJcDrikSn8k&url=","searchable":1,"quickSearch":1},
+{"key":"龍騰hm","name":"龍騰hm","type":1,"api":"https://humaosp.com/mogai_api.php/provide/vod/from/ltnb/","playUrl":"http://150.158.130.238:4435/?url=","searchable":1,"quickSearch":1,"categories":[]},
+{"key":"旋風","name":"旋風","type":1,"api":"https://www.siguyy.com/api.php/provide/vod/from/xfyun/","searchable":1,"quickSearch":1,"playUrl":"https://api.look4you.top/pp/?url="},
+{"key":"1920","name":"1920","type":1,"api":"https://www.kupu.cc/api.php/provide/vod/from/1920l","playUrl":"https://jx5.mgtv.co/m3u8.php?url=","searchable":1,"quickSearch":1},
+{"key":"喵派藍光","name":"喵派藍光(官方專線)","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://maoyingshi-api.tvan.xyz/api.php/provide/vod/at/xml","playUrl":"https://vip.aiaine.com/api/?type=app&key=hFgGEvnaJcDrikSn8k&url="},
+{"key":"雪人官采","name":"雪人官采","type":1,"api":"https://zl.qd234.cn/api.php/provide/vod/","playUrl":"https://play.xkys.tv/?url=","searchable":1,"quickSearch":1,"categories":[]},
+{"key":"椰子資源","name":"椰子資源","type":1,"api":"https://zy.gbxy.net.cn/api.php/provide/vod/","playUrl":"https://jx5.mgtv.co/m3u8.php?url=","searchable":1,"quickSearch":1,"categories":[]},
+{"key":"可樂資源","name":"可樂資源","type":1,"api":"http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/","playUrl":"https://jx5.mgtv.co/m3u8.php?url=","searchable":1,"quickSearch":1,"categories":[]},
+{"key": "雲海","name": "雲海官采","type": 0,"searchable": 1,"quickSearch": 1, "api": "http://101.34.7.151:600/api.php/provide/vod/at/xml","playUrl": "https://play.xkys.tv/?url="},
+{"key":"喵派對官采","name":"喵派對官采","type":1,"api":"https://zy.miao.party/api.php/provide/vod/","playUrl":"https://xrm3u8.qd234.cn/?url=","searchable":1,"quickSearch":1,"categories":[]},
+{"key":"365kancms","name":"365看cms","type":1,"api":"https://www.kan365.xyz/api.php/provide/vod","searchable":1,"quickSearch":1,"playUrl":"https://jiexi.kan365.xyz/?url="},
+{"key":"百度資源","name":"百度資源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
+{"key":"電影牛","name":"電影牛","type":1,"api":"https://www.dianyingn.cc/api.php/provide/vod/from/dbm3u8","playUrl":"https://play.xkys.tv/?url=","categories":[]},
+{"key":"千尋時光","name":"千尋時光","type":1,"api":"http://wy.dqyhg.cn/api.php/provide/vod/","playUrl":"https://play.xkys.tv/?url=","searchable":1,"quickSearch":1,"categories":[]},
+{"key":"BL視頻","name":"BL視頻","type":1,"api":"https://bljiex.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
+{"key":"愛優騰7788","name":"愛優騰7788","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/qiyi/at/xml","playUrl":"https://play.xkys.tv/?url=","searchable":1,"quickSearch":1,"filterable":0},				
+{"key":"愛優騰8090","name":"愛優騰8090","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/at/xml/","playUrl": "https://xrm3u8.qd234.cn/?url=","searchable":1,"quickSearch":1},
 		{
 			"key": "木偶TV",
 			"name": "木偶TV",
@@ -291,6 +290,46 @@
       "name": "B站",
       "url": "https://vip.parwix.com:4433/player/?url="
     },
+		{
+			"name": "貓群專用1",
+			"type": 1,
+			"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1095368&key=cdgjpsuDFLNRTUVY03&url="
+		},
+		{
+			"name": "貓影視群專用2",
+			"type": 0,
+			"url": "https://jx.parwix.com:4433/player/analysis.php?v="
+		},
+		{
+			"name": "貓影視群專用3",
+			"type": 1,
+			"url": "http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="
+		},
+		{
+			"name": "貓影視群專用4",
+			"type": 0,
+			"url": "https://jx.parwix.com:4433/player/?url="
+		},
+		{
+			"name": "貓影視群專用5",
+			"type": 1,
+			"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1285201&key=bcikqtwxyADEGKUX36&url="
+		},
+		{
+			"name": "貓群專用6",
+			"type": 1,
+			"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url="
+		},
+		{
+			"name": "貓群專用7",
+			"type": 1,
+			"url": "https://json.hfyrw.com/mao.go?url="
+		},
+		{
+			"name": "貓群專用8",
+			"type": 1,
+			"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
+		}    
 {"name": "日批","type": 0,"url": "https://jx.ns360.cn/1080/jiexi/?url="},
 {"name": "雲解析","type": 0,"url": "https://jx.aidouer.net/?url="},
 {"name": "大頭","type": 0,"url": "http://api.dsaaa.cn/dmplayer/jxplayer.php?v="},
