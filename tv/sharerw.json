@@ -1,12 +1,12 @@
 {
   "sites": [
-{"key":"人人迷","name":"人人迷","type":0,"searchable":1,"quickSearch":1,"api":"https://koko.renrenmi.cc/api.php/provide/vod/at/xml","playUrl":"https://jiexi.moeamv.com/?url="},
-{"key":"龍騰cms1","name":"龍騰1","type":0,"api":"https://www.mczdyw.com/api.php/provide/vod/at/xml","playUrl":"https://jx5.mgtv.co/m3u8.php?url=","searchable":1,"quickSearch":1},
-{"key":"龍騰cms2","name":"龍騰2","type":1,"api":"http://zycj.cygc.xyz/api.php/provide/vod/","playUrl":"https://vip.aiaine.com/api/?type=app&key=hFgGEvnaJcDrikSn8k&url=","searchable":1,"quickSearch":1},
-{"key":"龍騰hm","name":"龍騰hm","type":1,"api":"https://humaosp.com/mogai_api.php/provide/vod/from/ltnb/","playUrl":"http://150.158.130.238:4435/?url=","searchable":1,"quickSearch":1,"categories":[]},
-{"key":"旋風","name":"旋風","type":1,"api":"https://www.siguyy.com/api.php/provide/vod/from/xfyun/","searchable":1,"quickSearch":1,"playUrl":"https://api.look4you.top/pp/?url="},
-{"key":"1920","name":"1920","type":1,"api":"https://www.kupu.cc/api.php/provide/vod/from/1920l","playUrl":"https://jx5.mgtv.co/m3u8.php?url=","searchable":1,"quickSearch":1},
-{"key":"喵派藍光","name":"喵派藍光(官方專線)","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://maoyingshi-api.tvan.xyz/api.php/provide/vod/at/xml","playUrl":"https://vip.aiaine.com/api/?type=app&key=hFgGEvnaJcDrikSn8k&url="},
+{"key":"人人迷","name":"人人迷","type":0,"searchable":1,"quickSearch":1,"api":"https://koko.renrenmi.cc/api.php/provide/vod/at/xml","playUrl":"https://jx.5imv.net/m3u8.php?url="},
+{"key":"龍騰cms1","name":"龍騰1","type":0,"api":"https://www.mczdyw.com/api.php/provide/vod/at/xml","playUrl":"https://jx.5imv.net/m3u8.php?url=","searchable":1,"quickSearch":1},
+{"key":"龍騰cms2","name":"龍騰2","type":1,"api":"http://zycj.cygc.xyz/api.php/provide/vod/","playUrl":"https://jx.5imv.net/m3u8.php?url=","searchable":1,"quickSearch":1},
+{"key":"龍騰hm","name":"龍騰hm","type":1,"api":"https://humaosp.com/mogai_api.php/provide/vod/from/ltnb/","playUrl":"https://jx.5imv.net/m3u8.php?url=","searchable":1,"quickSearch":1,"categories":[]},
+{"key":"旋風","name":"旋風","type":1,"api":"https://www.siguyy.com/api.php/provide/vod/from/xfyun/","searchable":1,"quickSearch":1,"playUrl":"https://jx.5imv.net/m3u8.php?url="},
+{"key":"1920","name":"1920","type":1,"api":"https://www.kupu.cc/api.php/provide/vod/from/1920l","playUrl":"https://jx.5imv.net/m3u8.php?url=","searchable":1,"quickSearch":1},
+{"key":"喵派藍光","name":"喵派藍光","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://maoyingshi-api.tvan.xyz/api.php/provide/vod/at/xml","playUrl":"https://jx.5imv.net/m3u8.php?url="},
 {"key":"雪人官采","name":"雪人官采","type":1,"api":"https://zl.qd234.cn/api.php/provide/vod/","playUrl":"https://play.xkys.tv/?url=","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"椰子資源","name":"椰子資源","type":1,"api":"https://zy.gbxy.net.cn/api.php/provide/vod/","playUrl":"https://jx5.mgtv.co/m3u8.php?url=","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"可樂資源","name":"可樂資源","type":1,"api":"http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/","playUrl":"https://jx5.mgtv.co/m3u8.php?url=","searchable":1,"quickSearch":1,"categories":[]},
@@ -34,137 +34,24 @@
 		}
   ],
   "lives": [
-    {
-      "group": "自定義",
-      "channels": [
-        {
-          "name": "安徽經視",
-          "urls": [
-            "http://zbbf2.ahtv.cn/live/750.m3u8"
-          ]
-        },        
-        {
-          "name": "安徽人物",
-          "urls": [
-            "http://zbbf2.ahtv.cn/live/da9.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "group": "央視",
-      "channels": [
-        {
-          "name": "CCTV-1",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1",
-          ]
-        },
-        {
-          "name": "CCTV-17",
-          "urls": [
-            "http://39.134.24.24/PLTV/88888888/224/3221225859/index.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "group": "衛視",
-      "channels": [
-        {
-          "name": "安多衛視",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/anduostv/anduostv"
-          ]
-        },
-        {
-          "name": "浙江衛視",
-          "urls": [
-            "http://39.134.24.24/PLTV/88888888/224/3221225642/index.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "group": "NewTV",
-      "channels": [
-        {
-          "name": "NewTV愛情喜劇",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj"
-          ]
-        },
-        {
-          "name": "NewTV中國功夫",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu"
-          ]
-        }
-      ]
-    }
   ],
-  "parses": [
-    {
-      "name": "B站",
-      "url": "https://vip.parwix.com:4433/player/?url="
-    },
-		{
-			"name": "貓1",
-			"type": 1,
-			"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1095368&key=cdgjpsuDFLNRTUVY03&url="
-		},
-		{
-			"name": "貓2",
-			"type": 0,
-			"url": "https://jx.parwix.com:4433/player/analysis.php?v="
-		},
-		{
-			"name": "貓3",
-			"type": 1,
-			"url": "http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="
-		},
-		{
-			"name": "貓4",
-			"type": 0,
-			"url": "https://jx.parwix.com:4433/player/?url="
-		},
-		{
-			"name": "貓5",
-			"type": 1,
-			"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1285201&key=bcikqtwxyADEGKUX36&url="
-		},
-		{
-			"name": "貓6",
-			"type": 1,
-			"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url="
-		},
-		{
-			"name": "貓7",
-			"type": 1,
-			"url": "https://json.hfyrw.com/mao.go?url="
-		},
-		{
-			"name": "貓8",
-			"type": 1,
-			"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
-		},    
-{"name": "日批","type": 0,"url": "https://jx.ns360.cn/1080/jiexi/?url="},
-{"name": "雲解析","type": 0,"url": "https://jx.aidouer.net/?url="},
-{"name": "大頭","type": 0,"url": "http://api.dsaaa.cn/dmplayer/jxplayer.php?v="},
-{"name": "龍騰","type": 0,"url": "https://jx.longtengzy.cn/?url="},
-{"name": "解析la","type": 0,"url": "https://api.jiexi.la/?url="},
-{"name": "cjt521","type": 0,"url": "https://jiexi2.cjt521.com/m3u8/?url="},
-{"name": "播放呀","type": 0,"url": "https://jx.bofangya.com/vip/analysis.php?v="},
-{"name": "OJBK","type": 0,"url": "http://jx.ig4.cn/?url="},
-{"name": "思有云","type": 0,"url": "https://dy.tvkuys.com/?url="},
-{"name": "星空","type": 0,"url": "http://60jx.com/?url="},
-{"name": "vip影院","type": 0,"url": "http://106.52.218.221/rongxing/analysis.php?v="},
-{"name": "888","type": 0,"url": "http://888.cttv.vip/pangu/index.php?url="},
-{"name": "无极","type": 0,"url": "http://jx.03006.top/yywuji322.php?url="},
-{"name": "6D","type": 0,"url": "https://chenluo6.chenluo.org/chenluopg/?url="},
-{"name": "555","type": 0,"url": "https://jx.manduhu.com/?url="},
+  "parses": [  	
+{"name": "uc23","type": 0,"url": "https://dy.tvkuys.com/?url="},
+{"name":"B站","url":"https://vip.parwix.com:4433/player/?url="},
+{"name": "我愛電影","type": 0,"url": "https://jx.5imv.net/m3u8.php?url="},
 {"name": "jx5","type": 0,"url": "https://jx5.mgtv.co/m3u8.php?url="},
-{"name": "易火","type": 0,"url": "https://jx.parwix.com:4433/player/analysis.php?v="}
+{"name":"貓1","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1095368&key=cdgjpsuDFLNRTUVY03&url="},
+{"name":"貓2","type":0,"url":"https://jx.parwix.com:4433/player/analysis.php?v="},
+{"name":"貓3","type":1,"url":"http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="},
+{"name":"貓4","type":0,"url":"https://jx.parwix.com:4433/player/?url="},
+{"name":"貓5","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1285201&key=bcikqtwxyADEGKUX36&url="},
+{"name":"貓6","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url="},
+{"name":"貓8","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
+{"name": "雲解析","type": 0,"url": "https://jx.aidouer.net/?url="},
+{"name": "龍騰","type": 0,"url": "https://jx.longtengzy.cn/?url="},
+{"name": "OJBK","type": 0,"url": "http://jx.ig4.cn/?url="},
+{"name": "vip影院","type": 0,"url": "http://106.52.218.221/rongxing/analysis.php?v="},
+{"name": "ONE","type": 0,"url": "https://zjy.kyfenfa.com/dmplayer/jxplayer.php?v="}
   ],
   "flags": [
     "youku",
